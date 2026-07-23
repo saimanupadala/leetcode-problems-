@@ -12,11 +12,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/saimanupadala/leetcode-problems-/tree/master/0005-longest-palindromic-substring) |
 | [0006-zigzag-conversion](https://github.com/saimanupadala/leetcode-problems-/tree/master/0006-zigzag-conversion) |
 | [0008-string-to-integer-atoi](https://github.com/saimanupadala/leetcode-problems-/tree/master/0008-string-to-integer-atoi) |
+| [0010-regular-expression-matching](https://github.com/saimanupadala/leetcode-problems-/tree/master/0010-regular-expression-matching) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/saimanupadala/leetcode-problems-/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/saimanupadala/leetcode-problems-/tree/master/0005-longest-palindromic-substring) |
+| [0010-regular-expression-matching](https://github.com/saimanupadala/leetcode-problems-/tree/master/0010-regular-expression-matching) |
 ## Math
 |  |
 | ------- |
@@ -31,4 +33,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/saimanupadala/leetcode-problems-/tree/master/0029-divide-two-integers) |
+## Recursion
+|  |
+| ------- |
+| [0010-regular-expression-matching](https://github.com/saimanupadala/leetcode-problems-/tree/master/0010-regular-expression-matching) |
 <!---LeetCode Topics End-->
