@@ -235,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0071-simplify-path](https://github.com/saimanupadala/leetcode-problems-/tree/master/0071-simplify-path) |
 | [0084-largest-rectangle-in-histogram](https://github.com/saimanupadala/leetcode-problems-/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/saimanupadala/leetcode-problems-/tree/master/0085-maximal-rectangle) |
+| [0094-binary-tree-inorder-traversal](https://github.com/saimanupadala/leetcode-problems-/tree/master/0094-binary-tree-inorder-traversal) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -302,4 +303,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0079-word-search](https://github.com/saimanupadala/leetcode-problems-/tree/master/0079-word-search) |
+| [0094-binary-tree-inorder-traversal](https://github.com/saimanupadala/leetcode-problems-/tree/master/0094-binary-tree-inorder-traversal) |
+## Tree
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/saimanupadala/leetcode-problems-/tree/master/0094-binary-tree-inorder-traversal) |
+## Binary Tree
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/saimanupadala/leetcode-problems-/tree/master/0094-binary-tree-inorder-traversal) |
 <!---LeetCode Topics End-->
