@@ -127,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/saimanupadala/leetcode-problems-/tree/master/0078-subsets) |
 | [0089-gray-code](https://github.com/saimanupadala/leetcode-problems-/tree/master/0089-gray-code) |
 | [0090-subsets-ii](https://github.com/saimanupadala/leetcode-problems-/tree/master/0090-subsets-ii) |
+| [0136-single-number](https://github.com/saimanupadala/leetcode-problems-/tree/master/0136-single-number) |
 ## Recursion
 |  |
 | ------- |
@@ -218,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/saimanupadala/leetcode-problems-/tree/master/0130-surrounded-regions) |
 | [0134-gas-station](https://github.com/saimanupadala/leetcode-problems-/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/saimanupadala/leetcode-problems-/tree/master/0135-candy) |
+| [0136-single-number](https://github.com/saimanupadala/leetcode-problems-/tree/master/0136-single-number) |
 | [0140-word-break-ii](https://github.com/saimanupadala/leetcode-problems-/tree/master/0140-word-break-ii) |
 | [0228-summary-ranges](https://github.com/saimanupadala/leetcode-problems-/tree/master/0228-summary-ranges) |
 ## Greedy
