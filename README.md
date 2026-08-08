@@ -217,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/saimanupadala/leetcode-problems-/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/saimanupadala/leetcode-problems-/tree/master/0130-surrounded-regions) |
 | [0134-gas-station](https://github.com/saimanupadala/leetcode-problems-/tree/master/0134-gas-station) |
+| [0135-candy](https://github.com/saimanupadala/leetcode-problems-/tree/master/0135-candy) |
 | [0140-word-break-ii](https://github.com/saimanupadala/leetcode-problems-/tree/master/0140-word-break-ii) |
 | [0228-summary-ranges](https://github.com/saimanupadala/leetcode-problems-/tree/master/0228-summary-ranges) |
 ## Greedy
@@ -228,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/saimanupadala/leetcode-problems-/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/saimanupadala/leetcode-problems-/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0134-gas-station](https://github.com/saimanupadala/leetcode-problems-/tree/master/0134-gas-station) |
+| [0135-candy](https://github.com/saimanupadala/leetcode-problems-/tree/master/0135-candy) |
 ## Trie
 |  |
 | ------- |
