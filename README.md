@@ -248,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/saimanupadala/leetcode-problems-/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/saimanupadala/leetcode-problems-/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/saimanupadala/leetcode-problems-/tree/master/0162-find-peak-element) |
+| [0164-maximum-gap](https://github.com/saimanupadala/leetcode-problems-/tree/master/0164-maximum-gap) |
 | [0228-summary-ranges](https://github.com/saimanupadala/leetcode-problems-/tree/master/0228-summary-ranges) |
 ## Greedy
 |  |
@@ -278,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/saimanupadala/leetcode-problems-/tree/master/0088-merge-sorted-array) |
 | [0147-insertion-sort-list](https://github.com/saimanupadala/leetcode-problems-/tree/master/0147-insertion-sort-list) |
 | [0148-sort-list](https://github.com/saimanupadala/leetcode-problems-/tree/master/0148-sort-list) |
+| [0164-maximum-gap](https://github.com/saimanupadala/leetcode-problems-/tree/master/0164-maximum-gap) |
 ## Backtracking
 |  |
 | ------- |
@@ -572,4 +574,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0149-max-points-on-a-line](https://github.com/saimanupadala/leetcode-problems-/tree/master/0149-max-points-on-a-line) |
+## Bucket Sort
+|  |
+| ------- |
+| [0164-maximum-gap](https://github.com/saimanupadala/leetcode-problems-/tree/master/0164-maximum-gap) |
+## Radix Sort
+|  |
+| ------- |
+| [0164-maximum-gap](https://github.com/saimanupadala/leetcode-problems-/tree/master/0164-maximum-gap) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0164-maximum-gap](https://github.com/saimanupadala/leetcode-problems-/tree/master/0164-maximum-gap) |
 <!---LeetCode Topics End-->
