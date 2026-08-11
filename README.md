@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/saimanupadala/leetcode-problems-/tree/master/0143-reorder-list) |
 | [0148-sort-list](https://github.com/saimanupadala/leetcode-problems-/tree/master/0148-sort-list) |
 | [0151-reverse-words-in-a-string](https://github.com/saimanupadala/leetcode-problems-/tree/master/0151-reverse-words-in-a-string) |
+| [0160-intersection-of-two-linked-lists](https://github.com/saimanupadala/leetcode-problems-/tree/master/0160-intersection-of-two-linked-lists) |
 ## String
 |  |
 | ------- |
@@ -176,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/saimanupadala/leetcode-problems-/tree/master/0142-linked-list-cycle-ii) |
 | [0146-lru-cache](https://github.com/saimanupadala/leetcode-problems-/tree/master/0146-lru-cache) |
 | [0149-max-points-on-a-line](https://github.com/saimanupadala/leetcode-problems-/tree/master/0149-max-points-on-a-line) |
+| [0160-intersection-of-two-linked-lists](https://github.com/saimanupadala/leetcode-problems-/tree/master/0160-intersection-of-two-linked-lists) |
 ## Array
 |  |
 | ------- |
@@ -322,6 +324,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0146-lru-cache](https://github.com/saimanupadala/leetcode-problems-/tree/master/0146-lru-cache) |
 | [0147-insertion-sort-list](https://github.com/saimanupadala/leetcode-problems-/tree/master/0147-insertion-sort-list) |
 | [0148-sort-list](https://github.com/saimanupadala/leetcode-problems-/tree/master/0148-sort-list) |
+| [0160-intersection-of-two-linked-lists](https://github.com/saimanupadala/leetcode-problems-/tree/master/0160-intersection-of-two-linked-lists) |
 ## Stack
 |  |
 | ------- |
