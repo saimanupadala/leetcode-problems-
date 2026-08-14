@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0171-excel-sheet-column-number](https://github.com/saimanupadala/leetcode-problems-/tree/master/0171-excel-sheet-column-number) |
 | [0179-largest-number](https://github.com/saimanupadala/leetcode-problems-/tree/master/0179-largest-number) |
 | [0187-repeated-dna-sequences](https://github.com/saimanupadala/leetcode-problems-/tree/master/0187-repeated-dna-sequences) |
+| [0205-isomorphic-strings](https://github.com/saimanupadala/leetcode-problems-/tree/master/0205-isomorphic-strings) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -207,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/saimanupadala/leetcode-problems-/tree/master/0169-majority-element) |
 | [0187-repeated-dna-sequences](https://github.com/saimanupadala/leetcode-problems-/tree/master/0187-repeated-dna-sequences) |
 | [0202-happy-number](https://github.com/saimanupadala/leetcode-problems-/tree/master/0202-happy-number) |
+| [0205-isomorphic-strings](https://github.com/saimanupadala/leetcode-problems-/tree/master/0205-isomorphic-strings) |
 ## Array
 |  |
 | ------- |
