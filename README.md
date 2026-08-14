@@ -145,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0172-factorial-trailing-zeroes](https://github.com/saimanupadala/leetcode-problems-/tree/master/0172-factorial-trailing-zeroes) |
 | [0189-rotate-array](https://github.com/saimanupadala/leetcode-problems-/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/saimanupadala/leetcode-problems-/tree/master/0202-happy-number) |
+| [0204-count-primes](https://github.com/saimanupadala/leetcode-problems-/tree/master/0204-count-primes) |
 ## String Matching
 |  |
 | ------- |
@@ -285,6 +286,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/saimanupadala/leetcode-problems-/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/saimanupadala/leetcode-problems-/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/saimanupadala/leetcode-problems-/tree/master/0200-number-of-islands) |
+| [0204-count-primes](https://github.com/saimanupadala/leetcode-problems-/tree/master/0204-count-primes) |
 | [0228-summary-ranges](https://github.com/saimanupadala/leetcode-problems-/tree/master/0228-summary-ranges) |
 ## Greedy
 |  |
@@ -689,4 +691,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/saimanupadala/leetcode-problems-/tree/master/0187-repeated-dna-sequences) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/saimanupadala/leetcode-problems-/tree/master/0204-count-primes) |
+## Number Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/saimanupadala/leetcode-problems-/tree/master/0204-count-primes) |
+## Primality Test
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/saimanupadala/leetcode-problems-/tree/master/0204-count-primes) |
+## Sieve Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/saimanupadala/leetcode-problems-/tree/master/0204-count-primes) |
+## Prime Number Sieve
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/saimanupadala/leetcode-problems-/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
