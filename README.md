@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0165-compare-version-numbers](https://github.com/saimanupadala/leetcode-problems-/tree/master/0165-compare-version-numbers) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/saimanupadala/leetcode-problems-/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/saimanupadala/leetcode-problems-/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/saimanupadala/leetcode-problems-/tree/master/0202-happy-number) |
 ## String
 |  |
 | ------- |
@@ -143,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0171-excel-sheet-column-number](https://github.com/saimanupadala/leetcode-problems-/tree/master/0171-excel-sheet-column-number) |
 | [0172-factorial-trailing-zeroes](https://github.com/saimanupadala/leetcode-problems-/tree/master/0172-factorial-trailing-zeroes) |
 | [0189-rotate-array](https://github.com/saimanupadala/leetcode-problems-/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/saimanupadala/leetcode-problems-/tree/master/0202-happy-number) |
 ## String Matching
 |  |
 | ------- |
@@ -202,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0166-fraction-to-recurring-decimal](https://github.com/saimanupadala/leetcode-problems-/tree/master/0166-fraction-to-recurring-decimal) |
 | [0169-majority-element](https://github.com/saimanupadala/leetcode-problems-/tree/master/0169-majority-element) |
 | [0187-repeated-dna-sequences](https://github.com/saimanupadala/leetcode-problems-/tree/master/0187-repeated-dna-sequences) |
+| [0202-happy-number](https://github.com/saimanupadala/leetcode-problems-/tree/master/0202-happy-number) |
 ## Array
 |  |
 | ------- |
@@ -592,6 +595,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0141-linked-list-cycle](https://github.com/saimanupadala/leetcode-problems-/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/saimanupadala/leetcode-problems-/tree/master/0142-linked-list-cycle-ii) |
+| [0202-happy-number](https://github.com/saimanupadala/leetcode-problems-/tree/master/0202-happy-number) |
 ## Union-Find
 |  |
 | ------- |
