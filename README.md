@@ -153,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/saimanupadala/leetcode-problems-/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/saimanupadala/leetcode-problems-/tree/master/0202-happy-number) |
 | [0204-count-primes](https://github.com/saimanupadala/leetcode-problems-/tree/master/0204-count-primes) |
+| [0223-rectangle-area](https://github.com/saimanupadala/leetcode-problems-/tree/master/0223-rectangle-area) |
 ## String Matching
 |  |
 | ------- |
@@ -680,6 +681,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0149-max-points-on-a-line](https://github.com/saimanupadala/leetcode-problems-/tree/master/0149-max-points-on-a-line) |
+| [0223-rectangle-area](https://github.com/saimanupadala/leetcode-problems-/tree/master/0223-rectangle-area) |
 ## Euclidean Algorithm
 |  |
 | ------- |
