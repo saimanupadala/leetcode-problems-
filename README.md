@@ -218,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/saimanupadala/leetcode-problems-/tree/master/0205-isomorphic-strings) |
 | [0208-implement-trie-prefix-tree](https://github.com/saimanupadala/leetcode-problems-/tree/master/0208-implement-trie-prefix-tree) |
 | [0217-contains-duplicate](https://github.com/saimanupadala/leetcode-problems-/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/saimanupadala/leetcode-problems-/tree/master/0219-contains-duplicate-ii) |
 ## Array
 |  |
 | ------- |
@@ -304,6 +305,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0216-combination-sum-iii](https://github.com/saimanupadala/leetcode-problems-/tree/master/0216-combination-sum-iii) |
 | [0217-contains-duplicate](https://github.com/saimanupadala/leetcode-problems-/tree/master/0217-contains-duplicate) |
 | [0218-the-skyline-problem](https://github.com/saimanupadala/leetcode-problems-/tree/master/0218-the-skyline-problem) |
+| [0219-contains-duplicate-ii](https://github.com/saimanupadala/leetcode-problems-/tree/master/0219-contains-duplicate-ii) |
 | [0228-summary-ranges](https://github.com/saimanupadala/leetcode-problems-/tree/master/0228-summary-ranges) |
 ## Greedy
 |  |
@@ -443,6 +445,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/saimanupadala/leetcode-problems-/tree/master/0076-minimum-window-substring) |
 | [0187-repeated-dna-sequences](https://github.com/saimanupadala/leetcode-problems-/tree/master/0187-repeated-dna-sequences) |
 | [0209-minimum-size-subarray-sum](https://github.com/saimanupadala/leetcode-problems-/tree/master/0209-minimum-size-subarray-sum) |
+| [0219-contains-duplicate-ii](https://github.com/saimanupadala/leetcode-problems-/tree/master/0219-contains-duplicate-ii) |
 ## Binary Search
 |  |
 | ------- |
