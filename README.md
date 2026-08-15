@@ -217,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/saimanupadala/leetcode-problems-/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/saimanupadala/leetcode-problems-/tree/master/0205-isomorphic-strings) |
 | [0208-implement-trie-prefix-tree](https://github.com/saimanupadala/leetcode-problems-/tree/master/0208-implement-trie-prefix-tree) |
+| [0217-contains-duplicate](https://github.com/saimanupadala/leetcode-problems-/tree/master/0217-contains-duplicate) |
 ## Array
 |  |
 | ------- |
@@ -301,6 +302,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0212-word-search-ii](https://github.com/saimanupadala/leetcode-problems-/tree/master/0212-word-search-ii) |
 | [0213-house-robber-ii](https://github.com/saimanupadala/leetcode-problems-/tree/master/0213-house-robber-ii) |
 | [0216-combination-sum-iii](https://github.com/saimanupadala/leetcode-problems-/tree/master/0216-combination-sum-iii) |
+| [0217-contains-duplicate](https://github.com/saimanupadala/leetcode-problems-/tree/master/0217-contains-duplicate) |
 | [0228-summary-ranges](https://github.com/saimanupadala/leetcode-problems-/tree/master/0228-summary-ranges) |
 ## Greedy
 |  |
@@ -338,6 +340,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0164-maximum-gap](https://github.com/saimanupadala/leetcode-problems-/tree/master/0164-maximum-gap) |
 | [0169-majority-element](https://github.com/saimanupadala/leetcode-problems-/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/saimanupadala/leetcode-problems-/tree/master/0179-largest-number) |
+| [0217-contains-duplicate](https://github.com/saimanupadala/leetcode-problems-/tree/master/0217-contains-duplicate) |
 ## Backtracking
 |  |
 | ------- |
