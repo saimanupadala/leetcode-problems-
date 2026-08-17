@@ -326,6 +326,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/saimanupadala/leetcode-problems-/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/saimanupadala/leetcode-problems-/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/saimanupadala/leetcode-problems-/tree/master/0239-sliding-window-maximum) |
+| [0240-search-a-2d-matrix-ii](https://github.com/saimanupadala/leetcode-problems-/tree/master/0240-search-a-2d-matrix-ii) |
 ## Greedy
 |  |
 | ------- |
@@ -456,6 +457,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0190-reverse-bits](https://github.com/saimanupadala/leetcode-problems-/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/saimanupadala/leetcode-problems-/tree/master/0191-number-of-1-bits) |
 | [0218-the-skyline-problem](https://github.com/saimanupadala/leetcode-problems-/tree/master/0218-the-skyline-problem) |
+| [0240-search-a-2d-matrix-ii](https://github.com/saimanupadala/leetcode-problems-/tree/master/0240-search-a-2d-matrix-ii) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -492,6 +494,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/saimanupadala/leetcode-problems-/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/saimanupadala/leetcode-problems-/tree/master/0209-minimum-size-subarray-sum) |
 | [0222-count-complete-tree-nodes](https://github.com/saimanupadala/leetcode-problems-/tree/master/0222-count-complete-tree-nodes) |
+| [0240-search-a-2d-matrix-ii](https://github.com/saimanupadala/leetcode-problems-/tree/master/0240-search-a-2d-matrix-ii) |
 ## Matrix
 |  |
 | ------- |
@@ -511,6 +514,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/saimanupadala/leetcode-problems-/tree/master/0200-number-of-islands) |
 | [0212-word-search-ii](https://github.com/saimanupadala/leetcode-problems-/tree/master/0212-word-search-ii) |
 | [0221-maximal-square](https://github.com/saimanupadala/leetcode-problems-/tree/master/0221-maximal-square) |
+| [0240-search-a-2d-matrix-ii](https://github.com/saimanupadala/leetcode-problems-/tree/master/0240-search-a-2d-matrix-ii) |
 ## Monotonic Stack
 |  |
 | ------- |
