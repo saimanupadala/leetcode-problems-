@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0224-basic-calculator](https://github.com/saimanupadala/leetcode-problems-/tree/master/0224-basic-calculator) |
 | [0227-basic-calculator-ii](https://github.com/saimanupadala/leetcode-problems-/tree/master/0227-basic-calculator-ii) |
 | [0241-different-ways-to-add-parentheses](https://github.com/saimanupadala/leetcode-problems-/tree/master/0241-different-ways-to-add-parentheses) |
+| [0242-valid-anagram](https://github.com/saimanupadala/leetcode-problems-/tree/master/0242-valid-anagram) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -237,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/saimanupadala/leetcode-problems-/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/saimanupadala/leetcode-problems-/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/saimanupadala/leetcode-problems-/tree/master/0229-majority-element-ii) |
+| [0242-valid-anagram](https://github.com/saimanupadala/leetcode-problems-/tree/master/0242-valid-anagram) |
 ## Array
 |  |
 | ------- |
@@ -371,6 +373,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0218-the-skyline-problem](https://github.com/saimanupadala/leetcode-problems-/tree/master/0218-the-skyline-problem) |
 | [0220-contains-duplicate-iii](https://github.com/saimanupadala/leetcode-problems-/tree/master/0220-contains-duplicate-iii) |
 | [0229-majority-element-ii](https://github.com/saimanupadala/leetcode-problems-/tree/master/0229-majority-element-ii) |
+| [0242-valid-anagram](https://github.com/saimanupadala/leetcode-problems-/tree/master/0242-valid-anagram) |
 ## Backtracking
 |  |
 | ------- |
