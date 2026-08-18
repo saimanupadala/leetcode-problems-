@@ -166,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0227-basic-calculator-ii](https://github.com/saimanupadala/leetcode-problems-/tree/master/0227-basic-calculator-ii) |
 | [0233-number-of-digit-one](https://github.com/saimanupadala/leetcode-problems-/tree/master/0233-number-of-digit-one) |
 | [0241-different-ways-to-add-parentheses](https://github.com/saimanupadala/leetcode-problems-/tree/master/0241-different-ways-to-add-parentheses) |
+| [0258-add-digits](https://github.com/saimanupadala/leetcode-problems-/tree/master/0258-add-digits) |
 ## String Matching
 |  |
 | ------- |
@@ -538,6 +539,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0059-spiral-matrix-ii](https://github.com/saimanupadala/leetcode-problems-/tree/master/0059-spiral-matrix-ii) |
 | [0067-add-binary](https://github.com/saimanupadala/leetcode-problems-/tree/master/0067-add-binary) |
 | [0068-text-justification](https://github.com/saimanupadala/leetcode-problems-/tree/master/0068-text-justification) |
+| [0258-add-digits](https://github.com/saimanupadala/leetcode-problems-/tree/master/0258-add-digits) |
 ## Combinatorics
 |  |
 | ------- |
@@ -817,6 +819,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/saimanupadala/leetcode-problems-/tree/master/0204-count-primes) |
+| [0258-add-digits](https://github.com/saimanupadala/leetcode-problems-/tree/master/0258-add-digits) |
 ## Primality Test
 |  |
 | ------- |
