@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/saimanupadala/leetcode-problems-/tree/master/0242-valid-anagram) |
 | [0257-binary-tree-paths](https://github.com/saimanupadala/leetcode-problems-/tree/master/0257-binary-tree-paths) |
 | [0273-integer-to-english-words](https://github.com/saimanupadala/leetcode-problems-/tree/master/0273-integer-to-english-words) |
+| [0282-expression-add-operators](https://github.com/saimanupadala/leetcode-problems-/tree/master/0282-expression-add-operators) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -175,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/saimanupadala/leetcode-problems-/tree/master/0268-missing-number) |
 | [0273-integer-to-english-words](https://github.com/saimanupadala/leetcode-problems-/tree/master/0273-integer-to-english-words) |
 | [0279-perfect-squares](https://github.com/saimanupadala/leetcode-problems-/tree/master/0279-perfect-squares) |
+| [0282-expression-add-operators](https://github.com/saimanupadala/leetcode-problems-/tree/master/0282-expression-add-operators) |
 ## String Matching
 |  |
 | ------- |
@@ -421,6 +423,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0212-word-search-ii](https://github.com/saimanupadala/leetcode-problems-/tree/master/0212-word-search-ii) |
 | [0216-combination-sum-iii](https://github.com/saimanupadala/leetcode-problems-/tree/master/0216-combination-sum-iii) |
 | [0257-binary-tree-paths](https://github.com/saimanupadala/leetcode-problems-/tree/master/0257-binary-tree-paths) |
+| [0282-expression-add-operators](https://github.com/saimanupadala/leetcode-problems-/tree/master/0282-expression-add-operators) |
 ## Linked List
 |  |
 | ------- |
