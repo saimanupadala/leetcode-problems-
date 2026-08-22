@@ -170,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/saimanupadala/leetcode-problems-/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/saimanupadala/leetcode-problems-/tree/master/0263-ugly-number) |
 | [0264-ugly-number-ii](https://github.com/saimanupadala/leetcode-problems-/tree/master/0264-ugly-number-ii) |
+| [0268-missing-number](https://github.com/saimanupadala/leetcode-problems-/tree/master/0268-missing-number) |
 ## String Matching
 |  |
 | ------- |
@@ -191,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0201-bitwise-and-of-numbers-range](https://github.com/saimanupadala/leetcode-problems-/tree/master/0201-bitwise-and-of-numbers-range) |
 | [0222-count-complete-tree-nodes](https://github.com/saimanupadala/leetcode-problems-/tree/master/0222-count-complete-tree-nodes) |
 | [0260-single-number-iii](https://github.com/saimanupadala/leetcode-problems-/tree/master/0260-single-number-iii) |
+| [0268-missing-number](https://github.com/saimanupadala/leetcode-problems-/tree/master/0268-missing-number) |
 ## Recursion
 |  |
 | ------- |
@@ -246,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/saimanupadala/leetcode-problems-/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/saimanupadala/leetcode-problems-/tree/master/0242-valid-anagram) |
 | [0264-ugly-number-ii](https://github.com/saimanupadala/leetcode-problems-/tree/master/0264-ugly-number-ii) |
+| [0268-missing-number](https://github.com/saimanupadala/leetcode-problems-/tree/master/0268-missing-number) |
 ## Array
 |  |
 | ------- |
@@ -341,6 +344,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/saimanupadala/leetcode-problems-/tree/master/0239-sliding-window-maximum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/saimanupadala/leetcode-problems-/tree/master/0240-search-a-2d-matrix-ii) |
 | [0260-single-number-iii](https://github.com/saimanupadala/leetcode-problems-/tree/master/0260-single-number-iii) |
+| [0268-missing-number](https://github.com/saimanupadala/leetcode-problems-/tree/master/0268-missing-number) |
 ## Greedy
 |  |
 | ------- |
@@ -382,6 +386,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0220-contains-duplicate-iii](https://github.com/saimanupadala/leetcode-problems-/tree/master/0220-contains-duplicate-iii) |
 | [0229-majority-element-ii](https://github.com/saimanupadala/leetcode-problems-/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/saimanupadala/leetcode-problems-/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/saimanupadala/leetcode-problems-/tree/master/0268-missing-number) |
 ## Backtracking
 |  |
 | ------- |
@@ -512,6 +517,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/saimanupadala/leetcode-problems-/tree/master/0209-minimum-size-subarray-sum) |
 | [0222-count-complete-tree-nodes](https://github.com/saimanupadala/leetcode-problems-/tree/master/0222-count-complete-tree-nodes) |
 | [0240-search-a-2d-matrix-ii](https://github.com/saimanupadala/leetcode-problems-/tree/master/0240-search-a-2d-matrix-ii) |
+| [0268-missing-number](https://github.com/saimanupadala/leetcode-problems-/tree/master/0268-missing-number) |
 ## Matrix
 |  |
 | ------- |
