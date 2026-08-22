@@ -133,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0221-maximal-square](https://github.com/saimanupadala/leetcode-problems-/tree/master/0221-maximal-square) |
 | [0233-number-of-digit-one](https://github.com/saimanupadala/leetcode-problems-/tree/master/0233-number-of-digit-one) |
 | [0241-different-ways-to-add-parentheses](https://github.com/saimanupadala/leetcode-problems-/tree/master/0241-different-ways-to-add-parentheses) |
+| [0264-ugly-number-ii](https://github.com/saimanupadala/leetcode-problems-/tree/master/0264-ugly-number-ii) |
 ## Math
 |  |
 | ------- |
@@ -168,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0241-different-ways-to-add-parentheses](https://github.com/saimanupadala/leetcode-problems-/tree/master/0241-different-ways-to-add-parentheses) |
 | [0258-add-digits](https://github.com/saimanupadala/leetcode-problems-/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/saimanupadala/leetcode-problems-/tree/master/0263-ugly-number) |
+| [0264-ugly-number-ii](https://github.com/saimanupadala/leetcode-problems-/tree/master/0264-ugly-number-ii) |
 ## String Matching
 |  |
 | ------- |
@@ -243,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/saimanupadala/leetcode-problems-/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/saimanupadala/leetcode-problems-/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/saimanupadala/leetcode-problems-/tree/master/0242-valid-anagram) |
+| [0264-ugly-number-ii](https://github.com/saimanupadala/leetcode-problems-/tree/master/0264-ugly-number-ii) |
 ## Array
 |  |
 | ------- |
@@ -477,6 +480,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0023-merge-k-sorted-lists](https://github.com/saimanupadala/leetcode-problems-/tree/master/0023-merge-k-sorted-lists) |
 | [0218-the-skyline-problem](https://github.com/saimanupadala/leetcode-problems-/tree/master/0218-the-skyline-problem) |
 | [0239-sliding-window-maximum](https://github.com/saimanupadala/leetcode-problems-/tree/master/0239-sliding-window-maximum) |
+| [0264-ugly-number-ii](https://github.com/saimanupadala/leetcode-problems-/tree/master/0264-ugly-number-ii) |
 ## Merge Sort
 |  |
 | ------- |
