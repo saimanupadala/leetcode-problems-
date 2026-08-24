@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0282-expression-add-operators](https://github.com/saimanupadala/leetcode-problems-/tree/master/0282-expression-add-operators) |
 | [0290-word-pattern](https://github.com/saimanupadala/leetcode-problems-/tree/master/0290-word-pattern) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/saimanupadala/leetcode-problems-/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0299-bulls-and-cows](https://github.com/saimanupadala/leetcode-problems-/tree/master/0299-bulls-and-cows) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -264,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0264-ugly-number-ii](https://github.com/saimanupadala/leetcode-problems-/tree/master/0264-ugly-number-ii) |
 | [0268-missing-number](https://github.com/saimanupadala/leetcode-problems-/tree/master/0268-missing-number) |
 | [0290-word-pattern](https://github.com/saimanupadala/leetcode-problems-/tree/master/0290-word-pattern) |
+| [0299-bulls-and-cows](https://github.com/saimanupadala/leetcode-problems-/tree/master/0299-bulls-and-cows) |
 ## Array
 |  |
 | ------- |
@@ -821,6 +823,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/saimanupadala/leetcode-problems-/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/saimanupadala/leetcode-problems-/tree/master/0229-majority-element-ii) |
+| [0299-bulls-and-cows](https://github.com/saimanupadala/leetcode-problems-/tree/master/0299-bulls-and-cows) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
