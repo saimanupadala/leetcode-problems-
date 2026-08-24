@@ -356,6 +356,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0274-h-index](https://github.com/saimanupadala/leetcode-problems-/tree/master/0274-h-index) |
 | [0275-h-index-ii](https://github.com/saimanupadala/leetcode-problems-/tree/master/0275-h-index-ii) |
 | [0283-move-zeroes](https://github.com/saimanupadala/leetcode-problems-/tree/master/0283-move-zeroes) |
+| [0284-peeking-iterator](https://github.com/saimanupadala/leetcode-problems-/tree/master/0284-peeking-iterator) |
 ## Greedy
 |  |
 | ------- |
@@ -762,6 +763,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0211-design-add-and-search-words-data-structure](https://github.com/saimanupadala/leetcode-problems-/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0225-implement-stack-using-queues](https://github.com/saimanupadala/leetcode-problems-/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/saimanupadala/leetcode-problems-/tree/master/0232-implement-queue-using-stacks) |
+| [0284-peeking-iterator](https://github.com/saimanupadala/leetcode-problems-/tree/master/0284-peeking-iterator) |
 ## Doubly-Linked List
 |  |
 | ------- |
@@ -806,6 +808,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0173-binary-search-tree-iterator](https://github.com/saimanupadala/leetcode-problems-/tree/master/0173-binary-search-tree-iterator) |
+| [0284-peeking-iterator](https://github.com/saimanupadala/leetcode-problems-/tree/master/0284-peeking-iterator) |
 ## Database
 |  |
 | ------- |
