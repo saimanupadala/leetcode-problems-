@@ -204,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0319-bulb-switcher](https://github.com/saimanupadala/leetcode-problems-/tree/master/0319-bulb-switcher) |
 | [0326-power-of-three](https://github.com/saimanupadala/leetcode-problems-/tree/master/0326-power-of-three) |
 | [0335-self-crossing](https://github.com/saimanupadala/leetcode-problems-/tree/master/0335-self-crossing) |
+| [0342-power-of-four](https://github.com/saimanupadala/leetcode-problems-/tree/master/0342-power-of-four) |
 ## String Matching
 |  |
 | ------- |
@@ -229,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/saimanupadala/leetcode-problems-/tree/master/0287-find-the-duplicate-number) |
 | [0318-maximum-product-of-word-lengths](https://github.com/saimanupadala/leetcode-problems-/tree/master/0318-maximum-product-of-word-lengths) |
 | [0338-counting-bits](https://github.com/saimanupadala/leetcode-problems-/tree/master/0338-counting-bits) |
+| [0342-power-of-four](https://github.com/saimanupadala/leetcode-problems-/tree/master/0342-power-of-four) |
 ## Recursion
 |  |
 | ------- |
@@ -248,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0241-different-ways-to-add-parentheses](https://github.com/saimanupadala/leetcode-problems-/tree/master/0241-different-ways-to-add-parentheses) |
 | [0273-integer-to-english-words](https://github.com/saimanupadala/leetcode-problems-/tree/master/0273-integer-to-english-words) |
 | [0326-power-of-three](https://github.com/saimanupadala/leetcode-problems-/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/saimanupadala/leetcode-problems-/tree/master/0342-power-of-four) |
 ## Hash Table
 |  |
 | ------- |
