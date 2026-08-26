@@ -153,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0312-burst-balloons](https://github.com/saimanupadala/leetcode-problems-/tree/master/0312-burst-balloons) |
 | [0313-super-ugly-number](https://github.com/saimanupadala/leetcode-problems-/tree/master/0313-super-ugly-number) |
 | [0322-coin-change](https://github.com/saimanupadala/leetcode-problems-/tree/master/0322-coin-change) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/saimanupadala/leetcode-problems-/tree/master/0329-longest-increasing-path-in-a-matrix) |
 ## Math
 |  |
 | ------- |
@@ -396,6 +397,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/saimanupadala/leetcode-problems-/tree/master/0322-coin-change) |
 | [0324-wiggle-sort-ii](https://github.com/saimanupadala/leetcode-problems-/tree/master/0324-wiggle-sort-ii) |
 | [0327-count-of-range-sum](https://github.com/saimanupadala/leetcode-problems-/tree/master/0327-count-of-range-sum) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/saimanupadala/leetcode-problems-/tree/master/0329-longest-increasing-path-in-a-matrix) |
 ## Greedy
 |  |
 | ------- |
@@ -616,6 +618,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/saimanupadala/leetcode-problems-/tree/master/0240-search-a-2d-matrix-ii) |
 | [0289-game-of-life](https://github.com/saimanupadala/leetcode-problems-/tree/master/0289-game-of-life) |
 | [0304-range-sum-query-2d-immutable](https://github.com/saimanupadala/leetcode-problems-/tree/master/0304-range-sum-query-2d-immutable) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/saimanupadala/leetcode-problems-/tree/master/0329-longest-increasing-path-in-a-matrix) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -645,6 +648,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/saimanupadala/leetcode-problems-/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/saimanupadala/leetcode-problems-/tree/master/0140-word-break-ii) |
 | [0241-different-ways-to-add-parentheses](https://github.com/saimanupadala/leetcode-problems-/tree/master/0241-different-ways-to-add-parentheses) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/saimanupadala/leetcode-problems-/tree/master/0329-longest-increasing-path-in-a-matrix) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -680,6 +684,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0257-binary-tree-paths](https://github.com/saimanupadala/leetcode-problems-/tree/master/0257-binary-tree-paths) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/saimanupadala/leetcode-problems-/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0310-minimum-height-trees](https://github.com/saimanupadala/leetcode-problems-/tree/master/0310-minimum-height-trees) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/saimanupadala/leetcode-problems-/tree/master/0329-longest-increasing-path-in-a-matrix) |
 ## Tree
 |  |
 | ------- |
@@ -795,6 +800,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0301-remove-invalid-parentheses](https://github.com/saimanupadala/leetcode-problems-/tree/master/0301-remove-invalid-parentheses) |
 | [0310-minimum-height-trees](https://github.com/saimanupadala/leetcode-problems-/tree/master/0310-minimum-height-trees) |
 | [0322-coin-change](https://github.com/saimanupadala/leetcode-problems-/tree/master/0322-coin-change) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/saimanupadala/leetcode-problems-/tree/master/0329-longest-increasing-path-in-a-matrix) |
 ## DP on Trees
 |  |
 | ------- |
@@ -824,6 +830,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/saimanupadala/leetcode-problems-/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/saimanupadala/leetcode-problems-/tree/master/0210-course-schedule-ii) |
 | [0310-minimum-height-trees](https://github.com/saimanupadala/leetcode-problems-/tree/master/0310-minimum-height-trees) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/saimanupadala/leetcode-problems-/tree/master/0329-longest-increasing-path-in-a-matrix) |
 ## Brute-Force Search
 |  |
 | ------- |
@@ -953,10 +960,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/saimanupadala/leetcode-problems-/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/saimanupadala/leetcode-problems-/tree/master/0210-course-schedule-ii) |
 | [0310-minimum-height-trees](https://github.com/saimanupadala/leetcode-problems-/tree/master/0310-minimum-height-trees) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/saimanupadala/leetcode-problems-/tree/master/0329-longest-increasing-path-in-a-matrix) |
 ## Directed Acyclic Graph
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/saimanupadala/leetcode-problems-/tree/master/0207-course-schedule) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/saimanupadala/leetcode-problems-/tree/master/0329-longest-increasing-path-in-a-matrix) |
 ## Prefix Sum
 |  |
 | ------- |
