@@ -159,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/saimanupadala/leetcode-problems-/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0337-house-robber-iii](https://github.com/saimanupadala/leetcode-problems-/tree/master/0337-house-robber-iii) |
 | [0338-counting-bits](https://github.com/saimanupadala/leetcode-problems-/tree/master/0338-counting-bits) |
+| [0343-integer-break](https://github.com/saimanupadala/leetcode-problems-/tree/master/0343-integer-break) |
 ## Math
 |  |
 | ------- |
@@ -205,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/saimanupadala/leetcode-problems-/tree/master/0326-power-of-three) |
 | [0335-self-crossing](https://github.com/saimanupadala/leetcode-problems-/tree/master/0335-self-crossing) |
 | [0342-power-of-four](https://github.com/saimanupadala/leetcode-problems-/tree/master/0342-power-of-four) |
+| [0343-integer-break](https://github.com/saimanupadala/leetcode-problems-/tree/master/0343-integer-break) |
 ## String Matching
 |  |
 | ------- |
