@@ -196,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0292-nim-game](https://github.com/saimanupadala/leetcode-problems-/tree/master/0292-nim-game) |
 | [0313-super-ugly-number](https://github.com/saimanupadala/leetcode-problems-/tree/master/0313-super-ugly-number) |
 | [0319-bulb-switcher](https://github.com/saimanupadala/leetcode-problems-/tree/master/0319-bulb-switcher) |
+| [0326-power-of-three](https://github.com/saimanupadala/leetcode-problems-/tree/master/0326-power-of-three) |
 ## String Matching
 |  |
 | ------- |
@@ -238,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/saimanupadala/leetcode-problems-/tree/master/0234-palindrome-linked-list) |
 | [0241-different-ways-to-add-parentheses](https://github.com/saimanupadala/leetcode-problems-/tree/master/0241-different-ways-to-add-parentheses) |
 | [0273-integer-to-english-words](https://github.com/saimanupadala/leetcode-problems-/tree/master/0273-integer-to-english-words) |
+| [0326-power-of-three](https://github.com/saimanupadala/leetcode-problems-/tree/master/0326-power-of-three) |
 ## Hash Table
 |  |
 | ------- |
