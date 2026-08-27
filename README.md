@@ -216,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/saimanupadala/leetcode-problems-/tree/master/0342-power-of-four) |
 | [0343-integer-break](https://github.com/saimanupadala/leetcode-problems-/tree/master/0343-integer-break) |
 | [0357-count-numbers-with-unique-digits](https://github.com/saimanupadala/leetcode-problems-/tree/master/0357-count-numbers-with-unique-digits) |
+| [0365-water-and-jug-problem](https://github.com/saimanupadala/leetcode-problems-/tree/master/0365-water-and-jug-problem) |
 ## String Matching
 |  |
 | ------- |
@@ -747,6 +748,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0332-reconstruct-itinerary](https://github.com/saimanupadala/leetcode-problems-/tree/master/0332-reconstruct-itinerary) |
 | [0337-house-robber-iii](https://github.com/saimanupadala/leetcode-problems-/tree/master/0337-house-robber-iii) |
 | [0341-flatten-nested-list-iterator](https://github.com/saimanupadala/leetcode-problems-/tree/master/0341-flatten-nested-list-iterator) |
+| [0365-water-and-jug-problem](https://github.com/saimanupadala/leetcode-problems-/tree/master/0365-water-and-jug-problem) |
 ## Tree
 |  |
 | ------- |
@@ -868,6 +870,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0310-minimum-height-trees](https://github.com/saimanupadala/leetcode-problems-/tree/master/0310-minimum-height-trees) |
 | [0322-coin-change](https://github.com/saimanupadala/leetcode-problems-/tree/master/0322-coin-change) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/saimanupadala/leetcode-problems-/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [0365-water-and-jug-problem](https://github.com/saimanupadala/leetcode-problems-/tree/master/0365-water-and-jug-problem) |
 ## DP on Trees
 |  |
 | ------- |
@@ -938,10 +941,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0149-max-points-on-a-line](https://github.com/saimanupadala/leetcode-problems-/tree/master/0149-max-points-on-a-line) |
+| [0365-water-and-jug-problem](https://github.com/saimanupadala/leetcode-problems-/tree/master/0365-water-and-jug-problem) |
 ## Greatest Common Divisor
 |  |
 | ------- |
 | [0149-max-points-on-a-line](https://github.com/saimanupadala/leetcode-problems-/tree/master/0149-max-points-on-a-line) |
+| [0365-water-and-jug-problem](https://github.com/saimanupadala/leetcode-problems-/tree/master/0365-water-and-jug-problem) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -1192,4 +1197,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0332-reconstruct-itinerary](https://github.com/saimanupadala/leetcode-problems-/tree/master/0332-reconstruct-itinerary) |
+## Bézout's Lemma
+|  |
+| ------- |
+| [0365-water-and-jug-problem](https://github.com/saimanupadala/leetcode-problems-/tree/master/0365-water-and-jug-problem) |
+## Extended Euclidean Algorithm
+|  |
+| ------- |
+| [0365-water-and-jug-problem](https://github.com/saimanupadala/leetcode-problems-/tree/master/0365-water-and-jug-problem) |
 <!---LeetCode Topics End-->
