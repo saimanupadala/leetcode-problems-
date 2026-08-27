@@ -299,6 +299,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0290-word-pattern](https://github.com/saimanupadala/leetcode-problems-/tree/master/0290-word-pattern) |
 | [0299-bulls-and-cows](https://github.com/saimanupadala/leetcode-problems-/tree/master/0299-bulls-and-cows) |
 | [0336-palindrome-pairs](https://github.com/saimanupadala/leetcode-problems-/tree/master/0336-palindrome-pairs) |
+| [0347-top-k-frequent-elements](https://github.com/saimanupadala/leetcode-problems-/tree/master/0347-top-k-frequent-elements) |
 ## Array
 |  |
 | ------- |
@@ -420,6 +421,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0334-increasing-triplet-subsequence](https://github.com/saimanupadala/leetcode-problems-/tree/master/0334-increasing-triplet-subsequence) |
 | [0335-self-crossing](https://github.com/saimanupadala/leetcode-problems-/tree/master/0335-self-crossing) |
 | [0336-palindrome-pairs](https://github.com/saimanupadala/leetcode-problems-/tree/master/0336-palindrome-pairs) |
+| [0347-top-k-frequent-elements](https://github.com/saimanupadala/leetcode-problems-/tree/master/0347-top-k-frequent-elements) |
 ## Greedy
 |  |
 | ------- |
@@ -472,6 +474,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0295-find-median-from-data-stream](https://github.com/saimanupadala/leetcode-problems-/tree/master/0295-find-median-from-data-stream) |
 | [0324-wiggle-sort-ii](https://github.com/saimanupadala/leetcode-problems-/tree/master/0324-wiggle-sort-ii) |
 | [0332-reconstruct-itinerary](https://github.com/saimanupadala/leetcode-problems-/tree/master/0332-reconstruct-itinerary) |
+| [0347-top-k-frequent-elements](https://github.com/saimanupadala/leetcode-problems-/tree/master/0347-top-k-frequent-elements) |
 ## Backtracking
 |  |
 | ------- |
@@ -576,6 +579,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0315-count-of-smaller-numbers-after-self](https://github.com/saimanupadala/leetcode-problems-/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0324-wiggle-sort-ii](https://github.com/saimanupadala/leetcode-problems-/tree/master/0324-wiggle-sort-ii) |
 | [0327-count-of-range-sum](https://github.com/saimanupadala/leetcode-problems-/tree/master/0327-count-of-range-sum) |
+| [0347-top-k-frequent-elements](https://github.com/saimanupadala/leetcode-problems-/tree/master/0347-top-k-frequent-elements) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -585,6 +589,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0264-ugly-number-ii](https://github.com/saimanupadala/leetcode-problems-/tree/master/0264-ugly-number-ii) |
 | [0295-find-median-from-data-stream](https://github.com/saimanupadala/leetcode-problems-/tree/master/0295-find-median-from-data-stream) |
 | [0332-reconstruct-itinerary](https://github.com/saimanupadala/leetcode-problems-/tree/master/0332-reconstruct-itinerary) |
+| [0347-top-k-frequent-elements](https://github.com/saimanupadala/leetcode-problems-/tree/master/0347-top-k-frequent-elements) |
 ## Merge Sort
 |  |
 | ------- |
@@ -914,6 +919,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0164-maximum-gap](https://github.com/saimanupadala/leetcode-problems-/tree/master/0164-maximum-gap) |
 | [0220-contains-duplicate-iii](https://github.com/saimanupadala/leetcode-problems-/tree/master/0220-contains-duplicate-iii) |
+| [0347-top-k-frequent-elements](https://github.com/saimanupadala/leetcode-problems-/tree/master/0347-top-k-frequent-elements) |
 ## Radix Sort
 |  |
 | ------- |
@@ -929,6 +935,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/saimanupadala/leetcode-problems-/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/saimanupadala/leetcode-problems-/tree/master/0229-majority-element-ii) |
 | [0299-bulls-and-cows](https://github.com/saimanupadala/leetcode-problems-/tree/master/0299-bulls-and-cows) |
+| [0347-top-k-frequent-elements](https://github.com/saimanupadala/leetcode-problems-/tree/master/0347-top-k-frequent-elements) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
@@ -1139,6 +1146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0324-wiggle-sort-ii](https://github.com/saimanupadala/leetcode-problems-/tree/master/0324-wiggle-sort-ii) |
+| [0347-top-k-frequent-elements](https://github.com/saimanupadala/leetcode-problems-/tree/master/0347-top-k-frequent-elements) |
 ## Eulerian Circuit
 |  |
 | ------- |
