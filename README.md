@@ -169,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0354-russian-doll-envelopes](https://github.com/saimanupadala/leetcode-problems-/tree/master/0354-russian-doll-envelopes) |
 | [0357-count-numbers-with-unique-digits](https://github.com/saimanupadala/leetcode-problems-/tree/master/0357-count-numbers-with-unique-digits) |
 | [0368-largest-divisible-subset](https://github.com/saimanupadala/leetcode-problems-/tree/master/0368-largest-divisible-subset) |
+| [0375-guess-number-higher-or-lower-ii](https://github.com/saimanupadala/leetcode-problems-/tree/master/0375-guess-number-higher-or-lower-ii) |
 ## Math
 |  |
 | ------- |
@@ -222,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0368-largest-divisible-subset](https://github.com/saimanupadala/leetcode-problems-/tree/master/0368-largest-divisible-subset) |
 | [0371-sum-of-two-integers](https://github.com/saimanupadala/leetcode-problems-/tree/master/0371-sum-of-two-integers) |
 | [0372-super-pow](https://github.com/saimanupadala/leetcode-problems-/tree/master/0372-super-pow) |
+| [0375-guess-number-higher-or-lower-ii](https://github.com/saimanupadala/leetcode-problems-/tree/master/0375-guess-number-higher-or-lower-ii) |
 ## String Matching
 |  |
 | ------- |
@@ -1162,10 +1164,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/saimanupadala/leetcode-problems-/tree/master/0292-nim-game) |
+| [0375-guess-number-higher-or-lower-ii](https://github.com/saimanupadala/leetcode-problems-/tree/master/0375-guess-number-higher-or-lower-ii) |
 ## Game Theory
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/saimanupadala/leetcode-problems-/tree/master/0292-nim-game) |
+| [0375-guess-number-higher-or-lower-ii](https://github.com/saimanupadala/leetcode-problems-/tree/master/0375-guess-number-higher-or-lower-ii) |
 ## Nim Game
 |  |
 | ------- |
