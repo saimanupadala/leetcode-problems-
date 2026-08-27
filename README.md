@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0321-create-maximum-number](https://github.com/saimanupadala/leetcode-problems-/tree/master/0321-create-maximum-number) |
 | [0344-reverse-string](https://github.com/saimanupadala/leetcode-problems-/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/saimanupadala/leetcode-problems-/tree/master/0345-reverse-vowels-of-a-string) |
+| [0349-intersection-of-two-arrays](https://github.com/saimanupadala/leetcode-problems-/tree/master/0349-intersection-of-two-arrays) |
 ## String
 |  |
 | ------- |
@@ -300,6 +301,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0299-bulls-and-cows](https://github.com/saimanupadala/leetcode-problems-/tree/master/0299-bulls-and-cows) |
 | [0336-palindrome-pairs](https://github.com/saimanupadala/leetcode-problems-/tree/master/0336-palindrome-pairs) |
 | [0347-top-k-frequent-elements](https://github.com/saimanupadala/leetcode-problems-/tree/master/0347-top-k-frequent-elements) |
+| [0349-intersection-of-two-arrays](https://github.com/saimanupadala/leetcode-problems-/tree/master/0349-intersection-of-two-arrays) |
 ## Array
 |  |
 | ------- |
@@ -422,6 +424,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0335-self-crossing](https://github.com/saimanupadala/leetcode-problems-/tree/master/0335-self-crossing) |
 | [0336-palindrome-pairs](https://github.com/saimanupadala/leetcode-problems-/tree/master/0336-palindrome-pairs) |
 | [0347-top-k-frequent-elements](https://github.com/saimanupadala/leetcode-problems-/tree/master/0347-top-k-frequent-elements) |
+| [0349-intersection-of-two-arrays](https://github.com/saimanupadala/leetcode-problems-/tree/master/0349-intersection-of-two-arrays) |
 ## Greedy
 |  |
 | ------- |
@@ -475,6 +478,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0324-wiggle-sort-ii](https://github.com/saimanupadala/leetcode-problems-/tree/master/0324-wiggle-sort-ii) |
 | [0332-reconstruct-itinerary](https://github.com/saimanupadala/leetcode-problems-/tree/master/0332-reconstruct-itinerary) |
 | [0347-top-k-frequent-elements](https://github.com/saimanupadala/leetcode-problems-/tree/master/0347-top-k-frequent-elements) |
+| [0349-intersection-of-two-arrays](https://github.com/saimanupadala/leetcode-problems-/tree/master/0349-intersection-of-two-arrays) |
 ## Backtracking
 |  |
 | ------- |
@@ -630,6 +634,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/saimanupadala/leetcode-problems-/tree/master/0300-longest-increasing-subsequence) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/saimanupadala/leetcode-problems-/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0327-count-of-range-sum](https://github.com/saimanupadala/leetcode-problems-/tree/master/0327-count-of-range-sum) |
+| [0349-intersection-of-two-arrays](https://github.com/saimanupadala/leetcode-problems-/tree/master/0349-intersection-of-two-arrays) |
 ## Matrix
 |  |
 | ------- |
