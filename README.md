@@ -230,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0380-insert-delete-getrandom-o1](https://github.com/saimanupadala/leetcode-problems-/tree/master/0380-insert-delete-getrandom-o1) |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/saimanupadala/leetcode-problems-/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 | [0382-linked-list-random-node](https://github.com/saimanupadala/leetcode-problems-/tree/master/0382-linked-list-random-node) |
+| [0384-shuffle-an-array](https://github.com/saimanupadala/leetcode-problems-/tree/master/0384-shuffle-an-array) |
 ## String Matching
 |  |
 | ------- |
@@ -460,6 +461,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/saimanupadala/leetcode-problems-/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0380-insert-delete-getrandom-o1](https://github.com/saimanupadala/leetcode-problems-/tree/master/0380-insert-delete-getrandom-o1) |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/saimanupadala/leetcode-problems-/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
+| [0384-shuffle-an-array](https://github.com/saimanupadala/leetcode-problems-/tree/master/0384-shuffle-an-array) |
 ## Greedy
 |  |
 | ------- |
@@ -964,6 +966,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0355-design-twitter](https://github.com/saimanupadala/leetcode-problems-/tree/master/0355-design-twitter) |
 | [0380-insert-delete-getrandom-o1](https://github.com/saimanupadala/leetcode-problems-/tree/master/0380-insert-delete-getrandom-o1) |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/saimanupadala/leetcode-problems-/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
+| [0384-shuffle-an-array](https://github.com/saimanupadala/leetcode-problems-/tree/master/0384-shuffle-an-array) |
 ## Doubly-Linked List
 |  |
 | ------- |
@@ -1260,6 +1263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0380-insert-delete-getrandom-o1](https://github.com/saimanupadala/leetcode-problems-/tree/master/0380-insert-delete-getrandom-o1) |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/saimanupadala/leetcode-problems-/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 | [0382-linked-list-random-node](https://github.com/saimanupadala/leetcode-problems-/tree/master/0382-linked-list-random-node) |
+| [0384-shuffle-an-array](https://github.com/saimanupadala/leetcode-problems-/tree/master/0384-shuffle-an-array) |
 ## Reservoir Sampling
 |  |
 | ------- |
