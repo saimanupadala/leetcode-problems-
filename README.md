@@ -227,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0372-super-pow](https://github.com/saimanupadala/leetcode-problems-/tree/master/0372-super-pow) |
 | [0375-guess-number-higher-or-lower-ii](https://github.com/saimanupadala/leetcode-problems-/tree/master/0375-guess-number-higher-or-lower-ii) |
 | [0380-insert-delete-getrandom-o1](https://github.com/saimanupadala/leetcode-problems-/tree/master/0380-insert-delete-getrandom-o1) |
+| [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/saimanupadala/leetcode-problems-/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 ## String Matching
 |  |
 | ------- |
@@ -322,6 +323,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0352-data-stream-as-disjoint-intervals](https://github.com/saimanupadala/leetcode-problems-/tree/master/0352-data-stream-as-disjoint-intervals) |
 | [0355-design-twitter](https://github.com/saimanupadala/leetcode-problems-/tree/master/0355-design-twitter) |
 | [0380-insert-delete-getrandom-o1](https://github.com/saimanupadala/leetcode-problems-/tree/master/0380-insert-delete-getrandom-o1) |
+| [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/saimanupadala/leetcode-problems-/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 ## Array
 |  |
 | ------- |
@@ -454,6 +456,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0377-combination-sum-iv](https://github.com/saimanupadala/leetcode-problems-/tree/master/0377-combination-sum-iv) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/saimanupadala/leetcode-problems-/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0380-insert-delete-getrandom-o1](https://github.com/saimanupadala/leetcode-problems-/tree/master/0380-insert-delete-getrandom-o1) |
+| [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/saimanupadala/leetcode-problems-/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 ## Greedy
 |  |
 | ------- |
@@ -956,6 +959,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0352-data-stream-as-disjoint-intervals](https://github.com/saimanupadala/leetcode-problems-/tree/master/0352-data-stream-as-disjoint-intervals) |
 | [0355-design-twitter](https://github.com/saimanupadala/leetcode-problems-/tree/master/0355-design-twitter) |
 | [0380-insert-delete-getrandom-o1](https://github.com/saimanupadala/leetcode-problems-/tree/master/0380-insert-delete-getrandom-o1) |
+| [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/saimanupadala/leetcode-problems-/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 ## Doubly-Linked List
 |  |
 | ------- |
@@ -1249,4 +1253,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0380-insert-delete-getrandom-o1](https://github.com/saimanupadala/leetcode-problems-/tree/master/0380-insert-delete-getrandom-o1) |
+| [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/saimanupadala/leetcode-problems-/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 <!---LeetCode Topics End-->
