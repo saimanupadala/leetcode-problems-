@@ -235,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/saimanupadala/leetcode-problems-/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 | [0382-linked-list-random-node](https://github.com/saimanupadala/leetcode-problems-/tree/master/0382-linked-list-random-node) |
 | [0384-shuffle-an-array](https://github.com/saimanupadala/leetcode-problems-/tree/master/0384-shuffle-an-array) |
+| [0390-elimination-game](https://github.com/saimanupadala/leetcode-problems-/tree/master/0390-elimination-game) |
 ## String Matching
 |  |
 | ------- |
@@ -283,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0273-integer-to-english-words](https://github.com/saimanupadala/leetcode-problems-/tree/master/0273-integer-to-english-words) |
 | [0326-power-of-three](https://github.com/saimanupadala/leetcode-problems-/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/saimanupadala/leetcode-problems-/tree/master/0342-power-of-four) |
+| [0390-elimination-game](https://github.com/saimanupadala/leetcode-problems-/tree/master/0390-elimination-game) |
 ## Hash Table
 |  |
 | ------- |
