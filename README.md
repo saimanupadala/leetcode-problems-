@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/saimanupadala/leetcode-problems-/tree/master/0345-reverse-vowels-of-a-string) |
 | [0349-intersection-of-two-arrays](https://github.com/saimanupadala/leetcode-problems-/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/saimanupadala/leetcode-problems-/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0392-is-subsequence](https://github.com/saimanupadala/leetcode-problems-/tree/master/0392-is-subsequence) |
 ## String
 |  |
 | ------- |
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/saimanupadala/leetcode-problems-/tree/master/0387-first-unique-character-in-a-string) |
 | [0388-longest-absolute-file-path](https://github.com/saimanupadala/leetcode-problems-/tree/master/0388-longest-absolute-file-path) |
 | [0389-find-the-difference](https://github.com/saimanupadala/leetcode-problems-/tree/master/0389-find-the-difference) |
+| [0392-is-subsequence](https://github.com/saimanupadala/leetcode-problems-/tree/master/0392-is-subsequence) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -177,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0375-guess-number-higher-or-lower-ii](https://github.com/saimanupadala/leetcode-problems-/tree/master/0375-guess-number-higher-or-lower-ii) |
 | [0376-wiggle-subsequence](https://github.com/saimanupadala/leetcode-problems-/tree/master/0376-wiggle-subsequence) |
 | [0377-combination-sum-iv](https://github.com/saimanupadala/leetcode-problems-/tree/master/0377-combination-sum-iv) |
+| [0392-is-subsequence](https://github.com/saimanupadala/leetcode-problems-/tree/master/0392-is-subsequence) |
 ## Math
 |  |
 | ------- |
