@@ -236,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0382-linked-list-random-node](https://github.com/saimanupadala/leetcode-problems-/tree/master/0382-linked-list-random-node) |
 | [0384-shuffle-an-array](https://github.com/saimanupadala/leetcode-problems-/tree/master/0384-shuffle-an-array) |
 | [0390-elimination-game](https://github.com/saimanupadala/leetcode-problems-/tree/master/0390-elimination-game) |
+| [0391-perfect-rectangle](https://github.com/saimanupadala/leetcode-problems-/tree/master/0391-perfect-rectangle) |
 ## String Matching
 |  |
 | ------- |
@@ -337,6 +338,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/saimanupadala/leetcode-problems-/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/saimanupadala/leetcode-problems-/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/saimanupadala/leetcode-problems-/tree/master/0389-find-the-difference) |
+| [0391-perfect-rectangle](https://github.com/saimanupadala/leetcode-problems-/tree/master/0391-perfect-rectangle) |
 ## Array
 |  |
 | ------- |
@@ -471,6 +473,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0380-insert-delete-getrandom-o1](https://github.com/saimanupadala/leetcode-problems-/tree/master/0380-insert-delete-getrandom-o1) |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/saimanupadala/leetcode-problems-/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 | [0384-shuffle-an-array](https://github.com/saimanupadala/leetcode-problems-/tree/master/0384-shuffle-an-array) |
+| [0391-perfect-rectangle](https://github.com/saimanupadala/leetcode-problems-/tree/master/0391-perfect-rectangle) |
 ## Greedy
 |  |
 | ------- |
@@ -993,6 +996,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0149-max-points-on-a-line](https://github.com/saimanupadala/leetcode-problems-/tree/master/0149-max-points-on-a-line) |
 | [0223-rectangle-area](https://github.com/saimanupadala/leetcode-problems-/tree/master/0223-rectangle-area) |
 | [0335-self-crossing](https://github.com/saimanupadala/leetcode-problems-/tree/master/0335-self-crossing) |
+| [0391-perfect-rectangle](https://github.com/saimanupadala/leetcode-problems-/tree/master/0391-perfect-rectangle) |
 ## Euclidean Algorithm
 |  |
 | ------- |
@@ -1141,6 +1145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0218-the-skyline-problem](https://github.com/saimanupadala/leetcode-problems-/tree/master/0218-the-skyline-problem) |
+| [0391-perfect-rectangle](https://github.com/saimanupadala/leetcode-problems-/tree/master/0391-perfect-rectangle) |
 ## Ordered Set
 |  |
 | ------- |
