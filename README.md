@@ -268,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/saimanupadala/leetcode-problems-/tree/master/0342-power-of-four) |
 | [0371-sum-of-two-integers](https://github.com/saimanupadala/leetcode-problems-/tree/master/0371-sum-of-two-integers) |
 | [0389-find-the-difference](https://github.com/saimanupadala/leetcode-problems-/tree/master/0389-find-the-difference) |
+| [0393-utf-8-validation](https://github.com/saimanupadala/leetcode-problems-/tree/master/0393-utf-8-validation) |
 ## Recursion
 |  |
 | ------- |
@@ -477,6 +478,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/saimanupadala/leetcode-problems-/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 | [0384-shuffle-an-array](https://github.com/saimanupadala/leetcode-problems-/tree/master/0384-shuffle-an-array) |
 | [0391-perfect-rectangle](https://github.com/saimanupadala/leetcode-problems-/tree/master/0391-perfect-rectangle) |
+| [0393-utf-8-validation](https://github.com/saimanupadala/leetcode-problems-/tree/master/0393-utf-8-validation) |
 ## Greedy
 |  |
 | ------- |
