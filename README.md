@@ -193,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0403-frog-jump](https://github.com/saimanupadala/leetcode-problems-/tree/master/0403-frog-jump) |
 | [0410-split-array-largest-sum](https://github.com/saimanupadala/leetcode-problems-/tree/master/0410-split-array-largest-sum) |
 | [0413-arithmetic-slices](https://github.com/saimanupadala/leetcode-problems-/tree/master/0413-arithmetic-slices) |
+| [0416-partition-equal-subset-sum](https://github.com/saimanupadala/leetcode-problems-/tree/master/0416-partition-equal-subset-sum) |
 ## Math
 |  |
 | ------- |
@@ -513,6 +514,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/saimanupadala/leetcode-problems-/tree/master/0410-split-array-largest-sum) |
 | [0413-arithmetic-slices](https://github.com/saimanupadala/leetcode-problems-/tree/master/0413-arithmetic-slices) |
 | [0414-third-maximum-number](https://github.com/saimanupadala/leetcode-problems-/tree/master/0414-third-maximum-number) |
+| [0416-partition-equal-subset-sum](https://github.com/saimanupadala/leetcode-problems-/tree/master/0416-partition-equal-subset-sum) |
 ## Greedy
 |  |
 | ------- |
@@ -1270,6 +1272,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0279-perfect-squares](https://github.com/saimanupadala/leetcode-problems-/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/saimanupadala/leetcode-problems-/tree/master/0322-coin-change) |
+| [0416-partition-equal-subset-sum](https://github.com/saimanupadala/leetcode-problems-/tree/master/0416-partition-equal-subset-sum) |
 ## Complete Knapsack
 |  |
 | ------- |
@@ -1376,4 +1379,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0399-evaluate-division](https://github.com/saimanupadala/leetcode-problems-/tree/master/0399-evaluate-division) |
+## 0-1 Knapsack
+|  |
+| ------- |
+| [0416-partition-equal-subset-sum](https://github.com/saimanupadala/leetcode-problems-/tree/master/0416-partition-equal-subset-sum) |
 <!---LeetCode Topics End-->
