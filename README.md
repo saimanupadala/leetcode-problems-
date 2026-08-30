@@ -186,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/saimanupadala/leetcode-problems-/tree/master/0392-is-subsequence) |
 | [0396-rotate-function](https://github.com/saimanupadala/leetcode-problems-/tree/master/0396-rotate-function) |
 | [0397-integer-replacement](https://github.com/saimanupadala/leetcode-problems-/tree/master/0397-integer-replacement) |
+| [0403-frog-jump](https://github.com/saimanupadala/leetcode-problems-/tree/master/0403-frog-jump) |
 ## Math
 |  |
 | ------- |
@@ -495,6 +496,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0393-utf-8-validation](https://github.com/saimanupadala/leetcode-problems-/tree/master/0393-utf-8-validation) |
 | [0396-rotate-function](https://github.com/saimanupadala/leetcode-problems-/tree/master/0396-rotate-function) |
 | [0399-evaluate-division](https://github.com/saimanupadala/leetcode-problems-/tree/master/0399-evaluate-division) |
+| [0403-frog-jump](https://github.com/saimanupadala/leetcode-problems-/tree/master/0403-frog-jump) |
 ## Greedy
 |  |
 | ------- |
