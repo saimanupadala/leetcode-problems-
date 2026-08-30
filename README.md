@@ -501,6 +501,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0399-evaluate-division](https://github.com/saimanupadala/leetcode-problems-/tree/master/0399-evaluate-division) |
 | [0403-frog-jump](https://github.com/saimanupadala/leetcode-problems-/tree/master/0403-frog-jump) |
 | [0406-queue-reconstruction-by-height](https://github.com/saimanupadala/leetcode-problems-/tree/master/0406-queue-reconstruction-by-height) |
+| [0407-trapping-rain-water-ii](https://github.com/saimanupadala/leetcode-problems-/tree/master/0407-trapping-rain-water-ii) |
 ## Greedy
 |  |
 | ------- |
@@ -693,6 +694,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0355-design-twitter](https://github.com/saimanupadala/leetcode-problems-/tree/master/0355-design-twitter) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/saimanupadala/leetcode-problems-/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/saimanupadala/leetcode-problems-/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0407-trapping-rain-water-ii](https://github.com/saimanupadala/leetcode-problems-/tree/master/0407-trapping-rain-water-ii) |
 ## Merge Sort
 |  |
 | ------- |
@@ -768,6 +770,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/saimanupadala/leetcode-problems-/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0363-max-sum-of-rectangle-no-larger-than-k](https://github.com/saimanupadala/leetcode-problems-/tree/master/0363-max-sum-of-rectangle-no-larger-than-k) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/saimanupadala/leetcode-problems-/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0407-trapping-rain-water-ii](https://github.com/saimanupadala/leetcode-problems-/tree/master/0407-trapping-rain-water-ii) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -971,6 +974,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0365-water-and-jug-problem](https://github.com/saimanupadala/leetcode-problems-/tree/master/0365-water-and-jug-problem) |
 | [0399-evaluate-division](https://github.com/saimanupadala/leetcode-problems-/tree/master/0399-evaluate-division) |
 | [0404-sum-of-left-leaves](https://github.com/saimanupadala/leetcode-problems-/tree/master/0404-sum-of-left-leaves) |
+| [0407-trapping-rain-water-ii](https://github.com/saimanupadala/leetcode-problems-/tree/master/0407-trapping-rain-water-ii) |
 ## DP on Trees
 |  |
 | ------- |
