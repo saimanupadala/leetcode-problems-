@@ -278,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/saimanupadala/leetcode-problems-/tree/master/0389-find-the-difference) |
 | [0393-utf-8-validation](https://github.com/saimanupadala/leetcode-problems-/tree/master/0393-utf-8-validation) |
 | [0397-integer-replacement](https://github.com/saimanupadala/leetcode-problems-/tree/master/0397-integer-replacement) |
+| [0401-binary-watch](https://github.com/saimanupadala/leetcode-problems-/tree/master/0401-binary-watch) |
 ## Recursion
 |  |
 | ------- |
@@ -585,6 +586,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0301-remove-invalid-parentheses](https://github.com/saimanupadala/leetcode-problems-/tree/master/0301-remove-invalid-parentheses) |
 | [0306-additive-number](https://github.com/saimanupadala/leetcode-problems-/tree/master/0306-additive-number) |
 | [0357-count-numbers-with-unique-digits](https://github.com/saimanupadala/leetcode-problems-/tree/master/0357-count-numbers-with-unique-digits) |
+| [0401-binary-watch](https://github.com/saimanupadala/leetcode-problems-/tree/master/0401-binary-watch) |
 ## Linked List
 |  |
 | ------- |
