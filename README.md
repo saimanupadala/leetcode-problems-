@@ -526,6 +526,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0417-pacific-atlantic-water-flow](https://github.com/saimanupadala/leetcode-problems-/tree/master/0417-pacific-atlantic-water-flow) |
 | [0419-battleships-in-a-board](https://github.com/saimanupadala/leetcode-problems-/tree/master/0419-battleships-in-a-board) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/saimanupadala/leetcode-problems-/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
+| [0427-construct-quad-tree](https://github.com/saimanupadala/leetcode-problems-/tree/master/0427-construct-quad-tree) |
 ## Greedy
 |  |
 | ------- |
@@ -710,6 +711,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/saimanupadala/leetcode-problems-/tree/master/0347-top-k-frequent-elements) |
 | [0372-super-pow](https://github.com/saimanupadala/leetcode-problems-/tree/master/0372-super-pow) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/saimanupadala/leetcode-problems-/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
+| [0427-construct-quad-tree](https://github.com/saimanupadala/leetcode-problems-/tree/master/0427-construct-quad-tree) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -806,6 +808,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0407-trapping-rain-water-ii](https://github.com/saimanupadala/leetcode-problems-/tree/master/0407-trapping-rain-water-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/saimanupadala/leetcode-problems-/tree/master/0417-pacific-atlantic-water-flow) |
 | [0419-battleships-in-a-board](https://github.com/saimanupadala/leetcode-problems-/tree/master/0419-battleships-in-a-board) |
+| [0427-construct-quad-tree](https://github.com/saimanupadala/leetcode-problems-/tree/master/0427-construct-quad-tree) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -929,6 +932,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0337-house-robber-iii](https://github.com/saimanupadala/leetcode-problems-/tree/master/0337-house-robber-iii) |
 | [0341-flatten-nested-list-iterator](https://github.com/saimanupadala/leetcode-problems-/tree/master/0341-flatten-nested-list-iterator) |
 | [0404-sum-of-left-leaves](https://github.com/saimanupadala/leetcode-problems-/tree/master/0404-sum-of-left-leaves) |
+| [0427-construct-quad-tree](https://github.com/saimanupadala/leetcode-problems-/tree/master/0427-construct-quad-tree) |
 ## Binary Tree
 |  |
 | ------- |
