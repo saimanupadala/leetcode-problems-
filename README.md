@@ -130,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0420-strong-password-checker](https://github.com/saimanupadala/leetcode-problems-/tree/master/0420-strong-password-checker) |
 | [0423-reconstruct-original-digits-from-english](https://github.com/saimanupadala/leetcode-problems-/tree/master/0423-reconstruct-original-digits-from-english) |
 | [0424-longest-repeating-character-replacement](https://github.com/saimanupadala/leetcode-problems-/tree/master/0424-longest-repeating-character-replacement) |
+| [0433-minimum-genetic-mutation](https://github.com/saimanupadala/leetcode-problems-/tree/master/0433-minimum-genetic-mutation) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -379,6 +380,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0423-reconstruct-original-digits-from-english](https://github.com/saimanupadala/leetcode-problems-/tree/master/0423-reconstruct-original-digits-from-english) |
 | [0424-longest-repeating-character-replacement](https://github.com/saimanupadala/leetcode-problems-/tree/master/0424-longest-repeating-character-replacement) |
 | [0432-all-oone-data-structure](https://github.com/saimanupadala/leetcode-problems-/tree/master/0432-all-oone-data-structure) |
+| [0433-minimum-genetic-mutation](https://github.com/saimanupadala/leetcode-problems-/tree/master/0433-minimum-genetic-mutation) |
 ## Array
 |  |
 | ------- |
@@ -1025,6 +1027,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0407-trapping-rain-water-ii](https://github.com/saimanupadala/leetcode-problems-/tree/master/0407-trapping-rain-water-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/saimanupadala/leetcode-problems-/tree/master/0417-pacific-atlantic-water-flow) |
 | [0429-n-ary-tree-level-order-traversal](https://github.com/saimanupadala/leetcode-problems-/tree/master/0429-n-ary-tree-level-order-traversal) |
+| [0433-minimum-genetic-mutation](https://github.com/saimanupadala/leetcode-problems-/tree/master/0433-minimum-genetic-mutation) |
 ## DP on Trees
 |  |
 | ------- |
@@ -1035,6 +1038,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0126-word-ladder-ii](https://github.com/saimanupadala/leetcode-problems-/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/saimanupadala/leetcode-problems-/tree/master/0127-word-ladder) |
+| [0433-minimum-genetic-mutation](https://github.com/saimanupadala/leetcode-problems-/tree/master/0433-minimum-genetic-mutation) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
