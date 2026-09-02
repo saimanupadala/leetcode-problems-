@@ -386,6 +386,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0432-all-oone-data-structure](https://github.com/saimanupadala/leetcode-problems-/tree/master/0432-all-oone-data-structure) |
 | [0433-minimum-genetic-mutation](https://github.com/saimanupadala/leetcode-problems-/tree/master/0433-minimum-genetic-mutation) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/saimanupadala/leetcode-problems-/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/saimanupadala/leetcode-problems-/tree/master/0442-find-all-duplicates-in-an-array) |
 ## Array
 |  |
 | ------- |
@@ -537,6 +538,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0427-construct-quad-tree](https://github.com/saimanupadala/leetcode-problems-/tree/master/0427-construct-quad-tree) |
 | [0435-non-overlapping-intervals](https://github.com/saimanupadala/leetcode-problems-/tree/master/0435-non-overlapping-intervals) |
 | [0436-find-right-interval](https://github.com/saimanupadala/leetcode-problems-/tree/master/0436-find-right-interval) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/saimanupadala/leetcode-problems-/tree/master/0442-find-all-duplicates-in-an-array) |
 ## Greedy
 |  |
 | ------- |
@@ -610,6 +612,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/saimanupadala/leetcode-problems-/tree/master/0414-third-maximum-number) |
 | [0435-non-overlapping-intervals](https://github.com/saimanupadala/leetcode-problems-/tree/master/0435-non-overlapping-intervals) |
 | [0436-find-right-interval](https://github.com/saimanupadala/leetcode-problems-/tree/master/0436-find-right-interval) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/saimanupadala/leetcode-problems-/tree/master/0442-find-all-duplicates-in-an-array) |
 ## Backtracking
 |  |
 | ------- |
