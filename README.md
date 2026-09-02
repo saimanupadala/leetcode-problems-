@@ -271,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0415-add-strings](https://github.com/saimanupadala/leetcode-problems-/tree/master/0415-add-strings) |
 | [0423-reconstruct-original-digits-from-english](https://github.com/saimanupadala/leetcode-problems-/tree/master/0423-reconstruct-original-digits-from-english) |
 | [0441-arranging-coins](https://github.com/saimanupadala/leetcode-problems-/tree/master/0441-arranging-coins) |
+| [0445-add-two-numbers-ii](https://github.com/saimanupadala/leetcode-problems-/tree/master/0445-add-two-numbers-ii) |
 ## String Matching
 |  |
 | ------- |
@@ -680,6 +681,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0382-linked-list-random-node](https://github.com/saimanupadala/leetcode-problems-/tree/master/0382-linked-list-random-node) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/saimanupadala/leetcode-problems-/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 | [0432-all-oone-data-structure](https://github.com/saimanupadala/leetcode-problems-/tree/master/0432-all-oone-data-structure) |
+| [0445-add-two-numbers-ii](https://github.com/saimanupadala/leetcode-problems-/tree/master/0445-add-two-numbers-ii) |
 ## Stack
 |  |
 | ------- |
@@ -710,6 +712,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0388-longest-absolute-file-path](https://github.com/saimanupadala/leetcode-problems-/tree/master/0388-longest-absolute-file-path) |
 | [0394-decode-string](https://github.com/saimanupadala/leetcode-problems-/tree/master/0394-decode-string) |
 | [0402-remove-k-digits](https://github.com/saimanupadala/leetcode-problems-/tree/master/0402-remove-k-digits) |
+| [0445-add-two-numbers-ii](https://github.com/saimanupadala/leetcode-problems-/tree/master/0445-add-two-numbers-ii) |
 ## Divide and Conquer
 |  |
 | ------- |
