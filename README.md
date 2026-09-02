@@ -273,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0423-reconstruct-original-digits-from-english](https://github.com/saimanupadala/leetcode-problems-/tree/master/0423-reconstruct-original-digits-from-english) |
 | [0441-arranging-coins](https://github.com/saimanupadala/leetcode-problems-/tree/master/0441-arranging-coins) |
 | [0445-add-two-numbers-ii](https://github.com/saimanupadala/leetcode-problems-/tree/master/0445-add-two-numbers-ii) |
+| [0447-number-of-boomerangs](https://github.com/saimanupadala/leetcode-problems-/tree/master/0447-number-of-boomerangs) |
 ## String Matching
 |  |
 | ------- |
@@ -391,6 +392,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0433-minimum-genetic-mutation](https://github.com/saimanupadala/leetcode-problems-/tree/master/0433-minimum-genetic-mutation) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/saimanupadala/leetcode-problems-/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/saimanupadala/leetcode-problems-/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0447-number-of-boomerangs](https://github.com/saimanupadala/leetcode-problems-/tree/master/0447-number-of-boomerangs) |
 ## Array
 |  |
 | ------- |
@@ -544,6 +546,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0436-find-right-interval](https://github.com/saimanupadala/leetcode-problems-/tree/master/0436-find-right-interval) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/saimanupadala/leetcode-problems-/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0446-arithmetic-slices-ii-subsequence](https://github.com/saimanupadala/leetcode-problems-/tree/master/0446-arithmetic-slices-ii-subsequence) |
+| [0447-number-of-boomerangs](https://github.com/saimanupadala/leetcode-problems-/tree/master/0447-number-of-boomerangs) |
 ## Greedy
 |  |
 | ------- |
