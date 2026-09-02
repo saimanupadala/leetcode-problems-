@@ -393,6 +393,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0438-find-all-anagrams-in-a-string](https://github.com/saimanupadala/leetcode-problems-/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/saimanupadala/leetcode-problems-/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0447-number-of-boomerangs](https://github.com/saimanupadala/leetcode-problems-/tree/master/0447-number-of-boomerangs) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/saimanupadala/leetcode-problems-/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 ## Array
 |  |
 | ------- |
@@ -547,6 +548,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/saimanupadala/leetcode-problems-/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0446-arithmetic-slices-ii-subsequence](https://github.com/saimanupadala/leetcode-problems-/tree/master/0446-arithmetic-slices-ii-subsequence) |
 | [0447-number-of-boomerangs](https://github.com/saimanupadala/leetcode-problems-/tree/master/0447-number-of-boomerangs) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/saimanupadala/leetcode-problems-/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 ## Greedy
 |  |
 | ------- |
