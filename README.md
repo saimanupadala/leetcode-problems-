@@ -559,6 +559,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/saimanupadala/leetcode-problems-/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0454-4sum-ii](https://github.com/saimanupadala/leetcode-problems-/tree/master/0454-4sum-ii) |
 | [0455-assign-cookies](https://github.com/saimanupadala/leetcode-problems-/tree/master/0455-assign-cookies) |
+| [0456-132-pattern](https://github.com/saimanupadala/leetcode-problems-/tree/master/0456-132-pattern) |
 ## Greedy
 |  |
 | ------- |
@@ -735,6 +736,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0394-decode-string](https://github.com/saimanupadala/leetcode-problems-/tree/master/0394-decode-string) |
 | [0402-remove-k-digits](https://github.com/saimanupadala/leetcode-problems-/tree/master/0402-remove-k-digits) |
 | [0445-add-two-numbers-ii](https://github.com/saimanupadala/leetcode-problems-/tree/master/0445-add-two-numbers-ii) |
+| [0456-132-pattern](https://github.com/saimanupadala/leetcode-problems-/tree/master/0456-132-pattern) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -830,6 +832,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/saimanupadala/leetcode-problems-/tree/master/0410-split-array-largest-sum) |
 | [0436-find-right-interval](https://github.com/saimanupadala/leetcode-problems-/tree/master/0436-find-right-interval) |
 | [0441-arranging-coins](https://github.com/saimanupadala/leetcode-problems-/tree/master/0441-arranging-coins) |
+| [0456-132-pattern](https://github.com/saimanupadala/leetcode-problems-/tree/master/0456-132-pattern) |
 ## Matrix
 |  |
 | ------- |
@@ -868,6 +871,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0316-remove-duplicate-letters](https://github.com/saimanupadala/leetcode-problems-/tree/master/0316-remove-duplicate-letters) |
 | [0321-create-maximum-number](https://github.com/saimanupadala/leetcode-problems-/tree/master/0321-create-maximum-number) |
 | [0402-remove-k-digits](https://github.com/saimanupadala/leetcode-problems-/tree/master/0402-remove-k-digits) |
+| [0456-132-pattern](https://github.com/saimanupadala/leetcode-problems-/tree/master/0456-132-pattern) |
 ## Simulation
 |  |
 | ------- |
@@ -1324,6 +1328,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0327-count-of-range-sum](https://github.com/saimanupadala/leetcode-problems-/tree/master/0327-count-of-range-sum) |
 | [0352-data-stream-as-disjoint-intervals](https://github.com/saimanupadala/leetcode-problems-/tree/master/0352-data-stream-as-disjoint-intervals) |
 | [0363-max-sum-of-rectangle-no-larger-than-k](https://github.com/saimanupadala/leetcode-problems-/tree/master/0363-max-sum-of-rectangle-no-larger-than-k) |
+| [0456-132-pattern](https://github.com/saimanupadala/leetcode-problems-/tree/master/0456-132-pattern) |
 ## Queue
 |  |
 | ------- |
