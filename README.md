@@ -226,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0472-concatenated-words](https://github.com/saimanupadala/leetcode-problems-/tree/master/0472-concatenated-words) |
 | [0473-matchsticks-to-square](https://github.com/saimanupadala/leetcode-problems-/tree/master/0473-matchsticks-to-square) |
 | [0474-ones-and-zeroes](https://github.com/saimanupadala/leetcode-problems-/tree/master/0474-ones-and-zeroes) |
+| [0486-predict-the-winner](https://github.com/saimanupadala/leetcode-problems-/tree/master/0486-predict-the-winner) |
 ## Math
 |  |
 | ------- |
@@ -305,6 +306,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0478-generate-random-point-in-a-circle](https://github.com/saimanupadala/leetcode-problems-/tree/master/0478-generate-random-point-in-a-circle) |
 | [0479-largest-palindrome-product](https://github.com/saimanupadala/leetcode-problems-/tree/master/0479-largest-palindrome-product) |
 | [0483-smallest-good-base](https://github.com/saimanupadala/leetcode-problems-/tree/master/0483-smallest-good-base) |
+| [0486-predict-the-winner](https://github.com/saimanupadala/leetcode-problems-/tree/master/0486-predict-the-winner) |
 ## String Matching
 |  |
 | ------- |
@@ -366,6 +368,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/saimanupadala/leetcode-problems-/tree/master/0342-power-of-four) |
 | [0390-elimination-game](https://github.com/saimanupadala/leetcode-problems-/tree/master/0390-elimination-game) |
 | [0394-decode-string](https://github.com/saimanupadala/leetcode-problems-/tree/master/0394-decode-string) |
+| [0486-predict-the-winner](https://github.com/saimanupadala/leetcode-problems-/tree/master/0486-predict-the-winner) |
 ## Hash Table
 |  |
 | ------- |
@@ -605,6 +608,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0477-total-hamming-distance](https://github.com/saimanupadala/leetcode-problems-/tree/master/0477-total-hamming-distance) |
 | [0480-sliding-window-median](https://github.com/saimanupadala/leetcode-problems-/tree/master/0480-sliding-window-median) |
 | [0485-max-consecutive-ones](https://github.com/saimanupadala/leetcode-problems-/tree/master/0485-max-consecutive-ones) |
+| [0486-predict-the-winner](https://github.com/saimanupadala/leetcode-problems-/tree/master/0486-predict-the-winner) |
 ## Greedy
 |  |
 | ------- |
@@ -1455,12 +1459,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0292-nim-game](https://github.com/saimanupadala/leetcode-problems-/tree/master/0292-nim-game) |
 | [0375-guess-number-higher-or-lower-ii](https://github.com/saimanupadala/leetcode-problems-/tree/master/0375-guess-number-higher-or-lower-ii) |
+| [0486-predict-the-winner](https://github.com/saimanupadala/leetcode-problems-/tree/master/0486-predict-the-winner) |
 ## Game Theory
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/saimanupadala/leetcode-problems-/tree/master/0292-nim-game) |
 | [0375-guess-number-higher-or-lower-ii](https://github.com/saimanupadala/leetcode-problems-/tree/master/0375-guess-number-higher-or-lower-ii) |
 | [0464-can-i-win](https://github.com/saimanupadala/leetcode-problems-/tree/master/0464-can-i-win) |
+| [0486-predict-the-winner](https://github.com/saimanupadala/leetcode-problems-/tree/master/0486-predict-the-winner) |
 ## Nim Game
 |  |
 | ------- |
@@ -1573,4 +1579,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0470-implement-rand10-using-rand7](https://github.com/saimanupadala/leetcode-problems-/tree/master/0470-implement-rand10-using-rand7) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/saimanupadala/leetcode-problems-/tree/master/0486-predict-the-winner) |
 <!---LeetCode Topics End-->
