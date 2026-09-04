@@ -149,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0472-concatenated-words](https://github.com/saimanupadala/leetcode-problems-/tree/master/0472-concatenated-words) |
 | [0474-ones-and-zeroes](https://github.com/saimanupadala/leetcode-problems-/tree/master/0474-ones-and-zeroes) |
 | [0481-magical-string](https://github.com/saimanupadala/leetcode-problems-/tree/master/0481-magical-string) |
+| [0482-license-key-formatting](https://github.com/saimanupadala/leetcode-problems-/tree/master/0482-license-key-formatting) |
 ## Dynamic Programming
 |  |
 | ------- |
