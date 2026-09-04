@@ -431,6 +431,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0454-4sum-ii](https://github.com/saimanupadala/leetcode-problems-/tree/master/0454-4sum-ii) |
 | [0457-circular-array-loop](https://github.com/saimanupadala/leetcode-problems-/tree/master/0457-circular-array-loop) |
 | [0460-lfu-cache](https://github.com/saimanupadala/leetcode-problems-/tree/master/0460-lfu-cache) |
+| [0480-sliding-window-median](https://github.com/saimanupadala/leetcode-problems-/tree/master/0480-sliding-window-median) |
 ## Array
 |  |
 | ------- |
@@ -598,6 +599,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0474-ones-and-zeroes](https://github.com/saimanupadala/leetcode-problems-/tree/master/0474-ones-and-zeroes) |
 | [0475-heaters](https://github.com/saimanupadala/leetcode-problems-/tree/master/0475-heaters) |
 | [0477-total-hamming-distance](https://github.com/saimanupadala/leetcode-problems-/tree/master/0477-total-hamming-distance) |
+| [0480-sliding-window-median](https://github.com/saimanupadala/leetcode-problems-/tree/master/0480-sliding-window-median) |
 ## Greedy
 |  |
 | ------- |
@@ -820,6 +822,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0407-trapping-rain-water-ii](https://github.com/saimanupadala/leetcode-problems-/tree/master/0407-trapping-rain-water-ii) |
 | [0420-strong-password-checker](https://github.com/saimanupadala/leetcode-problems-/tree/master/0420-strong-password-checker) |
 | [0451-sort-characters-by-frequency](https://github.com/saimanupadala/leetcode-problems-/tree/master/0451-sort-characters-by-frequency) |
+| [0480-sliding-window-median](https://github.com/saimanupadala/leetcode-problems-/tree/master/0480-sliding-window-median) |
 ## Merge Sort
 |  |
 | ------- |
@@ -841,6 +844,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0413-arithmetic-slices](https://github.com/saimanupadala/leetcode-problems-/tree/master/0413-arithmetic-slices) |
 | [0424-longest-repeating-character-replacement](https://github.com/saimanupadala/leetcode-problems-/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/saimanupadala/leetcode-problems-/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0480-sliding-window-median](https://github.com/saimanupadala/leetcode-problems-/tree/master/0480-sliding-window-median) |
 ## Binary Search
 |  |
 | ------- |
@@ -1479,6 +1483,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/saimanupadala/leetcode-problems-/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0327-count-of-range-sum](https://github.com/saimanupadala/leetcode-problems-/tree/master/0327-count-of-range-sum) |
+| [0480-sliding-window-median](https://github.com/saimanupadala/leetcode-problems-/tree/master/0480-sliding-window-median) |
 ## Quickselect
 |  |
 | ------- |
