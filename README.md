@@ -144,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0466-count-the-repetitions](https://github.com/saimanupadala/leetcode-problems-/tree/master/0466-count-the-repetitions) |
 | [0467-unique-substrings-in-wraparound-string](https://github.com/saimanupadala/leetcode-problems-/tree/master/0467-unique-substrings-in-wraparound-string) |
 | [0468-validate-ip-address](https://github.com/saimanupadala/leetcode-problems-/tree/master/0468-validate-ip-address) |
+| [0472-concatenated-words](https://github.com/saimanupadala/leetcode-problems-/tree/master/0472-concatenated-words) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -217,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0464-can-i-win](https://github.com/saimanupadala/leetcode-problems-/tree/master/0464-can-i-win) |
 | [0466-count-the-repetitions](https://github.com/saimanupadala/leetcode-problems-/tree/master/0466-count-the-repetitions) |
 | [0467-unique-substrings-in-wraparound-string](https://github.com/saimanupadala/leetcode-problems-/tree/master/0467-unique-substrings-in-wraparound-string) |
+| [0472-concatenated-words](https://github.com/saimanupadala/leetcode-problems-/tree/master/0472-concatenated-words) |
 ## Math
 |  |
 | ------- |
@@ -581,6 +583,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0456-132-pattern](https://github.com/saimanupadala/leetcode-problems-/tree/master/0456-132-pattern) |
 | [0457-circular-array-loop](https://github.com/saimanupadala/leetcode-problems-/tree/master/0457-circular-array-loop) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/saimanupadala/leetcode-problems-/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [0472-concatenated-words](https://github.com/saimanupadala/leetcode-problems-/tree/master/0472-concatenated-words) |
 ## Greedy
 |  |
 | ------- |
@@ -619,6 +622,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0386-lexicographical-numbers](https://github.com/saimanupadala/leetcode-problems-/tree/master/0386-lexicographical-numbers) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/saimanupadala/leetcode-problems-/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0440-k-th-smallest-in-lexicographical-order](https://github.com/saimanupadala/leetcode-problems-/tree/master/0440-k-th-smallest-in-lexicographical-order) |
+| [0472-concatenated-words](https://github.com/saimanupadala/leetcode-problems-/tree/master/0472-concatenated-words) |
 ## Sorting
 |  |
 | ------- |
@@ -661,6 +665,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/saimanupadala/leetcode-problems-/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/saimanupadala/leetcode-problems-/tree/master/0455-assign-cookies) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/saimanupadala/leetcode-problems-/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [0472-concatenated-words](https://github.com/saimanupadala/leetcode-problems-/tree/master/0472-concatenated-words) |
 ## Backtracking
 |  |
 | ------- |
@@ -972,6 +977,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/saimanupadala/leetcode-problems-/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 | [0437-path-sum-iii](https://github.com/saimanupadala/leetcode-problems-/tree/master/0437-path-sum-iii) |
 | [0449-serialize-and-deserialize-bst](https://github.com/saimanupadala/leetcode-problems-/tree/master/0449-serialize-and-deserialize-bst) |
+| [0472-concatenated-words](https://github.com/saimanupadala/leetcode-problems-/tree/master/0472-concatenated-words) |
 ## Tree
 |  |
 | ------- |
