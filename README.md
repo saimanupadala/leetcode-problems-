@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/saimanupadala/leetcode-problems-/tree/master/0455-assign-cookies) |
 | [0457-circular-array-loop](https://github.com/saimanupadala/leetcode-problems-/tree/master/0457-circular-array-loop) |
 | [0466-count-the-repetitions](https://github.com/saimanupadala/leetcode-problems-/tree/master/0466-count-the-repetitions) |
+| [0475-heaters](https://github.com/saimanupadala/leetcode-problems-/tree/master/0475-heaters) |
 ## String
 |  |
 | ------- |
@@ -590,6 +591,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0472-concatenated-words](https://github.com/saimanupadala/leetcode-problems-/tree/master/0472-concatenated-words) |
 | [0473-matchsticks-to-square](https://github.com/saimanupadala/leetcode-problems-/tree/master/0473-matchsticks-to-square) |
 | [0474-ones-and-zeroes](https://github.com/saimanupadala/leetcode-problems-/tree/master/0474-ones-and-zeroes) |
+| [0475-heaters](https://github.com/saimanupadala/leetcode-problems-/tree/master/0475-heaters) |
 ## Greedy
 |  |
 | ------- |
@@ -672,6 +674,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/saimanupadala/leetcode-problems-/tree/master/0455-assign-cookies) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/saimanupadala/leetcode-problems-/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0472-concatenated-words](https://github.com/saimanupadala/leetcode-problems-/tree/master/0472-concatenated-words) |
+| [0475-heaters](https://github.com/saimanupadala/leetcode-problems-/tree/master/0475-heaters) |
 ## Backtracking
 |  |
 | ------- |
@@ -868,6 +871,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0436-find-right-interval](https://github.com/saimanupadala/leetcode-problems-/tree/master/0436-find-right-interval) |
 | [0441-arranging-coins](https://github.com/saimanupadala/leetcode-problems-/tree/master/0441-arranging-coins) |
 | [0456-132-pattern](https://github.com/saimanupadala/leetcode-problems-/tree/master/0456-132-pattern) |
+| [0475-heaters](https://github.com/saimanupadala/leetcode-problems-/tree/master/0475-heaters) |
 ## Matrix
 |  |
 | ------- |
