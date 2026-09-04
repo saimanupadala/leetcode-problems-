@@ -219,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0466-count-the-repetitions](https://github.com/saimanupadala/leetcode-problems-/tree/master/0466-count-the-repetitions) |
 | [0467-unique-substrings-in-wraparound-string](https://github.com/saimanupadala/leetcode-problems-/tree/master/0467-unique-substrings-in-wraparound-string) |
 | [0472-concatenated-words](https://github.com/saimanupadala/leetcode-problems-/tree/master/0472-concatenated-words) |
+| [0473-matchsticks-to-square](https://github.com/saimanupadala/leetcode-problems-/tree/master/0473-matchsticks-to-square) |
 ## Math
 |  |
 | ------- |
@@ -330,6 +331,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/saimanupadala/leetcode-problems-/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0461-hamming-distance](https://github.com/saimanupadala/leetcode-problems-/tree/master/0461-hamming-distance) |
 | [0464-can-i-win](https://github.com/saimanupadala/leetcode-problems-/tree/master/0464-can-i-win) |
+| [0473-matchsticks-to-square](https://github.com/saimanupadala/leetcode-problems-/tree/master/0473-matchsticks-to-square) |
 ## Recursion
 |  |
 | ------- |
@@ -584,6 +586,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0457-circular-array-loop](https://github.com/saimanupadala/leetcode-problems-/tree/master/0457-circular-array-loop) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/saimanupadala/leetcode-problems-/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0472-concatenated-words](https://github.com/saimanupadala/leetcode-problems-/tree/master/0472-concatenated-words) |
+| [0473-matchsticks-to-square](https://github.com/saimanupadala/leetcode-problems-/tree/master/0473-matchsticks-to-square) |
 ## Greedy
 |  |
 | ------- |
@@ -697,6 +700,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0306-additive-number](https://github.com/saimanupadala/leetcode-problems-/tree/master/0306-additive-number) |
 | [0357-count-numbers-with-unique-digits](https://github.com/saimanupadala/leetcode-problems-/tree/master/0357-count-numbers-with-unique-digits) |
 | [0401-binary-watch](https://github.com/saimanupadala/leetcode-problems-/tree/master/0401-binary-watch) |
+| [0473-matchsticks-to-square](https://github.com/saimanupadala/leetcode-problems-/tree/master/0473-matchsticks-to-square) |
 ## Linked List
 |  |
 | ------- |
@@ -1530,6 +1534,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0464-can-i-win](https://github.com/saimanupadala/leetcode-problems-/tree/master/0464-can-i-win) |
+| [0473-matchsticks-to-square](https://github.com/saimanupadala/leetcode-problems-/tree/master/0473-matchsticks-to-square) |
 ## Rejection Sampling
 |  |
 | ------- |
