@@ -145,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0467-unique-substrings-in-wraparound-string](https://github.com/saimanupadala/leetcode-problems-/tree/master/0467-unique-substrings-in-wraparound-string) |
 | [0468-validate-ip-address](https://github.com/saimanupadala/leetcode-problems-/tree/master/0468-validate-ip-address) |
 | [0472-concatenated-words](https://github.com/saimanupadala/leetcode-problems-/tree/master/0472-concatenated-words) |
+| [0474-ones-and-zeroes](https://github.com/saimanupadala/leetcode-problems-/tree/master/0474-ones-and-zeroes) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -220,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0467-unique-substrings-in-wraparound-string](https://github.com/saimanupadala/leetcode-problems-/tree/master/0467-unique-substrings-in-wraparound-string) |
 | [0472-concatenated-words](https://github.com/saimanupadala/leetcode-problems-/tree/master/0472-concatenated-words) |
 | [0473-matchsticks-to-square](https://github.com/saimanupadala/leetcode-problems-/tree/master/0473-matchsticks-to-square) |
+| [0474-ones-and-zeroes](https://github.com/saimanupadala/leetcode-problems-/tree/master/0474-ones-and-zeroes) |
 ## Math
 |  |
 | ------- |
@@ -587,6 +589,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/saimanupadala/leetcode-problems-/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0472-concatenated-words](https://github.com/saimanupadala/leetcode-problems-/tree/master/0472-concatenated-words) |
 | [0473-matchsticks-to-square](https://github.com/saimanupadala/leetcode-problems-/tree/master/0473-matchsticks-to-square) |
+| [0474-ones-and-zeroes](https://github.com/saimanupadala/leetcode-problems-/tree/master/0474-ones-and-zeroes) |
 ## Greedy
 |  |
 | ------- |
@@ -1414,6 +1417,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0279-perfect-squares](https://github.com/saimanupadala/leetcode-problems-/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/saimanupadala/leetcode-problems-/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/saimanupadala/leetcode-problems-/tree/master/0416-partition-equal-subset-sum) |
+| [0474-ones-and-zeroes](https://github.com/saimanupadala/leetcode-problems-/tree/master/0474-ones-and-zeroes) |
 ## Complete Knapsack
 |  |
 | ------- |
@@ -1526,6 +1530,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0416-partition-equal-subset-sum](https://github.com/saimanupadala/leetcode-problems-/tree/master/0416-partition-equal-subset-sum) |
+| [0474-ones-and-zeroes](https://github.com/saimanupadala/leetcode-problems-/tree/master/0474-ones-and-zeroes) |
 ## Quicksort
 |  |
 | ------- |
