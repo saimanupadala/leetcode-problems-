@@ -604,6 +604,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0475-heaters](https://github.com/saimanupadala/leetcode-problems-/tree/master/0475-heaters) |
 | [0477-total-hamming-distance](https://github.com/saimanupadala/leetcode-problems-/tree/master/0477-total-hamming-distance) |
 | [0480-sliding-window-median](https://github.com/saimanupadala/leetcode-problems-/tree/master/0480-sliding-window-median) |
+| [0485-max-consecutive-ones](https://github.com/saimanupadala/leetcode-problems-/tree/master/0485-max-consecutive-ones) |
 ## Greedy
 |  |
 | ------- |
