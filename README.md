@@ -623,6 +623,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0495-teemo-attacking](https://github.com/saimanupadala/leetcode-problems-/tree/master/0495-teemo-attacking) |
 | [0496-next-greater-element-i](https://github.com/saimanupadala/leetcode-problems-/tree/master/0496-next-greater-element-i) |
 | [0497-random-point-in-non-overlapping-rectangles](https://github.com/saimanupadala/leetcode-problems-/tree/master/0497-random-point-in-non-overlapping-rectangles) |
+| [0498-diagonal-traverse](https://github.com/saimanupadala/leetcode-problems-/tree/master/0498-diagonal-traverse) |
 ## Greedy
 |  |
 | ------- |
@@ -943,6 +944,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0417-pacific-atlantic-water-flow](https://github.com/saimanupadala/leetcode-problems-/tree/master/0417-pacific-atlantic-water-flow) |
 | [0419-battleships-in-a-board](https://github.com/saimanupadala/leetcode-problems-/tree/master/0419-battleships-in-a-board) |
 | [0427-construct-quad-tree](https://github.com/saimanupadala/leetcode-problems-/tree/master/0427-construct-quad-tree) |
+| [0498-diagonal-traverse](https://github.com/saimanupadala/leetcode-problems-/tree/master/0498-diagonal-traverse) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -967,6 +969,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/saimanupadala/leetcode-problems-/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/saimanupadala/leetcode-problems-/tree/master/0415-add-strings) |
 | [0495-teemo-attacking](https://github.com/saimanupadala/leetcode-problems-/tree/master/0495-teemo-attacking) |
+| [0498-diagonal-traverse](https://github.com/saimanupadala/leetcode-problems-/tree/master/0498-diagonal-traverse) |
 ## Combinatorics
 |  |
 | ------- |
