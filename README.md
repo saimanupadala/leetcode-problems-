@@ -618,6 +618,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0491-non-decreasing-subsequences](https://github.com/saimanupadala/leetcode-problems-/tree/master/0491-non-decreasing-subsequences) |
 | [0493-reverse-pairs](https://github.com/saimanupadala/leetcode-problems-/tree/master/0493-reverse-pairs) |
 | [0494-target-sum](https://github.com/saimanupadala/leetcode-problems-/tree/master/0494-target-sum) |
+| [0495-teemo-attacking](https://github.com/saimanupadala/leetcode-problems-/tree/master/0495-teemo-attacking) |
 ## Greedy
 |  |
 | ------- |
@@ -958,6 +959,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0289-game-of-life](https://github.com/saimanupadala/leetcode-problems-/tree/master/0289-game-of-life) |
 | [0412-fizz-buzz](https://github.com/saimanupadala/leetcode-problems-/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/saimanupadala/leetcode-problems-/tree/master/0415-add-strings) |
+| [0495-teemo-attacking](https://github.com/saimanupadala/leetcode-problems-/tree/master/0495-teemo-attacking) |
 ## Combinatorics
 |  |
 | ------- |
