@@ -348,6 +348,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0473-matchsticks-to-square](https://github.com/saimanupadala/leetcode-problems-/tree/master/0473-matchsticks-to-square) |
 | [0476-number-complement](https://github.com/saimanupadala/leetcode-problems-/tree/master/0476-number-complement) |
 | [0477-total-hamming-distance](https://github.com/saimanupadala/leetcode-problems-/tree/master/0477-total-hamming-distance) |
+| [0491-non-decreasing-subsequences](https://github.com/saimanupadala/leetcode-problems-/tree/master/0491-non-decreasing-subsequences) |
 ## Recursion
 |  |
 | ------- |
@@ -441,6 +442,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0457-circular-array-loop](https://github.com/saimanupadala/leetcode-problems-/tree/master/0457-circular-array-loop) |
 | [0460-lfu-cache](https://github.com/saimanupadala/leetcode-problems-/tree/master/0460-lfu-cache) |
 | [0480-sliding-window-median](https://github.com/saimanupadala/leetcode-problems-/tree/master/0480-sliding-window-median) |
+| [0491-non-decreasing-subsequences](https://github.com/saimanupadala/leetcode-problems-/tree/master/0491-non-decreasing-subsequences) |
 ## Array
 |  |
 | ------- |
@@ -611,6 +613,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0480-sliding-window-median](https://github.com/saimanupadala/leetcode-problems-/tree/master/0480-sliding-window-median) |
 | [0485-max-consecutive-ones](https://github.com/saimanupadala/leetcode-problems-/tree/master/0485-max-consecutive-ones) |
 | [0486-predict-the-winner](https://github.com/saimanupadala/leetcode-problems-/tree/master/0486-predict-the-winner) |
+| [0491-non-decreasing-subsequences](https://github.com/saimanupadala/leetcode-problems-/tree/master/0491-non-decreasing-subsequences) |
 ## Greedy
 |  |
 | ------- |
@@ -726,6 +729,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0357-count-numbers-with-unique-digits](https://github.com/saimanupadala/leetcode-problems-/tree/master/0357-count-numbers-with-unique-digits) |
 | [0401-binary-watch](https://github.com/saimanupadala/leetcode-problems-/tree/master/0401-binary-watch) |
 | [0473-matchsticks-to-square](https://github.com/saimanupadala/leetcode-problems-/tree/master/0473-matchsticks-to-square) |
+| [0491-non-decreasing-subsequences](https://github.com/saimanupadala/leetcode-problems-/tree/master/0491-non-decreasing-subsequences) |
 ## Linked List
 |  |
 | ------- |
