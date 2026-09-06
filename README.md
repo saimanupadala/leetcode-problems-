@@ -151,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0481-magical-string](https://github.com/saimanupadala/leetcode-problems-/tree/master/0481-magical-string) |
 | [0482-license-key-formatting](https://github.com/saimanupadala/leetcode-problems-/tree/master/0482-license-key-formatting) |
 | [0488-zuma-game](https://github.com/saimanupadala/leetcode-problems-/tree/master/0488-zuma-game) |
+| [0500-keyboard-row](https://github.com/saimanupadala/leetcode-problems-/tree/master/0500-keyboard-row) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -447,6 +448,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0480-sliding-window-median](https://github.com/saimanupadala/leetcode-problems-/tree/master/0480-sliding-window-median) |
 | [0491-non-decreasing-subsequences](https://github.com/saimanupadala/leetcode-problems-/tree/master/0491-non-decreasing-subsequences) |
 | [0496-next-greater-element-i](https://github.com/saimanupadala/leetcode-problems-/tree/master/0496-next-greater-element-i) |
+| [0500-keyboard-row](https://github.com/saimanupadala/leetcode-problems-/tree/master/0500-keyboard-row) |
 ## Array
 |  |
 | ------- |
@@ -624,6 +626,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/saimanupadala/leetcode-problems-/tree/master/0496-next-greater-element-i) |
 | [0497-random-point-in-non-overlapping-rectangles](https://github.com/saimanupadala/leetcode-problems-/tree/master/0497-random-point-in-non-overlapping-rectangles) |
 | [0498-diagonal-traverse](https://github.com/saimanupadala/leetcode-problems-/tree/master/0498-diagonal-traverse) |
+| [0500-keyboard-row](https://github.com/saimanupadala/leetcode-problems-/tree/master/0500-keyboard-row) |
 ## Greedy
 |  |
 | ------- |
