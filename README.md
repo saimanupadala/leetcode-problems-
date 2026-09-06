@@ -1040,6 +1040,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0437-path-sum-iii](https://github.com/saimanupadala/leetcode-problems-/tree/master/0437-path-sum-iii) |
 | [0449-serialize-and-deserialize-bst](https://github.com/saimanupadala/leetcode-problems-/tree/master/0449-serialize-and-deserialize-bst) |
 | [0472-concatenated-words](https://github.com/saimanupadala/leetcode-problems-/tree/master/0472-concatenated-words) |
+| [0501-find-mode-in-binary-search-tree](https://github.com/saimanupadala/leetcode-problems-/tree/master/0501-find-mode-in-binary-search-tree) |
 ## Tree
 |  |
 | ------- |
@@ -1087,6 +1088,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0437-path-sum-iii](https://github.com/saimanupadala/leetcode-problems-/tree/master/0437-path-sum-iii) |
 | [0449-serialize-and-deserialize-bst](https://github.com/saimanupadala/leetcode-problems-/tree/master/0449-serialize-and-deserialize-bst) |
 | [0450-delete-node-in-a-bst](https://github.com/saimanupadala/leetcode-problems-/tree/master/0450-delete-node-in-a-bst) |
+| [0501-find-mode-in-binary-search-tree](https://github.com/saimanupadala/leetcode-problems-/tree/master/0501-find-mode-in-binary-search-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -1131,6 +1133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0437-path-sum-iii](https://github.com/saimanupadala/leetcode-problems-/tree/master/0437-path-sum-iii) |
 | [0449-serialize-and-deserialize-bst](https://github.com/saimanupadala/leetcode-problems-/tree/master/0449-serialize-and-deserialize-bst) |
 | [0450-delete-node-in-a-bst](https://github.com/saimanupadala/leetcode-problems-/tree/master/0450-delete-node-in-a-bst) |
+| [0501-find-mode-in-binary-search-tree](https://github.com/saimanupadala/leetcode-problems-/tree/master/0501-find-mode-in-binary-search-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -1145,6 +1148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/saimanupadala/leetcode-problems-/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0449-serialize-and-deserialize-bst](https://github.com/saimanupadala/leetcode-problems-/tree/master/0449-serialize-and-deserialize-bst) |
 | [0450-delete-node-in-a-bst](https://github.com/saimanupadala/leetcode-problems-/tree/master/0450-delete-node-in-a-bst) |
+| [0501-find-mode-in-binary-search-tree](https://github.com/saimanupadala/leetcode-problems-/tree/master/0501-find-mode-in-binary-search-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
