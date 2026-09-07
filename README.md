@@ -1064,6 +1064,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0508-most-frequent-subtree-sum](https://github.com/saimanupadala/leetcode-problems-/tree/master/0508-most-frequent-subtree-sum) |
 | [0513-find-bottom-left-tree-value](https://github.com/saimanupadala/leetcode-problems-/tree/master/0513-find-bottom-left-tree-value) |
 | [0514-freedom-trail](https://github.com/saimanupadala/leetcode-problems-/tree/master/0514-freedom-trail) |
+| [0515-find-largest-value-in-each-tree-row](https://github.com/saimanupadala/leetcode-problems-/tree/master/0515-find-largest-value-in-each-tree-row) |
 ## Tree
 |  |
 | ------- |
@@ -1114,6 +1115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0501-find-mode-in-binary-search-tree](https://github.com/saimanupadala/leetcode-problems-/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0508-most-frequent-subtree-sum](https://github.com/saimanupadala/leetcode-problems-/tree/master/0508-most-frequent-subtree-sum) |
 | [0513-find-bottom-left-tree-value](https://github.com/saimanupadala/leetcode-problems-/tree/master/0513-find-bottom-left-tree-value) |
+| [0515-find-largest-value-in-each-tree-row](https://github.com/saimanupadala/leetcode-problems-/tree/master/0515-find-largest-value-in-each-tree-row) |
 ## Binary Tree
 |  |
 | ------- |
@@ -1161,6 +1163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0501-find-mode-in-binary-search-tree](https://github.com/saimanupadala/leetcode-problems-/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0508-most-frequent-subtree-sum](https://github.com/saimanupadala/leetcode-problems-/tree/master/0508-most-frequent-subtree-sum) |
 | [0513-find-bottom-left-tree-value](https://github.com/saimanupadala/leetcode-problems-/tree/master/0513-find-bottom-left-tree-value) |
+| [0515-find-largest-value-in-each-tree-row](https://github.com/saimanupadala/leetcode-problems-/tree/master/0515-find-largest-value-in-each-tree-row) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -1215,6 +1218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0488-zuma-game](https://github.com/saimanupadala/leetcode-problems-/tree/master/0488-zuma-game) |
 | [0513-find-bottom-left-tree-value](https://github.com/saimanupadala/leetcode-problems-/tree/master/0513-find-bottom-left-tree-value) |
 | [0514-freedom-trail](https://github.com/saimanupadala/leetcode-problems-/tree/master/0514-freedom-trail) |
+| [0515-find-largest-value-in-each-tree-row](https://github.com/saimanupadala/leetcode-problems-/tree/master/0515-find-largest-value-in-each-tree-row) |
 ## DP on Trees
 |  |
 | ------- |
