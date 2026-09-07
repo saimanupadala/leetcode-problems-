@@ -631,6 +631,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0500-keyboard-row](https://github.com/saimanupadala/leetcode-problems-/tree/master/0500-keyboard-row) |
 | [0502-ipo](https://github.com/saimanupadala/leetcode-problems-/tree/master/0502-ipo) |
 | [0503-next-greater-element-ii](https://github.com/saimanupadala/leetcode-problems-/tree/master/0503-next-greater-element-ii) |
+| [0506-relative-ranks](https://github.com/saimanupadala/leetcode-problems-/tree/master/0506-relative-ranks) |
 ## Greedy
 |  |
 | ------- |
@@ -716,6 +717,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0472-concatenated-words](https://github.com/saimanupadala/leetcode-problems-/tree/master/0472-concatenated-words) |
 | [0475-heaters](https://github.com/saimanupadala/leetcode-problems-/tree/master/0475-heaters) |
 | [0502-ipo](https://github.com/saimanupadala/leetcode-problems-/tree/master/0502-ipo) |
+| [0506-relative-ranks](https://github.com/saimanupadala/leetcode-problems-/tree/master/0506-relative-ranks) |
 ## Backtracking
 |  |
 | ------- |
@@ -863,6 +865,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/saimanupadala/leetcode-problems-/tree/master/0451-sort-characters-by-frequency) |
 | [0480-sliding-window-median](https://github.com/saimanupadala/leetcode-problems-/tree/master/0480-sliding-window-median) |
 | [0502-ipo](https://github.com/saimanupadala/leetcode-problems-/tree/master/0502-ipo) |
+| [0506-relative-ranks](https://github.com/saimanupadala/leetcode-problems-/tree/master/0506-relative-ranks) |
 ## Merge Sort
 |  |
 | ------- |
