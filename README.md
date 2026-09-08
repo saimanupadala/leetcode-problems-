@@ -162,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0521-longest-uncommon-subsequence-i](https://github.com/saimanupadala/leetcode-problems-/tree/master/0521-longest-uncommon-subsequence-i) |
 | [0522-longest-uncommon-subsequence-ii](https://github.com/saimanupadala/leetcode-problems-/tree/master/0522-longest-uncommon-subsequence-ii) |
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/saimanupadala/leetcode-problems-/tree/master/0524-longest-word-in-dictionary-through-deleting) |
+| [0535-encode-and-decode-tinyurl](https://github.com/saimanupadala/leetcode-problems-/tree/master/0535-encode-and-decode-tinyurl) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -477,6 +478,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0523-continuous-subarray-sum](https://github.com/saimanupadala/leetcode-problems-/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/saimanupadala/leetcode-problems-/tree/master/0525-contiguous-array) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/saimanupadala/leetcode-problems-/tree/master/0532-k-diff-pairs-in-an-array) |
+| [0535-encode-and-decode-tinyurl](https://github.com/saimanupadala/leetcode-problems-/tree/master/0535-encode-and-decode-tinyurl) |
 ## Array
 |  |
 | ------- |
@@ -1319,6 +1321,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0432-all-oone-data-structure](https://github.com/saimanupadala/leetcode-problems-/tree/master/0432-all-oone-data-structure) |
 | [0449-serialize-and-deserialize-bst](https://github.com/saimanupadala/leetcode-problems-/tree/master/0449-serialize-and-deserialize-bst) |
 | [0460-lfu-cache](https://github.com/saimanupadala/leetcode-problems-/tree/master/0460-lfu-cache) |
+| [0535-encode-and-decode-tinyurl](https://github.com/saimanupadala/leetcode-problems-/tree/master/0535-encode-and-decode-tinyurl) |
 ## Doubly-Linked List
 |  |
 | ------- |
@@ -1412,6 +1415,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0187-repeated-dna-sequences](https://github.com/saimanupadala/leetcode-problems-/tree/master/0187-repeated-dna-sequences) |
 | [0214-shortest-palindrome](https://github.com/saimanupadala/leetcode-problems-/tree/master/0214-shortest-palindrome) |
 | [0336-palindrome-pairs](https://github.com/saimanupadala/leetcode-problems-/tree/master/0336-palindrome-pairs) |
+| [0535-encode-and-decode-tinyurl](https://github.com/saimanupadala/leetcode-problems-/tree/master/0535-encode-and-decode-tinyurl) |
 ## Z Algorithm
 |  |
 | ------- |
