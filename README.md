@@ -472,6 +472,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0519-random-flip-matrix](https://github.com/saimanupadala/leetcode-problems-/tree/master/0519-random-flip-matrix) |
 | [0522-longest-uncommon-subsequence-ii](https://github.com/saimanupadala/leetcode-problems-/tree/master/0522-longest-uncommon-subsequence-ii) |
 | [0523-continuous-subarray-sum](https://github.com/saimanupadala/leetcode-problems-/tree/master/0523-continuous-subarray-sum) |
+| [0525-contiguous-array](https://github.com/saimanupadala/leetcode-problems-/tree/master/0525-contiguous-array) |
 ## Array
 |  |
 | ------- |
@@ -658,6 +659,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0522-longest-uncommon-subsequence-ii](https://github.com/saimanupadala/leetcode-problems-/tree/master/0522-longest-uncommon-subsequence-ii) |
 | [0523-continuous-subarray-sum](https://github.com/saimanupadala/leetcode-problems-/tree/master/0523-continuous-subarray-sum) |
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/saimanupadala/leetcode-problems-/tree/master/0524-longest-word-in-dictionary-through-deleting) |
+| [0525-contiguous-array](https://github.com/saimanupadala/leetcode-problems-/tree/master/0525-contiguous-array) |
 ## Greedy
 |  |
 | ------- |
@@ -1456,6 +1458,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/saimanupadala/leetcode-problems-/tree/master/0410-split-array-largest-sum) |
 | [0497-random-point-in-non-overlapping-rectangles](https://github.com/saimanupadala/leetcode-problems-/tree/master/0497-random-point-in-non-overlapping-rectangles) |
 | [0523-continuous-subarray-sum](https://github.com/saimanupadala/leetcode-problems-/tree/master/0523-continuous-subarray-sum) |
+| [0525-contiguous-array](https://github.com/saimanupadala/leetcode-problems-/tree/master/0525-contiguous-array) |
 ## Manacher
 |  |
 | ------- |
