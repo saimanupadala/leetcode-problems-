@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0466-count-the-repetitions](https://github.com/saimanupadala/leetcode-problems-/tree/master/0466-count-the-repetitions) |
 | [0475-heaters](https://github.com/saimanupadala/leetcode-problems-/tree/master/0475-heaters) |
 | [0481-magical-string](https://github.com/saimanupadala/leetcode-problems-/tree/master/0481-magical-string) |
+| [0522-longest-uncommon-subsequence-ii](https://github.com/saimanupadala/leetcode-problems-/tree/master/0522-longest-uncommon-subsequence-ii) |
 ## String
 |  |
 | ------- |
@@ -157,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0516-longest-palindromic-subsequence](https://github.com/saimanupadala/leetcode-problems-/tree/master/0516-longest-palindromic-subsequence) |
 | [0520-detect-capital](https://github.com/saimanupadala/leetcode-problems-/tree/master/0520-detect-capital) |
 | [0521-longest-uncommon-subsequence-i](https://github.com/saimanupadala/leetcode-problems-/tree/master/0521-longest-uncommon-subsequence-i) |
+| [0522-longest-uncommon-subsequence-ii](https://github.com/saimanupadala/leetcode-problems-/tree/master/0522-longest-uncommon-subsequence-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -465,6 +467,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0500-keyboard-row](https://github.com/saimanupadala/leetcode-problems-/tree/master/0500-keyboard-row) |
 | [0508-most-frequent-subtree-sum](https://github.com/saimanupadala/leetcode-problems-/tree/master/0508-most-frequent-subtree-sum) |
 | [0519-random-flip-matrix](https://github.com/saimanupadala/leetcode-problems-/tree/master/0519-random-flip-matrix) |
+| [0522-longest-uncommon-subsequence-ii](https://github.com/saimanupadala/leetcode-problems-/tree/master/0522-longest-uncommon-subsequence-ii) |
 ## Array
 |  |
 | ------- |
@@ -648,6 +651,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0506-relative-ranks](https://github.com/saimanupadala/leetcode-problems-/tree/master/0506-relative-ranks) |
 | [0517-super-washing-machines](https://github.com/saimanupadala/leetcode-problems-/tree/master/0517-super-washing-machines) |
 | [0518-coin-change-ii](https://github.com/saimanupadala/leetcode-problems-/tree/master/0518-coin-change-ii) |
+| [0522-longest-uncommon-subsequence-ii](https://github.com/saimanupadala/leetcode-problems-/tree/master/0522-longest-uncommon-subsequence-ii) |
 ## Greedy
 |  |
 | ------- |
@@ -735,6 +739,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0475-heaters](https://github.com/saimanupadala/leetcode-problems-/tree/master/0475-heaters) |
 | [0502-ipo](https://github.com/saimanupadala/leetcode-problems-/tree/master/0502-ipo) |
 | [0506-relative-ranks](https://github.com/saimanupadala/leetcode-problems-/tree/master/0506-relative-ranks) |
+| [0522-longest-uncommon-subsequence-ii](https://github.com/saimanupadala/leetcode-problems-/tree/master/0522-longest-uncommon-subsequence-ii) |
 ## Backtracking
 |  |
 | ------- |
