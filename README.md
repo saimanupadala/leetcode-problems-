@@ -248,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0516-longest-palindromic-subsequence](https://github.com/saimanupadala/leetcode-problems-/tree/master/0516-longest-palindromic-subsequence) |
 | [0518-coin-change-ii](https://github.com/saimanupadala/leetcode-problems-/tree/master/0518-coin-change-ii) |
 | [0526-beautiful-arrangement](https://github.com/saimanupadala/leetcode-problems-/tree/master/0526-beautiful-arrangement) |
+| [0546-remove-boxes](https://github.com/saimanupadala/leetcode-problems-/tree/master/0546-remove-boxes) |
 ## Math
 |  |
 | ------- |
@@ -673,6 +674,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0528-random-pick-with-weight](https://github.com/saimanupadala/leetcode-problems-/tree/master/0528-random-pick-with-weight) |
 | [0529-minesweeper](https://github.com/saimanupadala/leetcode-problems-/tree/master/0529-minesweeper) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/saimanupadala/leetcode-problems-/tree/master/0532-k-diff-pairs-in-an-array) |
+| [0546-remove-boxes](https://github.com/saimanupadala/leetcode-problems-/tree/master/0546-remove-boxes) |
 ## Greedy
 |  |
 | ------- |
@@ -1052,6 +1054,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0464-can-i-win](https://github.com/saimanupadala/leetcode-problems-/tree/master/0464-can-i-win) |
 | [0488-zuma-game](https://github.com/saimanupadala/leetcode-problems-/tree/master/0488-zuma-game) |
 | [0509-fibonacci-number](https://github.com/saimanupadala/leetcode-problems-/tree/master/0509-fibonacci-number) |
+| [0546-remove-boxes](https://github.com/saimanupadala/leetcode-problems-/tree/master/0546-remove-boxes) |
 ## Depth-First Search
 |  |
 | ------- |
