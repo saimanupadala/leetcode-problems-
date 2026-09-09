@@ -1113,6 +1113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0515-find-largest-value-in-each-tree-row](https://github.com/saimanupadala/leetcode-problems-/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0529-minesweeper](https://github.com/saimanupadala/leetcode-problems-/tree/master/0529-minesweeper) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/saimanupadala/leetcode-problems-/tree/master/0530-minimum-absolute-difference-in-bst) |
+| [0547-number-of-provinces](https://github.com/saimanupadala/leetcode-problems-/tree/master/0547-number-of-provinces) |
 ## Tree
 |  |
 | ------- |
@@ -1272,6 +1273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0515-find-largest-value-in-each-tree-row](https://github.com/saimanupadala/leetcode-problems-/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0529-minesweeper](https://github.com/saimanupadala/leetcode-problems-/tree/master/0529-minesweeper) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/saimanupadala/leetcode-problems-/tree/master/0530-minimum-absolute-difference-in-bst) |
+| [0547-number-of-provinces](https://github.com/saimanupadala/leetcode-problems-/tree/master/0547-number-of-provinces) |
 ## DP on Trees
 |  |
 | ------- |
@@ -1300,6 +1302,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/saimanupadala/leetcode-problems-/tree/master/0200-number-of-islands) |
 | [0352-data-stream-as-disjoint-intervals](https://github.com/saimanupadala/leetcode-problems-/tree/master/0352-data-stream-as-disjoint-intervals) |
 | [0399-evaluate-division](https://github.com/saimanupadala/leetcode-problems-/tree/master/0399-evaluate-division) |
+| [0547-number-of-provinces](https://github.com/saimanupadala/leetcode-problems-/tree/master/0547-number-of-provinces) |
 ## Graph Theory
 |  |
 | ------- |
@@ -1310,6 +1313,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/saimanupadala/leetcode-problems-/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0332-reconstruct-itinerary](https://github.com/saimanupadala/leetcode-problems-/tree/master/0332-reconstruct-itinerary) |
 | [0399-evaluate-division](https://github.com/saimanupadala/leetcode-problems-/tree/master/0399-evaluate-division) |
+| [0547-number-of-provinces](https://github.com/saimanupadala/leetcode-problems-/tree/master/0547-number-of-provinces) |
 ## Brute-Force Search
 |  |
 | ------- |
