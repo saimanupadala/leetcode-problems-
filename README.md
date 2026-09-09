@@ -335,6 +335,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/saimanupadala/leetcode-problems-/tree/master/0509-fibonacci-number) |
 | [0519-random-flip-matrix](https://github.com/saimanupadala/leetcode-problems-/tree/master/0519-random-flip-matrix) |
 | [0523-continuous-subarray-sum](https://github.com/saimanupadala/leetcode-problems-/tree/master/0523-continuous-subarray-sum) |
+| [0528-random-pick-with-weight](https://github.com/saimanupadala/leetcode-problems-/tree/master/0528-random-pick-with-weight) |
 | [0537-complex-number-multiplication](https://github.com/saimanupadala/leetcode-problems-/tree/master/0537-complex-number-multiplication) |
 ## String Matching
 |  |
@@ -669,6 +670,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/saimanupadala/leetcode-problems-/tree/master/0524-longest-word-in-dictionary-through-deleting) |
 | [0525-contiguous-array](https://github.com/saimanupadala/leetcode-problems-/tree/master/0525-contiguous-array) |
 | [0526-beautiful-arrangement](https://github.com/saimanupadala/leetcode-problems-/tree/master/0526-beautiful-arrangement) |
+| [0528-random-pick-with-weight](https://github.com/saimanupadala/leetcode-problems-/tree/master/0528-random-pick-with-weight) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/saimanupadala/leetcode-problems-/tree/master/0532-k-diff-pairs-in-an-array) |
 ## Greedy
 |  |
@@ -972,6 +974,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0483-smallest-good-base](https://github.com/saimanupadala/leetcode-problems-/tree/master/0483-smallest-good-base) |
 | [0493-reverse-pairs](https://github.com/saimanupadala/leetcode-problems-/tree/master/0493-reverse-pairs) |
 | [0497-random-point-in-non-overlapping-rectangles](https://github.com/saimanupadala/leetcode-problems-/tree/master/0497-random-point-in-non-overlapping-rectangles) |
+| [0528-random-pick-with-weight](https://github.com/saimanupadala/leetcode-problems-/tree/master/0528-random-pick-with-weight) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/saimanupadala/leetcode-problems-/tree/master/0532-k-diff-pairs-in-an-array) |
 ## Matrix
 |  |
@@ -1475,6 +1478,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0497-random-point-in-non-overlapping-rectangles](https://github.com/saimanupadala/leetcode-problems-/tree/master/0497-random-point-in-non-overlapping-rectangles) |
 | [0523-continuous-subarray-sum](https://github.com/saimanupadala/leetcode-problems-/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/saimanupadala/leetcode-problems-/tree/master/0525-contiguous-array) |
+| [0528-random-pick-with-weight](https://github.com/saimanupadala/leetcode-problems-/tree/master/0528-random-pick-with-weight) |
 ## Manacher
 |  |
 | ------- |
@@ -1666,6 +1670,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0478-generate-random-point-in-a-circle](https://github.com/saimanupadala/leetcode-problems-/tree/master/0478-generate-random-point-in-a-circle) |
 | [0497-random-point-in-non-overlapping-rectangles](https://github.com/saimanupadala/leetcode-problems-/tree/master/0497-random-point-in-non-overlapping-rectangles) |
 | [0519-random-flip-matrix](https://github.com/saimanupadala/leetcode-problems-/tree/master/0519-random-flip-matrix) |
+| [0528-random-pick-with-weight](https://github.com/saimanupadala/leetcode-problems-/tree/master/0528-random-pick-with-weight) |
 ## Reservoir Sampling
 |  |
 | ------- |
