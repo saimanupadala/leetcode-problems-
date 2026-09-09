@@ -163,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0522-longest-uncommon-subsequence-ii](https://github.com/saimanupadala/leetcode-problems-/tree/master/0522-longest-uncommon-subsequence-ii) |
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/saimanupadala/leetcode-problems-/tree/master/0524-longest-word-in-dictionary-through-deleting) |
 | [0535-encode-and-decode-tinyurl](https://github.com/saimanupadala/leetcode-problems-/tree/master/0535-encode-and-decode-tinyurl) |
+| [0537-complex-number-multiplication](https://github.com/saimanupadala/leetcode-problems-/tree/master/0537-complex-number-multiplication) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -334,6 +335,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/saimanupadala/leetcode-problems-/tree/master/0509-fibonacci-number) |
 | [0519-random-flip-matrix](https://github.com/saimanupadala/leetcode-problems-/tree/master/0519-random-flip-matrix) |
 | [0523-continuous-subarray-sum](https://github.com/saimanupadala/leetcode-problems-/tree/master/0523-continuous-subarray-sum) |
+| [0537-complex-number-multiplication](https://github.com/saimanupadala/leetcode-problems-/tree/master/0537-complex-number-multiplication) |
 ## String Matching
 |  |
 | ------- |
@@ -1027,6 +1029,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0415-add-strings](https://github.com/saimanupadala/leetcode-problems-/tree/master/0415-add-strings) |
 | [0495-teemo-attacking](https://github.com/saimanupadala/leetcode-problems-/tree/master/0495-teemo-attacking) |
 | [0498-diagonal-traverse](https://github.com/saimanupadala/leetcode-problems-/tree/master/0498-diagonal-traverse) |
+| [0537-complex-number-multiplication](https://github.com/saimanupadala/leetcode-problems-/tree/master/0537-complex-number-multiplication) |
 ## Combinatorics
 |  |
 | ------- |
