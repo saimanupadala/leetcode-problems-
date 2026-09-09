@@ -671,6 +671,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0525-contiguous-array](https://github.com/saimanupadala/leetcode-problems-/tree/master/0525-contiguous-array) |
 | [0526-beautiful-arrangement](https://github.com/saimanupadala/leetcode-problems-/tree/master/0526-beautiful-arrangement) |
 | [0528-random-pick-with-weight](https://github.com/saimanupadala/leetcode-problems-/tree/master/0528-random-pick-with-weight) |
+| [0529-minesweeper](https://github.com/saimanupadala/leetcode-problems-/tree/master/0529-minesweeper) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/saimanupadala/leetcode-problems-/tree/master/0532-k-diff-pairs-in-an-array) |
 ## Greedy
 |  |
@@ -1006,6 +1007,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0419-battleships-in-a-board](https://github.com/saimanupadala/leetcode-problems-/tree/master/0419-battleships-in-a-board) |
 | [0427-construct-quad-tree](https://github.com/saimanupadala/leetcode-problems-/tree/master/0427-construct-quad-tree) |
 | [0498-diagonal-traverse](https://github.com/saimanupadala/leetcode-problems-/tree/master/0498-diagonal-traverse) |
+| [0529-minesweeper](https://github.com/saimanupadala/leetcode-problems-/tree/master/0529-minesweeper) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -1106,6 +1108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0513-find-bottom-left-tree-value](https://github.com/saimanupadala/leetcode-problems-/tree/master/0513-find-bottom-left-tree-value) |
 | [0514-freedom-trail](https://github.com/saimanupadala/leetcode-problems-/tree/master/0514-freedom-trail) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/saimanupadala/leetcode-problems-/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [0529-minesweeper](https://github.com/saimanupadala/leetcode-problems-/tree/master/0529-minesweeper) |
 ## Tree
 |  |
 | ------- |
@@ -1260,6 +1263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0513-find-bottom-left-tree-value](https://github.com/saimanupadala/leetcode-problems-/tree/master/0513-find-bottom-left-tree-value) |
 | [0514-freedom-trail](https://github.com/saimanupadala/leetcode-problems-/tree/master/0514-freedom-trail) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/saimanupadala/leetcode-problems-/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [0529-minesweeper](https://github.com/saimanupadala/leetcode-problems-/tree/master/0529-minesweeper) |
 ## DP on Trees
 |  |
 | ------- |
