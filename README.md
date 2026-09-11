@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0522-longest-uncommon-subsequence-ii](https://github.com/saimanupadala/leetcode-problems-/tree/master/0522-longest-uncommon-subsequence-ii) |
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/saimanupadala/leetcode-problems-/tree/master/0524-longest-word-in-dictionary-through-deleting) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/saimanupadala/leetcode-problems-/tree/master/0532-k-diff-pairs-in-an-array) |
+| [0541-reverse-string-ii](https://github.com/saimanupadala/leetcode-problems-/tree/master/0541-reverse-string-ii) |
 ## String
 |  |
 | ------- |
@@ -165,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0535-encode-and-decode-tinyurl](https://github.com/saimanupadala/leetcode-problems-/tree/master/0535-encode-and-decode-tinyurl) |
 | [0537-complex-number-multiplication](https://github.com/saimanupadala/leetcode-problems-/tree/master/0537-complex-number-multiplication) |
 | [0539-minimum-time-difference](https://github.com/saimanupadala/leetcode-problems-/tree/master/0539-minimum-time-difference) |
+| [0541-reverse-string-ii](https://github.com/saimanupadala/leetcode-problems-/tree/master/0541-reverse-string-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
