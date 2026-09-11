@@ -677,6 +677,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0529-minesweeper](https://github.com/saimanupadala/leetcode-problems-/tree/master/0529-minesweeper) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/saimanupadala/leetcode-problems-/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0539-minimum-time-difference](https://github.com/saimanupadala/leetcode-problems-/tree/master/0539-minimum-time-difference) |
+| [0540-single-element-in-a-sorted-array](https://github.com/saimanupadala/leetcode-problems-/tree/master/0540-single-element-in-a-sorted-array) |
 | [0546-remove-boxes](https://github.com/saimanupadala/leetcode-problems-/tree/master/0546-remove-boxes) |
 ## Greedy
 |  |
@@ -983,6 +984,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0497-random-point-in-non-overlapping-rectangles](https://github.com/saimanupadala/leetcode-problems-/tree/master/0497-random-point-in-non-overlapping-rectangles) |
 | [0528-random-pick-with-weight](https://github.com/saimanupadala/leetcode-problems-/tree/master/0528-random-pick-with-weight) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/saimanupadala/leetcode-problems-/tree/master/0532-k-diff-pairs-in-an-array) |
+| [0540-single-element-in-a-sorted-array](https://github.com/saimanupadala/leetcode-problems-/tree/master/0540-single-element-in-a-sorted-array) |
 ## Matrix
 |  |
 | ------- |
