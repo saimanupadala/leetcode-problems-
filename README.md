@@ -251,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0516-longest-palindromic-subsequence](https://github.com/saimanupadala/leetcode-problems-/tree/master/0516-longest-palindromic-subsequence) |
 | [0518-coin-change-ii](https://github.com/saimanupadala/leetcode-problems-/tree/master/0518-coin-change-ii) |
 | [0526-beautiful-arrangement](https://github.com/saimanupadala/leetcode-problems-/tree/master/0526-beautiful-arrangement) |
+| [0542-01-matrix](https://github.com/saimanupadala/leetcode-problems-/tree/master/0542-01-matrix) |
 | [0546-remove-boxes](https://github.com/saimanupadala/leetcode-problems-/tree/master/0546-remove-boxes) |
 ## Math
 |  |
@@ -680,6 +681,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0532-k-diff-pairs-in-an-array](https://github.com/saimanupadala/leetcode-problems-/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0539-minimum-time-difference](https://github.com/saimanupadala/leetcode-problems-/tree/master/0539-minimum-time-difference) |
 | [0540-single-element-in-a-sorted-array](https://github.com/saimanupadala/leetcode-problems-/tree/master/0540-single-element-in-a-sorted-array) |
+| [0542-01-matrix](https://github.com/saimanupadala/leetcode-problems-/tree/master/0542-01-matrix) |
 | [0546-remove-boxes](https://github.com/saimanupadala/leetcode-problems-/tree/master/0546-remove-boxes) |
 ## Greedy
 |  |
@@ -1018,6 +1020,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0427-construct-quad-tree](https://github.com/saimanupadala/leetcode-problems-/tree/master/0427-construct-quad-tree) |
 | [0498-diagonal-traverse](https://github.com/saimanupadala/leetcode-problems-/tree/master/0498-diagonal-traverse) |
 | [0529-minesweeper](https://github.com/saimanupadala/leetcode-problems-/tree/master/0529-minesweeper) |
+| [0542-01-matrix](https://github.com/saimanupadala/leetcode-problems-/tree/master/0542-01-matrix) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -1288,6 +1291,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0515-find-largest-value-in-each-tree-row](https://github.com/saimanupadala/leetcode-problems-/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0529-minesweeper](https://github.com/saimanupadala/leetcode-problems-/tree/master/0529-minesweeper) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/saimanupadala/leetcode-problems-/tree/master/0530-minimum-absolute-difference-in-bst) |
+| [0542-01-matrix](https://github.com/saimanupadala/leetcode-problems-/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/saimanupadala/leetcode-problems-/tree/master/0547-number-of-provinces) |
 ## DP on Trees
 |  |
