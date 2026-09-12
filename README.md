@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/saimanupadala/leetcode-problems-/tree/master/0524-longest-word-in-dictionary-through-deleting) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/saimanupadala/leetcode-problems-/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0541-reverse-string-ii](https://github.com/saimanupadala/leetcode-problems-/tree/master/0541-reverse-string-ii) |
+| [0556-next-greater-element-iii](https://github.com/saimanupadala/leetcode-problems-/tree/master/0556-next-greater-element-iii) |
 ## String
 |  |
 | ------- |
@@ -168,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0539-minimum-time-difference](https://github.com/saimanupadala/leetcode-problems-/tree/master/0539-minimum-time-difference) |
 | [0541-reverse-string-ii](https://github.com/saimanupadala/leetcode-problems-/tree/master/0541-reverse-string-ii) |
 | [0551-student-attendance-record-i](https://github.com/saimanupadala/leetcode-problems-/tree/master/0551-student-attendance-record-i) |
+| [0556-next-greater-element-iii](https://github.com/saimanupadala/leetcode-problems-/tree/master/0556-next-greater-element-iii) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -347,6 +349,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0537-complex-number-multiplication](https://github.com/saimanupadala/leetcode-problems-/tree/master/0537-complex-number-multiplication) |
 | [0539-minimum-time-difference](https://github.com/saimanupadala/leetcode-problems-/tree/master/0539-minimum-time-difference) |
 | [0553-optimal-division](https://github.com/saimanupadala/leetcode-problems-/tree/master/0553-optimal-division) |
+| [0556-next-greater-element-iii](https://github.com/saimanupadala/leetcode-problems-/tree/master/0556-next-greater-element-iii) |
 ## String Matching
 |  |
 | ------- |
