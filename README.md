@@ -701,6 +701,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/saimanupadala/leetcode-problems-/tree/master/0560-subarray-sum-equals-k) |
 | [0561-array-partition](https://github.com/saimanupadala/leetcode-problems-/tree/master/0561-array-partition) |
 | [0565-array-nesting](https://github.com/saimanupadala/leetcode-problems-/tree/master/0565-array-nesting) |
+| [0566-reshape-the-matrix](https://github.com/saimanupadala/leetcode-problems-/tree/master/0566-reshape-the-matrix) |
 ## Greedy
 |  |
 | ------- |
@@ -1042,6 +1043,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0498-diagonal-traverse](https://github.com/saimanupadala/leetcode-problems-/tree/master/0498-diagonal-traverse) |
 | [0529-minesweeper](https://github.com/saimanupadala/leetcode-problems-/tree/master/0529-minesweeper) |
 | [0542-01-matrix](https://github.com/saimanupadala/leetcode-problems-/tree/master/0542-01-matrix) |
+| [0566-reshape-the-matrix](https://github.com/saimanupadala/leetcode-problems-/tree/master/0566-reshape-the-matrix) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -1069,6 +1071,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0495-teemo-attacking](https://github.com/saimanupadala/leetcode-problems-/tree/master/0495-teemo-attacking) |
 | [0498-diagonal-traverse](https://github.com/saimanupadala/leetcode-problems-/tree/master/0498-diagonal-traverse) |
 | [0537-complex-number-multiplication](https://github.com/saimanupadala/leetcode-problems-/tree/master/0537-complex-number-multiplication) |
+| [0566-reshape-the-matrix](https://github.com/saimanupadala/leetcode-problems-/tree/master/0566-reshape-the-matrix) |
 ## Combinatorics
 |  |
 | ------- |
