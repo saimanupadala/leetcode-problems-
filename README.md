@@ -700,6 +700,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0554-brick-wall](https://github.com/saimanupadala/leetcode-problems-/tree/master/0554-brick-wall) |
 | [0560-subarray-sum-equals-k](https://github.com/saimanupadala/leetcode-problems-/tree/master/0560-subarray-sum-equals-k) |
 | [0561-array-partition](https://github.com/saimanupadala/leetcode-problems-/tree/master/0561-array-partition) |
+| [0565-array-nesting](https://github.com/saimanupadala/leetcode-problems-/tree/master/0565-array-nesting) |
 ## Greedy
 |  |
 | ------- |
@@ -1148,6 +1149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0543-diameter-of-binary-tree](https://github.com/saimanupadala/leetcode-problems-/tree/master/0543-diameter-of-binary-tree) |
 | [0547-number-of-provinces](https://github.com/saimanupadala/leetcode-problems-/tree/master/0547-number-of-provinces) |
 | [0559-maximum-depth-of-n-ary-tree](https://github.com/saimanupadala/leetcode-problems-/tree/master/0559-maximum-depth-of-n-ary-tree) |
+| [0565-array-nesting](https://github.com/saimanupadala/leetcode-problems-/tree/master/0565-array-nesting) |
 ## Tree
 |  |
 | ------- |
