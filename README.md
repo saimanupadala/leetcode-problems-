@@ -172,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0551-student-attendance-record-i](https://github.com/saimanupadala/leetcode-problems-/tree/master/0551-student-attendance-record-i) |
 | [0556-next-greater-element-iii](https://github.com/saimanupadala/leetcode-problems-/tree/master/0556-next-greater-element-iii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/saimanupadala/leetcode-problems-/tree/master/0557-reverse-words-in-a-string-iii) |
+| [0564-find-the-closest-palindrome](https://github.com/saimanupadala/leetcode-problems-/tree/master/0564-find-the-closest-palindrome) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -352,6 +353,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0539-minimum-time-difference](https://github.com/saimanupadala/leetcode-problems-/tree/master/0539-minimum-time-difference) |
 | [0553-optimal-division](https://github.com/saimanupadala/leetcode-problems-/tree/master/0553-optimal-division) |
 | [0556-next-greater-element-iii](https://github.com/saimanupadala/leetcode-problems-/tree/master/0556-next-greater-element-iii) |
+| [0564-find-the-closest-palindrome](https://github.com/saimanupadala/leetcode-problems-/tree/master/0564-find-the-closest-palindrome) |
 ## String Matching
 |  |
 | ------- |
