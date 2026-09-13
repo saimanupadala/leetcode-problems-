@@ -356,6 +356,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0553-optimal-division](https://github.com/saimanupadala/leetcode-problems-/tree/master/0553-optimal-division) |
 | [0556-next-greater-element-iii](https://github.com/saimanupadala/leetcode-problems-/tree/master/0556-next-greater-element-iii) |
 | [0564-find-the-closest-palindrome](https://github.com/saimanupadala/leetcode-problems-/tree/master/0564-find-the-closest-palindrome) |
+| [0587-erect-the-fence](https://github.com/saimanupadala/leetcode-problems-/tree/master/0587-erect-the-fence) |
 ## String Matching
 |  |
 | ------- |
@@ -705,6 +706,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0561-array-partition](https://github.com/saimanupadala/leetcode-problems-/tree/master/0561-array-partition) |
 | [0565-array-nesting](https://github.com/saimanupadala/leetcode-problems-/tree/master/0565-array-nesting) |
 | [0566-reshape-the-matrix](https://github.com/saimanupadala/leetcode-problems-/tree/master/0566-reshape-the-matrix) |
+| [0587-erect-the-fence](https://github.com/saimanupadala/leetcode-problems-/tree/master/0587-erect-the-fence) |
 ## Greedy
 |  |
 | ------- |
@@ -1416,6 +1418,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0335-self-crossing](https://github.com/saimanupadala/leetcode-problems-/tree/master/0335-self-crossing) |
 | [0391-perfect-rectangle](https://github.com/saimanupadala/leetcode-problems-/tree/master/0391-perfect-rectangle) |
 | [0478-generate-random-point-in-a-circle](https://github.com/saimanupadala/leetcode-problems-/tree/master/0478-generate-random-point-in-a-circle) |
+| [0587-erect-the-fence](https://github.com/saimanupadala/leetcode-problems-/tree/master/0587-erect-the-fence) |
 ## Euclidean Algorithm
 |  |
 | ------- |
@@ -1796,4 +1799,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/saimanupadala/leetcode-problems-/tree/master/0486-predict-the-winner) |
+## Convex Hull
+|  |
+| ------- |
+| [0587-erect-the-fence](https://github.com/saimanupadala/leetcode-problems-/tree/master/0587-erect-the-fence) |
+## Polygons
+|  |
+| ------- |
+| [0587-erect-the-fence](https://github.com/saimanupadala/leetcode-problems-/tree/master/0587-erect-the-fence) |
 <!---LeetCode Topics End-->
