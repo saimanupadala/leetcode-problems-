@@ -363,6 +363,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/saimanupadala/leetcode-problems-/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0214-shortest-palindrome](https://github.com/saimanupadala/leetcode-problems-/tree/master/0214-shortest-palindrome) |
 | [0459-repeated-substring-pattern](https://github.com/saimanupadala/leetcode-problems-/tree/master/0459-repeated-substring-pattern) |
+| [0572-subtree-of-another-tree](https://github.com/saimanupadala/leetcode-problems-/tree/master/0572-subtree-of-another-tree) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -1160,6 +1161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0559-maximum-depth-of-n-ary-tree](https://github.com/saimanupadala/leetcode-problems-/tree/master/0559-maximum-depth-of-n-ary-tree) |
 | [0563-binary-tree-tilt](https://github.com/saimanupadala/leetcode-problems-/tree/master/0563-binary-tree-tilt) |
 | [0565-array-nesting](https://github.com/saimanupadala/leetcode-problems-/tree/master/0565-array-nesting) |
+| [0572-subtree-of-another-tree](https://github.com/saimanupadala/leetcode-problems-/tree/master/0572-subtree-of-another-tree) |
 ## Tree
 |  |
 | ------- |
@@ -1217,6 +1219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0558-logical-or-of-two-binary-grids-represented-as-quad-trees](https://github.com/saimanupadala/leetcode-problems-/tree/master/0558-logical-or-of-two-binary-grids-represented-as-quad-trees) |
 | [0559-maximum-depth-of-n-ary-tree](https://github.com/saimanupadala/leetcode-problems-/tree/master/0559-maximum-depth-of-n-ary-tree) |
 | [0563-binary-tree-tilt](https://github.com/saimanupadala/leetcode-problems-/tree/master/0563-binary-tree-tilt) |
+| [0572-subtree-of-another-tree](https://github.com/saimanupadala/leetcode-problems-/tree/master/0572-subtree-of-another-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -1269,6 +1272,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0538-convert-bst-to-greater-tree](https://github.com/saimanupadala/leetcode-problems-/tree/master/0538-convert-bst-to-greater-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/saimanupadala/leetcode-problems-/tree/master/0543-diameter-of-binary-tree) |
 | [0563-binary-tree-tilt](https://github.com/saimanupadala/leetcode-problems-/tree/master/0563-binary-tree-tilt) |
+| [0572-subtree-of-another-tree](https://github.com/saimanupadala/leetcode-problems-/tree/master/0572-subtree-of-another-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -1500,6 +1504,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0214-shortest-palindrome](https://github.com/saimanupadala/leetcode-problems-/tree/master/0214-shortest-palindrome) |
 | [0336-palindrome-pairs](https://github.com/saimanupadala/leetcode-problems-/tree/master/0336-palindrome-pairs) |
 | [0535-encode-and-decode-tinyurl](https://github.com/saimanupadala/leetcode-problems-/tree/master/0535-encode-and-decode-tinyurl) |
+| [0572-subtree-of-another-tree](https://github.com/saimanupadala/leetcode-problems-/tree/master/0572-subtree-of-another-tree) |
 ## Z Algorithm
 |  |
 | ------- |
