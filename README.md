@@ -506,6 +506,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0554-brick-wall](https://github.com/saimanupadala/leetcode-problems-/tree/master/0554-brick-wall) |
 | [0560-subarray-sum-equals-k](https://github.com/saimanupadala/leetcode-problems-/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/saimanupadala/leetcode-problems-/tree/master/0567-permutation-in-string) |
+| [0575-distribute-candies](https://github.com/saimanupadala/leetcode-problems-/tree/master/0575-distribute-candies) |
 ## Array
 |  |
 | ------- |
@@ -707,6 +708,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0561-array-partition](https://github.com/saimanupadala/leetcode-problems-/tree/master/0561-array-partition) |
 | [0565-array-nesting](https://github.com/saimanupadala/leetcode-problems-/tree/master/0565-array-nesting) |
 | [0566-reshape-the-matrix](https://github.com/saimanupadala/leetcode-problems-/tree/master/0566-reshape-the-matrix) |
+| [0575-distribute-candies](https://github.com/saimanupadala/leetcode-problems-/tree/master/0575-distribute-candies) |
 | [0587-erect-the-fence](https://github.com/saimanupadala/leetcode-problems-/tree/master/0587-erect-the-fence) |
 ## Greedy
 |  |
