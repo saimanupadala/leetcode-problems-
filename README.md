@@ -263,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0546-remove-boxes](https://github.com/saimanupadala/leetcode-problems-/tree/master/0546-remove-boxes) |
 | [0552-student-attendance-record-ii](https://github.com/saimanupadala/leetcode-problems-/tree/master/0552-student-attendance-record-ii) |
 | [0553-optimal-division](https://github.com/saimanupadala/leetcode-problems-/tree/master/0553-optimal-division) |
+| [0576-out-of-boundary-paths](https://github.com/saimanupadala/leetcode-problems-/tree/master/0576-out-of-boundary-paths) |
 ## Math
 |  |
 | ------- |
