@@ -1504,6 +1504,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0577-employee-bonus](https://github.com/saimanupadala/leetcode-problems-/tree/master/0577-employee-bonus) |
 | [0584-find-customer-referee](https://github.com/saimanupadala/leetcode-problems-/tree/master/0584-find-customer-referee) |
 | [0585-investments-in-2016](https://github.com/saimanupadala/leetcode-problems-/tree/master/0585-investments-in-2016) |
+| [0586-customer-placing-the-largest-number-of-orders](https://github.com/saimanupadala/leetcode-problems-/tree/master/0586-customer-placing-the-largest-number-of-orders) |
 | [1661-average-time-of-process-per-machine](https://github.com/saimanupadala/leetcode-problems-/tree/master/1661-average-time-of-process-per-machine) |
 ## Rolling Hash
 |  |
