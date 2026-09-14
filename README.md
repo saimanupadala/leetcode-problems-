@@ -177,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0564-find-the-closest-palindrome](https://github.com/saimanupadala/leetcode-problems-/tree/master/0564-find-the-closest-palindrome) |
 | [0567-permutation-in-string](https://github.com/saimanupadala/leetcode-problems-/tree/master/0567-permutation-in-string) |
 | [0583-delete-operation-for-two-strings](https://github.com/saimanupadala/leetcode-problems-/tree/master/0583-delete-operation-for-two-strings) |
+| [0591-tag-validator](https://github.com/saimanupadala/leetcode-problems-/tree/master/0591-tag-validator) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -917,6 +918,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/saimanupadala/leetcode-problems-/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/saimanupadala/leetcode-problems-/tree/master/0503-next-greater-element-ii) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/saimanupadala/leetcode-problems-/tree/master/0581-shortest-unsorted-continuous-subarray) |
+| [0591-tag-validator](https://github.com/saimanupadala/leetcode-problems-/tree/master/0591-tag-validator) |
 ## Divide and Conquer
 |  |
 | ------- |
