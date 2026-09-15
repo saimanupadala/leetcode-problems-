@@ -179,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0583-delete-operation-for-two-strings](https://github.com/saimanupadala/leetcode-problems-/tree/master/0583-delete-operation-for-two-strings) |
 | [0591-tag-validator](https://github.com/saimanupadala/leetcode-problems-/tree/master/0591-tag-validator) |
 | [0592-fraction-addition-and-subtraction](https://github.com/saimanupadala/leetcode-problems-/tree/master/0592-fraction-addition-and-subtraction) |
+| [0599-minimum-index-sum-of-two-lists](https://github.com/saimanupadala/leetcode-problems-/tree/master/0599-minimum-index-sum-of-two-lists) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -518,6 +519,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/saimanupadala/leetcode-problems-/tree/master/0567-permutation-in-string) |
 | [0575-distribute-candies](https://github.com/saimanupadala/leetcode-problems-/tree/master/0575-distribute-candies) |
 | [0594-longest-harmonious-subsequence](https://github.com/saimanupadala/leetcode-problems-/tree/master/0594-longest-harmonious-subsequence) |
+| [0599-minimum-index-sum-of-two-lists](https://github.com/saimanupadala/leetcode-problems-/tree/master/0599-minimum-index-sum-of-two-lists) |
 ## Array
 |  |
 | ------- |
@@ -724,6 +726,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0587-erect-the-fence](https://github.com/saimanupadala/leetcode-problems-/tree/master/0587-erect-the-fence) |
 | [0594-longest-harmonious-subsequence](https://github.com/saimanupadala/leetcode-problems-/tree/master/0594-longest-harmonious-subsequence) |
 | [0598-range-addition-ii](https://github.com/saimanupadala/leetcode-problems-/tree/master/0598-range-addition-ii) |
+| [0599-minimum-index-sum-of-two-lists](https://github.com/saimanupadala/leetcode-problems-/tree/master/0599-minimum-index-sum-of-two-lists) |
 ## Greedy
 |  |
 | ------- |
