@@ -739,6 +739,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0609-find-duplicate-file-in-system](https://github.com/saimanupadala/leetcode-problems-/tree/master/0609-find-duplicate-file-in-system) |
 | [0611-valid-triangle-number](https://github.com/saimanupadala/leetcode-problems-/tree/master/0611-valid-triangle-number) |
 | [0621-task-scheduler](https://github.com/saimanupadala/leetcode-problems-/tree/master/0621-task-scheduler) |
+| [0622-design-circular-queue](https://github.com/saimanupadala/leetcode-problems-/tree/master/0622-design-circular-queue) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/saimanupadala/leetcode-problems-/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0643-maximum-average-subarray-i](https://github.com/saimanupadala/leetcode-problems-/tree/master/0643-maximum-average-subarray-i) |
 ## Greedy
@@ -915,6 +916,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0432-all-oone-data-structure](https://github.com/saimanupadala/leetcode-problems-/tree/master/0432-all-oone-data-structure) |
 | [0445-add-two-numbers-ii](https://github.com/saimanupadala/leetcode-problems-/tree/master/0445-add-two-numbers-ii) |
 | [0460-lfu-cache](https://github.com/saimanupadala/leetcode-problems-/tree/master/0460-lfu-cache) |
+| [0622-design-circular-queue](https://github.com/saimanupadala/leetcode-problems-/tree/master/0622-design-circular-queue) |
 ## Stack
 |  |
 | ------- |
@@ -1474,6 +1476,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0449-serialize-and-deserialize-bst](https://github.com/saimanupadala/leetcode-problems-/tree/master/0449-serialize-and-deserialize-bst) |
 | [0460-lfu-cache](https://github.com/saimanupadala/leetcode-problems-/tree/master/0460-lfu-cache) |
 | [0535-encode-and-decode-tinyurl](https://github.com/saimanupadala/leetcode-problems-/tree/master/0535-encode-and-decode-tinyurl) |
+| [0622-design-circular-queue](https://github.com/saimanupadala/leetcode-problems-/tree/master/0622-design-circular-queue) |
 ## Doubly-Linked List
 |  |
 | ------- |
@@ -1699,6 +1702,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/saimanupadala/leetcode-problems-/tree/master/0239-sliding-window-maximum) |
 | [0341-flatten-nested-list-iterator](https://github.com/saimanupadala/leetcode-problems-/tree/master/0341-flatten-nested-list-iterator) |
 | [0387-first-unique-character-in-a-string](https://github.com/saimanupadala/leetcode-problems-/tree/master/0387-first-unique-character-in-a-string) |
+| [0622-design-circular-queue](https://github.com/saimanupadala/leetcode-problems-/tree/master/0622-design-circular-queue) |
 ## Binary Lifting
 |  |
 | ------- |
