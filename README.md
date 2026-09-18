@@ -744,6 +744,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0622-design-circular-queue](https://github.com/saimanupadala/leetcode-problems-/tree/master/0622-design-circular-queue) |
 | [0624-maximum-distance-in-arrays](https://github.com/saimanupadala/leetcode-problems-/tree/master/0624-maximum-distance-in-arrays) |
 | [0628-maximum-product-of-three-numbers](https://github.com/saimanupadala/leetcode-problems-/tree/master/0628-maximum-product-of-three-numbers) |
+| [0630-course-schedule-iii](https://github.com/saimanupadala/leetcode-problems-/tree/master/0630-course-schedule-iii) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/saimanupadala/leetcode-problems-/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0643-maximum-average-subarray-i](https://github.com/saimanupadala/leetcode-problems-/tree/master/0643-maximum-average-subarray-i) |
 ## Greedy
@@ -779,6 +780,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0611-valid-triangle-number](https://github.com/saimanupadala/leetcode-problems-/tree/master/0611-valid-triangle-number) |
 | [0621-task-scheduler](https://github.com/saimanupadala/leetcode-problems-/tree/master/0621-task-scheduler) |
 | [0624-maximum-distance-in-arrays](https://github.com/saimanupadala/leetcode-problems-/tree/master/0624-maximum-distance-in-arrays) |
+| [0630-course-schedule-iii](https://github.com/saimanupadala/leetcode-problems-/tree/master/0630-course-schedule-iii) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/saimanupadala/leetcode-problems-/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 ## Trie
 |  |
@@ -850,6 +852,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0611-valid-triangle-number](https://github.com/saimanupadala/leetcode-problems-/tree/master/0611-valid-triangle-number) |
 | [0621-task-scheduler](https://github.com/saimanupadala/leetcode-problems-/tree/master/0621-task-scheduler) |
 | [0628-maximum-product-of-three-numbers](https://github.com/saimanupadala/leetcode-problems-/tree/master/0628-maximum-product-of-three-numbers) |
+| [0630-course-schedule-iii](https://github.com/saimanupadala/leetcode-problems-/tree/master/0630-course-schedule-iii) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/saimanupadala/leetcode-problems-/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 ## Backtracking
 |  |
@@ -1007,6 +1010,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0502-ipo](https://github.com/saimanupadala/leetcode-problems-/tree/master/0502-ipo) |
 | [0506-relative-ranks](https://github.com/saimanupadala/leetcode-problems-/tree/master/0506-relative-ranks) |
 | [0621-task-scheduler](https://github.com/saimanupadala/leetcode-problems-/tree/master/0621-task-scheduler) |
+| [0630-course-schedule-iii](https://github.com/saimanupadala/leetcode-problems-/tree/master/0630-course-schedule-iii) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/saimanupadala/leetcode-problems-/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 ## Merge Sort
 |  |
