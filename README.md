@@ -275,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0576-out-of-boundary-paths](https://github.com/saimanupadala/leetcode-problems-/tree/master/0576-out-of-boundary-paths) |
 | [0583-delete-operation-for-two-strings](https://github.com/saimanupadala/leetcode-problems-/tree/master/0583-delete-operation-for-two-strings) |
 | [0600-non-negative-integers-without-consecutive-ones](https://github.com/saimanupadala/leetcode-problems-/tree/master/0600-non-negative-integers-without-consecutive-ones) |
+| [0629-k-inverse-pairs-array](https://github.com/saimanupadala/leetcode-problems-/tree/master/0629-k-inverse-pairs-array) |
 ## Math
 |  |
 | ------- |
