@@ -373,6 +373,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0592-fraction-addition-and-subtraction](https://github.com/saimanupadala/leetcode-problems-/tree/master/0592-fraction-addition-and-subtraction) |
 | [0593-valid-square](https://github.com/saimanupadala/leetcode-problems-/tree/master/0593-valid-square) |
 | [0598-range-addition-ii](https://github.com/saimanupadala/leetcode-problems-/tree/master/0598-range-addition-ii) |
+| [0628-maximum-product-of-three-numbers](https://github.com/saimanupadala/leetcode-problems-/tree/master/0628-maximum-product-of-three-numbers) |
 | [0633-sum-of-square-numbers](https://github.com/saimanupadala/leetcode-problems-/tree/master/0633-sum-of-square-numbers) |
 ## String Matching
 |  |
@@ -742,6 +743,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/saimanupadala/leetcode-problems-/tree/master/0621-task-scheduler) |
 | [0622-design-circular-queue](https://github.com/saimanupadala/leetcode-problems-/tree/master/0622-design-circular-queue) |
 | [0624-maximum-distance-in-arrays](https://github.com/saimanupadala/leetcode-problems-/tree/master/0624-maximum-distance-in-arrays) |
+| [0628-maximum-product-of-three-numbers](https://github.com/saimanupadala/leetcode-problems-/tree/master/0628-maximum-product-of-three-numbers) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/saimanupadala/leetcode-problems-/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0643-maximum-average-subarray-i](https://github.com/saimanupadala/leetcode-problems-/tree/master/0643-maximum-average-subarray-i) |
 ## Greedy
@@ -847,6 +849,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0594-longest-harmonious-subsequence](https://github.com/saimanupadala/leetcode-problems-/tree/master/0594-longest-harmonious-subsequence) |
 | [0611-valid-triangle-number](https://github.com/saimanupadala/leetcode-problems-/tree/master/0611-valid-triangle-number) |
 | [0621-task-scheduler](https://github.com/saimanupadala/leetcode-problems-/tree/master/0621-task-scheduler) |
+| [0628-maximum-product-of-three-numbers](https://github.com/saimanupadala/leetcode-problems-/tree/master/0628-maximum-product-of-three-numbers) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/saimanupadala/leetcode-problems-/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 ## Backtracking
 |  |
