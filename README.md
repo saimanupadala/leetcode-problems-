@@ -1224,6 +1224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0590-n-ary-tree-postorder-traversal](https://github.com/saimanupadala/leetcode-problems-/tree/master/0590-n-ary-tree-postorder-traversal) |
 | [0606-construct-string-from-binary-tree](https://github.com/saimanupadala/leetcode-problems-/tree/master/0606-construct-string-from-binary-tree) |
 | [0617-merge-two-binary-trees](https://github.com/saimanupadala/leetcode-problems-/tree/master/0617-merge-two-binary-trees) |
+| [0623-add-one-row-to-tree](https://github.com/saimanupadala/leetcode-problems-/tree/master/0623-add-one-row-to-tree) |
 ## Tree
 |  |
 | ------- |
@@ -1286,6 +1287,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0590-n-ary-tree-postorder-traversal](https://github.com/saimanupadala/leetcode-problems-/tree/master/0590-n-ary-tree-postorder-traversal) |
 | [0606-construct-string-from-binary-tree](https://github.com/saimanupadala/leetcode-problems-/tree/master/0606-construct-string-from-binary-tree) |
 | [0617-merge-two-binary-trees](https://github.com/saimanupadala/leetcode-problems-/tree/master/0617-merge-two-binary-trees) |
+| [0623-add-one-row-to-tree](https://github.com/saimanupadala/leetcode-problems-/tree/master/0623-add-one-row-to-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -1341,6 +1343,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0572-subtree-of-another-tree](https://github.com/saimanupadala/leetcode-problems-/tree/master/0572-subtree-of-another-tree) |
 | [0606-construct-string-from-binary-tree](https://github.com/saimanupadala/leetcode-problems-/tree/master/0606-construct-string-from-binary-tree) |
 | [0617-merge-two-binary-trees](https://github.com/saimanupadala/leetcode-problems-/tree/master/0617-merge-two-binary-trees) |
+| [0623-add-one-row-to-tree](https://github.com/saimanupadala/leetcode-problems-/tree/master/0623-add-one-row-to-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -1404,6 +1407,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/saimanupadala/leetcode-problems-/tree/master/0547-number-of-provinces) |
 | [0559-maximum-depth-of-n-ary-tree](https://github.com/saimanupadala/leetcode-problems-/tree/master/0559-maximum-depth-of-n-ary-tree) |
 | [0617-merge-two-binary-trees](https://github.com/saimanupadala/leetcode-problems-/tree/master/0617-merge-two-binary-trees) |
+| [0623-add-one-row-to-tree](https://github.com/saimanupadala/leetcode-problems-/tree/master/0623-add-one-row-to-tree) |
 ## DP on Trees
 |  |
 | ------- |
