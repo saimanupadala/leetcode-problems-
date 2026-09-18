@@ -526,6 +526,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0594-longest-harmonious-subsequence](https://github.com/saimanupadala/leetcode-problems-/tree/master/0594-longest-harmonious-subsequence) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/saimanupadala/leetcode-problems-/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0609-find-duplicate-file-in-system](https://github.com/saimanupadala/leetcode-problems-/tree/master/0609-find-duplicate-file-in-system) |
+| [0621-task-scheduler](https://github.com/saimanupadala/leetcode-problems-/tree/master/0621-task-scheduler) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/saimanupadala/leetcode-problems-/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 ## Array
 |  |
@@ -737,6 +738,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0605-can-place-flowers](https://github.com/saimanupadala/leetcode-problems-/tree/master/0605-can-place-flowers) |
 | [0609-find-duplicate-file-in-system](https://github.com/saimanupadala/leetcode-problems-/tree/master/0609-find-duplicate-file-in-system) |
 | [0611-valid-triangle-number](https://github.com/saimanupadala/leetcode-problems-/tree/master/0611-valid-triangle-number) |
+| [0621-task-scheduler](https://github.com/saimanupadala/leetcode-problems-/tree/master/0621-task-scheduler) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/saimanupadala/leetcode-problems-/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0643-maximum-average-subarray-i](https://github.com/saimanupadala/leetcode-problems-/tree/master/0643-maximum-average-subarray-i) |
 ## Greedy
@@ -770,6 +772,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/saimanupadala/leetcode-problems-/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0605-can-place-flowers](https://github.com/saimanupadala/leetcode-problems-/tree/master/0605-can-place-flowers) |
 | [0611-valid-triangle-number](https://github.com/saimanupadala/leetcode-problems-/tree/master/0611-valid-triangle-number) |
+| [0621-task-scheduler](https://github.com/saimanupadala/leetcode-problems-/tree/master/0621-task-scheduler) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/saimanupadala/leetcode-problems-/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 ## Trie
 |  |
@@ -839,6 +842,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/saimanupadala/leetcode-problems-/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0594-longest-harmonious-subsequence](https://github.com/saimanupadala/leetcode-problems-/tree/master/0594-longest-harmonious-subsequence) |
 | [0611-valid-triangle-number](https://github.com/saimanupadala/leetcode-problems-/tree/master/0611-valid-triangle-number) |
+| [0621-task-scheduler](https://github.com/saimanupadala/leetcode-problems-/tree/master/0621-task-scheduler) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/saimanupadala/leetcode-problems-/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 ## Backtracking
 |  |
@@ -994,6 +998,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0480-sliding-window-median](https://github.com/saimanupadala/leetcode-problems-/tree/master/0480-sliding-window-median) |
 | [0502-ipo](https://github.com/saimanupadala/leetcode-problems-/tree/master/0502-ipo) |
 | [0506-relative-ranks](https://github.com/saimanupadala/leetcode-problems-/tree/master/0506-relative-ranks) |
+| [0621-task-scheduler](https://github.com/saimanupadala/leetcode-problems-/tree/master/0621-task-scheduler) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/saimanupadala/leetcode-problems-/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 ## Merge Sort
 |  |
@@ -1526,6 +1531,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/saimanupadala/leetcode-problems-/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/saimanupadala/leetcode-problems-/tree/master/0451-sort-characters-by-frequency) |
 | [0594-longest-harmonious-subsequence](https://github.com/saimanupadala/leetcode-problems-/tree/master/0594-longest-harmonious-subsequence) |
+| [0621-task-scheduler](https://github.com/saimanupadala/leetcode-problems-/tree/master/0621-task-scheduler) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
