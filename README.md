@@ -185,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0606-construct-string-from-binary-tree](https://github.com/saimanupadala/leetcode-problems-/tree/master/0606-construct-string-from-binary-tree) |
 | [0609-find-duplicate-file-in-system](https://github.com/saimanupadala/leetcode-problems-/tree/master/0609-find-duplicate-file-in-system) |
 | [0639-decode-ways-ii](https://github.com/saimanupadala/leetcode-problems-/tree/master/0639-decode-ways-ii) |
+| [0640-solve-the-equation](https://github.com/saimanupadala/leetcode-problems-/tree/master/0640-solve-the-equation) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -378,6 +379,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0598-range-addition-ii](https://github.com/saimanupadala/leetcode-problems-/tree/master/0598-range-addition-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/saimanupadala/leetcode-problems-/tree/master/0628-maximum-product-of-three-numbers) |
 | [0633-sum-of-square-numbers](https://github.com/saimanupadala/leetcode-problems-/tree/master/0633-sum-of-square-numbers) |
+| [0640-solve-the-equation](https://github.com/saimanupadala/leetcode-problems-/tree/master/0640-solve-the-equation) |
 ## String Matching
 |  |
 | ------- |
@@ -1155,6 +1157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0537-complex-number-multiplication](https://github.com/saimanupadala/leetcode-problems-/tree/master/0537-complex-number-multiplication) |
 | [0566-reshape-the-matrix](https://github.com/saimanupadala/leetcode-problems-/tree/master/0566-reshape-the-matrix) |
 | [0592-fraction-addition-and-subtraction](https://github.com/saimanupadala/leetcode-problems-/tree/master/0592-fraction-addition-and-subtraction) |
+| [0640-solve-the-equation](https://github.com/saimanupadala/leetcode-problems-/tree/master/0640-solve-the-equation) |
 ## Combinatorics
 |  |
 | ------- |
@@ -1936,4 +1939,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0583-delete-operation-for-two-strings](https://github.com/saimanupadala/leetcode-problems-/tree/master/0583-delete-operation-for-two-strings) |
+## Linear Algebra
+|  |
+| ------- |
+| [0640-solve-the-equation](https://github.com/saimanupadala/leetcode-problems-/tree/master/0640-solve-the-equation) |
 <!---LeetCode Topics End-->
