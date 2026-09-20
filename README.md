@@ -547,6 +547,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/saimanupadala/leetcode-problems-/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0645-set-mismatch](https://github.com/saimanupadala/leetcode-problems-/tree/master/0645-set-mismatch) |
 | [0648-replace-words](https://github.com/saimanupadala/leetcode-problems-/tree/master/0648-replace-words) |
+| [0652-find-duplicate-subtrees](https://github.com/saimanupadala/leetcode-problems-/tree/master/0652-find-duplicate-subtrees) |
 ## Array
 |  |
 | ------- |
@@ -1269,6 +1270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0617-merge-two-binary-trees](https://github.com/saimanupadala/leetcode-problems-/tree/master/0617-merge-two-binary-trees) |
 | [0623-add-one-row-to-tree](https://github.com/saimanupadala/leetcode-problems-/tree/master/0623-add-one-row-to-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/saimanupadala/leetcode-problems-/tree/master/0637-average-of-levels-in-binary-tree) |
+| [0652-find-duplicate-subtrees](https://github.com/saimanupadala/leetcode-problems-/tree/master/0652-find-duplicate-subtrees) |
 ## Tree
 |  |
 | ------- |
@@ -1333,6 +1335,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0617-merge-two-binary-trees](https://github.com/saimanupadala/leetcode-problems-/tree/master/0617-merge-two-binary-trees) |
 | [0623-add-one-row-to-tree](https://github.com/saimanupadala/leetcode-problems-/tree/master/0623-add-one-row-to-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/saimanupadala/leetcode-problems-/tree/master/0637-average-of-levels-in-binary-tree) |
+| [0652-find-duplicate-subtrees](https://github.com/saimanupadala/leetcode-problems-/tree/master/0652-find-duplicate-subtrees) |
 ## Binary Tree
 |  |
 | ------- |
@@ -1390,6 +1393,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0617-merge-two-binary-trees](https://github.com/saimanupadala/leetcode-problems-/tree/master/0617-merge-two-binary-trees) |
 | [0623-add-one-row-to-tree](https://github.com/saimanupadala/leetcode-problems-/tree/master/0623-add-one-row-to-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/saimanupadala/leetcode-problems-/tree/master/0637-average-of-levels-in-binary-tree) |
+| [0652-find-duplicate-subtrees](https://github.com/saimanupadala/leetcode-problems-/tree/master/0652-find-duplicate-subtrees) |
 ## Binary Search Tree
 |  |
 | ------- |
