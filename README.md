@@ -754,6 +754,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/saimanupadala/leetcode-problems-/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0636-exclusive-time-of-functions](https://github.com/saimanupadala/leetcode-problems-/tree/master/0636-exclusive-time-of-functions) |
 | [0638-shopping-offers](https://github.com/saimanupadala/leetcode-problems-/tree/master/0638-shopping-offers) |
+| [0641-design-circular-deque](https://github.com/saimanupadala/leetcode-problems-/tree/master/0641-design-circular-deque) |
 | [0643-maximum-average-subarray-i](https://github.com/saimanupadala/leetcode-problems-/tree/master/0643-maximum-average-subarray-i) |
 ## Greedy
 |  |
@@ -935,6 +936,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0445-add-two-numbers-ii](https://github.com/saimanupadala/leetcode-problems-/tree/master/0445-add-two-numbers-ii) |
 | [0460-lfu-cache](https://github.com/saimanupadala/leetcode-problems-/tree/master/0460-lfu-cache) |
 | [0622-design-circular-queue](https://github.com/saimanupadala/leetcode-problems-/tree/master/0622-design-circular-queue) |
+| [0641-design-circular-deque](https://github.com/saimanupadala/leetcode-problems-/tree/master/0641-design-circular-deque) |
 ## Stack
 |  |
 | ------- |
@@ -1507,6 +1509,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0460-lfu-cache](https://github.com/saimanupadala/leetcode-problems-/tree/master/0460-lfu-cache) |
 | [0535-encode-and-decode-tinyurl](https://github.com/saimanupadala/leetcode-problems-/tree/master/0535-encode-and-decode-tinyurl) |
 | [0622-design-circular-queue](https://github.com/saimanupadala/leetcode-problems-/tree/master/0622-design-circular-queue) |
+| [0641-design-circular-deque](https://github.com/saimanupadala/leetcode-problems-/tree/master/0641-design-circular-deque) |
 ## Doubly-Linked List
 |  |
 | ------- |
@@ -1735,6 +1738,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0341-flatten-nested-list-iterator](https://github.com/saimanupadala/leetcode-problems-/tree/master/0341-flatten-nested-list-iterator) |
 | [0387-first-unique-character-in-a-string](https://github.com/saimanupadala/leetcode-problems-/tree/master/0387-first-unique-character-in-a-string) |
 | [0622-design-circular-queue](https://github.com/saimanupadala/leetcode-problems-/tree/master/0622-design-circular-queue) |
+| [0641-design-circular-deque](https://github.com/saimanupadala/leetcode-problems-/tree/master/0641-design-circular-deque) |
 ## Binary Lifting
 |  |
 | ------- |
