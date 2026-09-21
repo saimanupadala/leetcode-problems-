@@ -782,6 +782,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0658-find-k-closest-elements](https://github.com/saimanupadala/leetcode-problems-/tree/master/0658-find-k-closest-elements) |
 | [0659-split-array-into-consecutive-subsequences](https://github.com/saimanupadala/leetcode-problems-/tree/master/0659-split-array-into-consecutive-subsequences) |
 | [0661-image-smoother](https://github.com/saimanupadala/leetcode-problems-/tree/master/0661-image-smoother) |
+| [0665-non-decreasing-array](https://github.com/saimanupadala/leetcode-problems-/tree/master/0665-non-decreasing-array) |
 ## Greedy
 |  |
 | ------- |
