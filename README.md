@@ -393,6 +393,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0633-sum-of-square-numbers](https://github.com/saimanupadala/leetcode-problems-/tree/master/0633-sum-of-square-numbers) |
 | [0640-solve-the-equation](https://github.com/saimanupadala/leetcode-problems-/tree/master/0640-solve-the-equation) |
 | [0650-2-keys-keyboard](https://github.com/saimanupadala/leetcode-problems-/tree/master/0650-2-keys-keyboard) |
+| [0667-beautiful-arrangement-ii](https://github.com/saimanupadala/leetcode-problems-/tree/master/0667-beautiful-arrangement-ii) |
 ## String Matching
 |  |
 | ------- |
@@ -783,6 +784,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0659-split-array-into-consecutive-subsequences](https://github.com/saimanupadala/leetcode-problems-/tree/master/0659-split-array-into-consecutive-subsequences) |
 | [0661-image-smoother](https://github.com/saimanupadala/leetcode-problems-/tree/master/0661-image-smoother) |
 | [0665-non-decreasing-array](https://github.com/saimanupadala/leetcode-problems-/tree/master/0665-non-decreasing-array) |
+| [0667-beautiful-arrangement-ii](https://github.com/saimanupadala/leetcode-problems-/tree/master/0667-beautiful-arrangement-ii) |
 ## Greedy
 |  |
 | ------- |
