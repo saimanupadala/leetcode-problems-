@@ -552,6 +552,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0648-replace-words](https://github.com/saimanupadala/leetcode-problems-/tree/master/0648-replace-words) |
 | [0652-find-duplicate-subtrees](https://github.com/saimanupadala/leetcode-problems-/tree/master/0652-find-duplicate-subtrees) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/saimanupadala/leetcode-problems-/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0659-split-array-into-consecutive-subsequences](https://github.com/saimanupadala/leetcode-problems-/tree/master/0659-split-array-into-consecutive-subsequences) |
 ## Array
 |  |
 | ------- |
@@ -777,6 +778,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0648-replace-words](https://github.com/saimanupadala/leetcode-problems-/tree/master/0648-replace-words) |
 | [0654-maximum-binary-tree](https://github.com/saimanupadala/leetcode-problems-/tree/master/0654-maximum-binary-tree) |
 | [0658-find-k-closest-elements](https://github.com/saimanupadala/leetcode-problems-/tree/master/0658-find-k-closest-elements) |
+| [0659-split-array-into-consecutive-subsequences](https://github.com/saimanupadala/leetcode-problems-/tree/master/0659-split-array-into-consecutive-subsequences) |
 ## Greedy
 |  |
 | ------- |
@@ -814,6 +816,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/saimanupadala/leetcode-problems-/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0646-maximum-length-of-pair-chain](https://github.com/saimanupadala/leetcode-problems-/tree/master/0646-maximum-length-of-pair-chain) |
 | [0649-dota2-senate](https://github.com/saimanupadala/leetcode-problems-/tree/master/0649-dota2-senate) |
+| [0659-split-array-into-consecutive-subsequences](https://github.com/saimanupadala/leetcode-problems-/tree/master/0659-split-array-into-consecutive-subsequences) |
 ## Trie
 |  |
 | ------- |
@@ -1054,6 +1057,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0630-course-schedule-iii](https://github.com/saimanupadala/leetcode-problems-/tree/master/0630-course-schedule-iii) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/saimanupadala/leetcode-problems-/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0658-find-k-closest-elements](https://github.com/saimanupadala/leetcode-problems-/tree/master/0658-find-k-closest-elements) |
+| [0659-split-array-into-consecutive-subsequences](https://github.com/saimanupadala/leetcode-problems-/tree/master/0659-split-array-into-consecutive-subsequences) |
 ## Merge Sort
 |  |
 | ------- |
