@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0633-sum-of-square-numbers](https://github.com/saimanupadala/leetcode-problems-/tree/master/0633-sum-of-square-numbers) |
 | [0647-palindromic-substrings](https://github.com/saimanupadala/leetcode-problems-/tree/master/0647-palindromic-substrings) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/saimanupadala/leetcode-problems-/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0658-find-k-closest-elements](https://github.com/saimanupadala/leetcode-problems-/tree/master/0658-find-k-closest-elements) |
 ## String
 |  |
 | ------- |
@@ -775,6 +776,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0646-maximum-length-of-pair-chain](https://github.com/saimanupadala/leetcode-problems-/tree/master/0646-maximum-length-of-pair-chain) |
 | [0648-replace-words](https://github.com/saimanupadala/leetcode-problems-/tree/master/0648-replace-words) |
 | [0654-maximum-binary-tree](https://github.com/saimanupadala/leetcode-problems-/tree/master/0654-maximum-binary-tree) |
+| [0658-find-k-closest-elements](https://github.com/saimanupadala/leetcode-problems-/tree/master/0658-find-k-closest-elements) |
 ## Greedy
 |  |
 | ------- |
@@ -887,6 +889,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/saimanupadala/leetcode-problems-/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0645-set-mismatch](https://github.com/saimanupadala/leetcode-problems-/tree/master/0645-set-mismatch) |
 | [0646-maximum-length-of-pair-chain](https://github.com/saimanupadala/leetcode-problems-/tree/master/0646-maximum-length-of-pair-chain) |
+| [0658-find-k-closest-elements](https://github.com/saimanupadala/leetcode-problems-/tree/master/0658-find-k-closest-elements) |
 ## Backtracking
 |  |
 | ------- |
@@ -1050,6 +1053,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/saimanupadala/leetcode-problems-/tree/master/0621-task-scheduler) |
 | [0630-course-schedule-iii](https://github.com/saimanupadala/leetcode-problems-/tree/master/0630-course-schedule-iii) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/saimanupadala/leetcode-problems-/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [0658-find-k-closest-elements](https://github.com/saimanupadala/leetcode-problems-/tree/master/0658-find-k-closest-elements) |
 ## Merge Sort
 |  |
 | ------- |
@@ -1077,6 +1081,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0594-longest-harmonious-subsequence](https://github.com/saimanupadala/leetcode-problems-/tree/master/0594-longest-harmonious-subsequence) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/saimanupadala/leetcode-problems-/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0643-maximum-average-subarray-i](https://github.com/saimanupadala/leetcode-problems-/tree/master/0643-maximum-average-subarray-i) |
+| [0658-find-k-closest-elements](https://github.com/saimanupadala/leetcode-problems-/tree/master/0658-find-k-closest-elements) |
 ## Binary Search
 |  |
 | ------- |
@@ -1122,6 +1127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/saimanupadala/leetcode-problems-/tree/master/0540-single-element-in-a-sorted-array) |
 | [0611-valid-triangle-number](https://github.com/saimanupadala/leetcode-problems-/tree/master/0611-valid-triangle-number) |
 | [0633-sum-of-square-numbers](https://github.com/saimanupadala/leetcode-problems-/tree/master/0633-sum-of-square-numbers) |
+| [0658-find-k-closest-elements](https://github.com/saimanupadala/leetcode-problems-/tree/master/0658-find-k-closest-elements) |
 ## Matrix
 |  |
 | ------- |
