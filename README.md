@@ -1293,6 +1293,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0652-find-duplicate-subtrees](https://github.com/saimanupadala/leetcode-problems-/tree/master/0652-find-duplicate-subtrees) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/saimanupadala/leetcode-problems-/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0655-print-binary-tree](https://github.com/saimanupadala/leetcode-problems-/tree/master/0655-print-binary-tree) |
+| [0662-maximum-width-of-binary-tree](https://github.com/saimanupadala/leetcode-problems-/tree/master/0662-maximum-width-of-binary-tree) |
 ## Tree
 |  |
 | ------- |
@@ -1361,6 +1362,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/saimanupadala/leetcode-problems-/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0654-maximum-binary-tree](https://github.com/saimanupadala/leetcode-problems-/tree/master/0654-maximum-binary-tree) |
 | [0655-print-binary-tree](https://github.com/saimanupadala/leetcode-problems-/tree/master/0655-print-binary-tree) |
+| [0662-maximum-width-of-binary-tree](https://github.com/saimanupadala/leetcode-problems-/tree/master/0662-maximum-width-of-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -1422,6 +1424,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/saimanupadala/leetcode-problems-/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0654-maximum-binary-tree](https://github.com/saimanupadala/leetcode-problems-/tree/master/0654-maximum-binary-tree) |
 | [0655-print-binary-tree](https://github.com/saimanupadala/leetcode-problems-/tree/master/0655-print-binary-tree) |
+| [0662-maximum-width-of-binary-tree](https://github.com/saimanupadala/leetcode-problems-/tree/master/0662-maximum-width-of-binary-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -1490,6 +1493,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0637-average-of-levels-in-binary-tree](https://github.com/saimanupadala/leetcode-problems-/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/saimanupadala/leetcode-problems-/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0655-print-binary-tree](https://github.com/saimanupadala/leetcode-problems-/tree/master/0655-print-binary-tree) |
+| [0662-maximum-width-of-binary-tree](https://github.com/saimanupadala/leetcode-problems-/tree/master/0662-maximum-width-of-binary-tree) |
 ## DP on Trees
 |  |
 | ------- |
