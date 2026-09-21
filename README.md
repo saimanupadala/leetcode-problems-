@@ -193,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0648-replace-words](https://github.com/saimanupadala/leetcode-problems-/tree/master/0648-replace-words) |
 | [0649-dota2-senate](https://github.com/saimanupadala/leetcode-problems-/tree/master/0649-dota2-senate) |
 | [0657-robot-return-to-origin](https://github.com/saimanupadala/leetcode-problems-/tree/master/0657-robot-return-to-origin) |
+| [0664-strange-printer](https://github.com/saimanupadala/leetcode-problems-/tree/master/0664-strange-printer) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -290,6 +291,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0646-maximum-length-of-pair-chain](https://github.com/saimanupadala/leetcode-problems-/tree/master/0646-maximum-length-of-pair-chain) |
 | [0647-palindromic-substrings](https://github.com/saimanupadala/leetcode-problems-/tree/master/0647-palindromic-substrings) |
 | [0650-2-keys-keyboard](https://github.com/saimanupadala/leetcode-problems-/tree/master/0650-2-keys-keyboard) |
+| [0664-strange-printer](https://github.com/saimanupadala/leetcode-problems-/tree/master/0664-strange-printer) |
 ## Math
 |  |
 | ------- |
