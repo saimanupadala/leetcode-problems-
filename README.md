@@ -292,6 +292,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0647-palindromic-substrings](https://github.com/saimanupadala/leetcode-problems-/tree/master/0647-palindromic-substrings) |
 | [0650-2-keys-keyboard](https://github.com/saimanupadala/leetcode-problems-/tree/master/0650-2-keys-keyboard) |
 | [0664-strange-printer](https://github.com/saimanupadala/leetcode-problems-/tree/master/0664-strange-printer) |
+| [0673-number-of-longest-increasing-subsequence](https://github.com/saimanupadala/leetcode-problems-/tree/master/0673-number-of-longest-increasing-subsequence) |
 ## Math
 |  |
 | ------- |
@@ -789,6 +790,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0661-image-smoother](https://github.com/saimanupadala/leetcode-problems-/tree/master/0661-image-smoother) |
 | [0665-non-decreasing-array](https://github.com/saimanupadala/leetcode-problems-/tree/master/0665-non-decreasing-array) |
 | [0667-beautiful-arrangement-ii](https://github.com/saimanupadala/leetcode-problems-/tree/master/0667-beautiful-arrangement-ii) |
+| [0673-number-of-longest-increasing-subsequence](https://github.com/saimanupadala/leetcode-problems-/tree/master/0673-number-of-longest-increasing-subsequence) |
 ## Greedy
 |  |
 | ------- |
@@ -1781,6 +1783,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0327-count-of-range-sum](https://github.com/saimanupadala/leetcode-problems-/tree/master/0327-count-of-range-sum) |
 | [0406-queue-reconstruction-by-height](https://github.com/saimanupadala/leetcode-problems-/tree/master/0406-queue-reconstruction-by-height) |
 | [0493-reverse-pairs](https://github.com/saimanupadala/leetcode-problems-/tree/master/0493-reverse-pairs) |
+| [0673-number-of-longest-increasing-subsequence](https://github.com/saimanupadala/leetcode-problems-/tree/master/0673-number-of-longest-increasing-subsequence) |
 ## Segment Tree
 |  |
 | ------- |
@@ -1790,6 +1793,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0327-count-of-range-sum](https://github.com/saimanupadala/leetcode-problems-/tree/master/0327-count-of-range-sum) |
 | [0406-queue-reconstruction-by-height](https://github.com/saimanupadala/leetcode-problems-/tree/master/0406-queue-reconstruction-by-height) |
 | [0493-reverse-pairs](https://github.com/saimanupadala/leetcode-problems-/tree/master/0493-reverse-pairs) |
+| [0673-number-of-longest-increasing-subsequence](https://github.com/saimanupadala/leetcode-problems-/tree/master/0673-number-of-longest-increasing-subsequence) |
 ## Sweep Line
 |  |
 | ------- |
@@ -1905,6 +1909,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0334-increasing-triplet-subsequence](https://github.com/saimanupadala/leetcode-problems-/tree/master/0334-increasing-triplet-subsequence) |
 | [0354-russian-doll-envelopes](https://github.com/saimanupadala/leetcode-problems-/tree/master/0354-russian-doll-envelopes) |
 | [0646-maximum-length-of-pair-chain](https://github.com/saimanupadala/leetcode-problems-/tree/master/0646-maximum-length-of-pair-chain) |
+| [0673-number-of-longest-increasing-subsequence](https://github.com/saimanupadala/leetcode-problems-/tree/master/0673-number-of-longest-increasing-subsequence) |
 ## Sqrt Decomposition
 |  |
 | ------- |
