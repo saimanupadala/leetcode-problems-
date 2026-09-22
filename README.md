@@ -195,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0657-robot-return-to-origin](https://github.com/saimanupadala/leetcode-problems-/tree/master/0657-robot-return-to-origin) |
 | [0664-strange-printer](https://github.com/saimanupadala/leetcode-problems-/tree/master/0664-strange-printer) |
 | [0676-implement-magic-dictionary](https://github.com/saimanupadala/leetcode-problems-/tree/master/0676-implement-magic-dictionary) |
+| [0677-map-sum-pairs](https://github.com/saimanupadala/leetcode-problems-/tree/master/0677-map-sum-pairs) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -563,6 +564,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/saimanupadala/leetcode-problems-/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0659-split-array-into-consecutive-subsequences](https://github.com/saimanupadala/leetcode-problems-/tree/master/0659-split-array-into-consecutive-subsequences) |
 | [0676-implement-magic-dictionary](https://github.com/saimanupadala/leetcode-problems-/tree/master/0676-implement-magic-dictionary) |
+| [0677-map-sum-pairs](https://github.com/saimanupadala/leetcode-problems-/tree/master/0677-map-sum-pairs) |
 ## Array
 |  |
 | ------- |
@@ -850,6 +852,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0472-concatenated-words](https://github.com/saimanupadala/leetcode-problems-/tree/master/0472-concatenated-words) |
 | [0648-replace-words](https://github.com/saimanupadala/leetcode-problems-/tree/master/0648-replace-words) |
 | [0676-implement-magic-dictionary](https://github.com/saimanupadala/leetcode-problems-/tree/master/0676-implement-magic-dictionary) |
+| [0677-map-sum-pairs](https://github.com/saimanupadala/leetcode-problems-/tree/master/0677-map-sum-pairs) |
 ## Sorting
 |  |
 | ------- |
@@ -1600,6 +1603,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0622-design-circular-queue](https://github.com/saimanupadala/leetcode-problems-/tree/master/0622-design-circular-queue) |
 | [0641-design-circular-deque](https://github.com/saimanupadala/leetcode-problems-/tree/master/0641-design-circular-deque) |
 | [0676-implement-magic-dictionary](https://github.com/saimanupadala/leetcode-problems-/tree/master/0676-implement-magic-dictionary) |
+| [0677-map-sum-pairs](https://github.com/saimanupadala/leetcode-problems-/tree/master/0677-map-sum-pairs) |
 ## Doubly-Linked List
 |  |
 | ------- |
