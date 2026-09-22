@@ -404,6 +404,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0668-kth-smallest-number-in-multiplication-table](https://github.com/saimanupadala/leetcode-problems-/tree/master/0668-kth-smallest-number-in-multiplication-table) |
 | [0670-maximum-swap](https://github.com/saimanupadala/leetcode-problems-/tree/master/0670-maximum-swap) |
 | [0672-bulb-switcher-ii](https://github.com/saimanupadala/leetcode-problems-/tree/master/0672-bulb-switcher-ii) |
+| [0679-24-game](https://github.com/saimanupadala/leetcode-problems-/tree/master/0679-24-game) |
 ## String Matching
 |  |
 | ------- |
@@ -801,6 +802,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0673-number-of-longest-increasing-subsequence](https://github.com/saimanupadala/leetcode-problems-/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/saimanupadala/leetcode-problems-/tree/master/0674-longest-continuous-increasing-subsequence) |
 | [0675-cut-off-trees-for-golf-event](https://github.com/saimanupadala/leetcode-problems-/tree/master/0675-cut-off-trees-for-golf-event) |
+| [0679-24-game](https://github.com/saimanupadala/leetcode-problems-/tree/master/0679-24-game) |
 ## Greedy
 |  |
 | ------- |
@@ -956,6 +958,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0494-target-sum](https://github.com/saimanupadala/leetcode-problems-/tree/master/0494-target-sum) |
 | [0526-beautiful-arrangement](https://github.com/saimanupadala/leetcode-problems-/tree/master/0526-beautiful-arrangement) |
 | [0638-shopping-offers](https://github.com/saimanupadala/leetcode-problems-/tree/master/0638-shopping-offers) |
+| [0679-24-game](https://github.com/saimanupadala/leetcode-problems-/tree/master/0679-24-game) |
 ## Linked List
 |  |
 | ------- |
