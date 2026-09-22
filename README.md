@@ -396,6 +396,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0667-beautiful-arrangement-ii](https://github.com/saimanupadala/leetcode-problems-/tree/master/0667-beautiful-arrangement-ii) |
 | [0668-kth-smallest-number-in-multiplication-table](https://github.com/saimanupadala/leetcode-problems-/tree/master/0668-kth-smallest-number-in-multiplication-table) |
 | [0670-maximum-swap](https://github.com/saimanupadala/leetcode-problems-/tree/master/0670-maximum-swap) |
+| [0672-bulb-switcher-ii](https://github.com/saimanupadala/leetcode-problems-/tree/master/0672-bulb-switcher-ii) |
 ## String Matching
 |  |
 | ------- |
@@ -440,6 +441,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0526-beautiful-arrangement](https://github.com/saimanupadala/leetcode-problems-/tree/master/0526-beautiful-arrangement) |
 | [0638-shopping-offers](https://github.com/saimanupadala/leetcode-problems-/tree/master/0638-shopping-offers) |
 | [0645-set-mismatch](https://github.com/saimanupadala/leetcode-problems-/tree/master/0645-set-mismatch) |
+| [0672-bulb-switcher-ii](https://github.com/saimanupadala/leetcode-problems-/tree/master/0672-bulb-switcher-ii) |
 ## Recursion
 |  |
 | ------- |
@@ -1305,6 +1307,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0662-maximum-width-of-binary-tree](https://github.com/saimanupadala/leetcode-problems-/tree/master/0662-maximum-width-of-binary-tree) |
 | [0669-trim-a-binary-search-tree](https://github.com/saimanupadala/leetcode-problems-/tree/master/0669-trim-a-binary-search-tree) |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/saimanupadala/leetcode-problems-/tree/master/0671-second-minimum-node-in-a-binary-tree) |
+| [0672-bulb-switcher-ii](https://github.com/saimanupadala/leetcode-problems-/tree/master/0672-bulb-switcher-ii) |
 ## Tree
 |  |
 | ------- |
@@ -1510,6 +1513,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/saimanupadala/leetcode-problems-/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0655-print-binary-tree](https://github.com/saimanupadala/leetcode-problems-/tree/master/0655-print-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/saimanupadala/leetcode-problems-/tree/master/0662-maximum-width-of-binary-tree) |
+| [0672-bulb-switcher-ii](https://github.com/saimanupadala/leetcode-problems-/tree/master/0672-bulb-switcher-ii) |
 ## DP on Trees
 |  |
 | ------- |
