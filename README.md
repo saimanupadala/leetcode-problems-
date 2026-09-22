@@ -395,6 +395,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0650-2-keys-keyboard](https://github.com/saimanupadala/leetcode-problems-/tree/master/0650-2-keys-keyboard) |
 | [0667-beautiful-arrangement-ii](https://github.com/saimanupadala/leetcode-problems-/tree/master/0667-beautiful-arrangement-ii) |
 | [0668-kth-smallest-number-in-multiplication-table](https://github.com/saimanupadala/leetcode-problems-/tree/master/0668-kth-smallest-number-in-multiplication-table) |
+| [0670-maximum-swap](https://github.com/saimanupadala/leetcode-problems-/tree/master/0670-maximum-swap) |
 ## String Matching
 |  |
 | ------- |
@@ -824,6 +825,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0646-maximum-length-of-pair-chain](https://github.com/saimanupadala/leetcode-problems-/tree/master/0646-maximum-length-of-pair-chain) |
 | [0649-dota2-senate](https://github.com/saimanupadala/leetcode-problems-/tree/master/0649-dota2-senate) |
 | [0659-split-array-into-consecutive-subsequences](https://github.com/saimanupadala/leetcode-problems-/tree/master/0659-split-array-into-consecutive-subsequences) |
+| [0670-maximum-swap](https://github.com/saimanupadala/leetcode-problems-/tree/master/0670-maximum-swap) |
 ## Trie
 |  |
 | ------- |
