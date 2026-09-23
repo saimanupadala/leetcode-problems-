@@ -199,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0677-map-sum-pairs](https://github.com/saimanupadala/leetcode-problems-/tree/master/0677-map-sum-pairs) |
 | [0678-valid-parenthesis-string](https://github.com/saimanupadala/leetcode-problems-/tree/master/0678-valid-parenthesis-string) |
 | [0680-valid-palindrome-ii](https://github.com/saimanupadala/leetcode-problems-/tree/master/0680-valid-palindrome-ii) |
+| [0686-repeated-string-match](https://github.com/saimanupadala/leetcode-problems-/tree/master/0686-repeated-string-match) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -412,6 +413,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0214-shortest-palindrome](https://github.com/saimanupadala/leetcode-problems-/tree/master/0214-shortest-palindrome) |
 | [0459-repeated-substring-pattern](https://github.com/saimanupadala/leetcode-problems-/tree/master/0459-repeated-substring-pattern) |
 | [0572-subtree-of-another-tree](https://github.com/saimanupadala/leetcode-problems-/tree/master/0572-subtree-of-another-tree) |
+| [0686-repeated-string-match](https://github.com/saimanupadala/leetcode-problems-/tree/master/0686-repeated-string-match) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -1748,10 +1750,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0187-repeated-dna-sequences](https://github.com/saimanupadala/leetcode-problems-/tree/master/0187-repeated-dna-sequences) |
 | [0214-shortest-palindrome](https://github.com/saimanupadala/leetcode-problems-/tree/master/0214-shortest-palindrome) |
 | [0459-repeated-substring-pattern](https://github.com/saimanupadala/leetcode-problems-/tree/master/0459-repeated-substring-pattern) |
+| [0686-repeated-string-match](https://github.com/saimanupadala/leetcode-problems-/tree/master/0686-repeated-string-match) |
 ## Boyer–Moore String-Search Algorithm
 |  |
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/saimanupadala/leetcode-problems-/tree/master/0187-repeated-dna-sequences) |
+| [0686-repeated-string-match](https://github.com/saimanupadala/leetcode-problems-/tree/master/0686-repeated-string-match) |
 ## Enumeration
 |  |
 | ------- |
@@ -1809,6 +1813,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0214-shortest-palindrome](https://github.com/saimanupadala/leetcode-problems-/tree/master/0214-shortest-palindrome) |
 | [0459-repeated-substring-pattern](https://github.com/saimanupadala/leetcode-problems-/tree/master/0459-repeated-substring-pattern) |
+| [0686-repeated-string-match](https://github.com/saimanupadala/leetcode-problems-/tree/master/0686-repeated-string-match) |
 ## Binary Indexed Tree
 |  |
 | ------- |
