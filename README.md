@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/saimanupadala/leetcode-problems-/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0658-find-k-closest-elements](https://github.com/saimanupadala/leetcode-problems-/tree/master/0658-find-k-closest-elements) |
 | [0680-valid-palindrome-ii](https://github.com/saimanupadala/leetcode-problems-/tree/master/0680-valid-palindrome-ii) |
+| [0696-count-binary-substrings](https://github.com/saimanupadala/leetcode-problems-/tree/master/0696-count-binary-substrings) |
 ## String
 |  |
 | ------- |
@@ -202,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0686-repeated-string-match](https://github.com/saimanupadala/leetcode-problems-/tree/master/0686-repeated-string-match) |
 | [0691-stickers-to-spell-word](https://github.com/saimanupadala/leetcode-problems-/tree/master/0691-stickers-to-spell-word) |
 | [0692-top-k-frequent-words](https://github.com/saimanupadala/leetcode-problems-/tree/master/0692-top-k-frequent-words) |
+| [0696-count-binary-substrings](https://github.com/saimanupadala/leetcode-problems-/tree/master/0696-count-binary-substrings) |
 ## Dynamic Programming
 |  |
 | ------- |
