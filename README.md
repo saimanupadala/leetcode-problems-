@@ -574,6 +574,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0659-split-array-into-consecutive-subsequences](https://github.com/saimanupadala/leetcode-problems-/tree/master/0659-split-array-into-consecutive-subsequences) |
 | [0676-implement-magic-dictionary](https://github.com/saimanupadala/leetcode-problems-/tree/master/0676-implement-magic-dictionary) |
 | [0677-map-sum-pairs](https://github.com/saimanupadala/leetcode-problems-/tree/master/0677-map-sum-pairs) |
+| [0690-employee-importance](https://github.com/saimanupadala/leetcode-problems-/tree/master/0690-employee-importance) |
 ## Array
 |  |
 | ------- |
@@ -809,6 +810,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0679-24-game](https://github.com/saimanupadala/leetcode-problems-/tree/master/0679-24-game) |
 | [0682-baseball-game](https://github.com/saimanupadala/leetcode-problems-/tree/master/0682-baseball-game) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/saimanupadala/leetcode-problems-/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
+| [0690-employee-importance](https://github.com/saimanupadala/leetcode-problems-/tree/master/0690-employee-importance) |
 ## Greedy
 |  |
 | ------- |
@@ -1343,6 +1345,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0684-redundant-connection](https://github.com/saimanupadala/leetcode-problems-/tree/master/0684-redundant-connection) |
 | [0685-redundant-connection-ii](https://github.com/saimanupadala/leetcode-problems-/tree/master/0685-redundant-connection-ii) |
 | [0687-longest-univalue-path](https://github.com/saimanupadala/leetcode-problems-/tree/master/0687-longest-univalue-path) |
+| [0690-employee-importance](https://github.com/saimanupadala/leetcode-problems-/tree/master/0690-employee-importance) |
 ## Tree
 |  |
 | ------- |
@@ -1415,6 +1418,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0669-trim-a-binary-search-tree](https://github.com/saimanupadala/leetcode-problems-/tree/master/0669-trim-a-binary-search-tree) |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/saimanupadala/leetcode-problems-/tree/master/0671-second-minimum-node-in-a-binary-tree) |
 | [0687-longest-univalue-path](https://github.com/saimanupadala/leetcode-problems-/tree/master/0687-longest-univalue-path) |
+| [0690-employee-importance](https://github.com/saimanupadala/leetcode-problems-/tree/master/0690-employee-importance) |
 ## Binary Tree
 |  |
 | ------- |
@@ -1554,6 +1558,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0675-cut-off-trees-for-golf-event](https://github.com/saimanupadala/leetcode-problems-/tree/master/0675-cut-off-trees-for-golf-event) |
 | [0684-redundant-connection](https://github.com/saimanupadala/leetcode-problems-/tree/master/0684-redundant-connection) |
 | [0685-redundant-connection-ii](https://github.com/saimanupadala/leetcode-problems-/tree/master/0685-redundant-connection-ii) |
+| [0690-employee-importance](https://github.com/saimanupadala/leetcode-problems-/tree/master/0690-employee-importance) |
 ## DP on Trees
 |  |
 | ------- |
