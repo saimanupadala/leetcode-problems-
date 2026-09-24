@@ -584,6 +584,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0690-employee-importance](https://github.com/saimanupadala/leetcode-problems-/tree/master/0690-employee-importance) |
 | [0691-stickers-to-spell-word](https://github.com/saimanupadala/leetcode-problems-/tree/master/0691-stickers-to-spell-word) |
 | [0692-top-k-frequent-words](https://github.com/saimanupadala/leetcode-problems-/tree/master/0692-top-k-frequent-words) |
+| [0697-degree-of-an-array](https://github.com/saimanupadala/leetcode-problems-/tree/master/0697-degree-of-an-array) |
 ## Array
 |  |
 | ------- |
@@ -823,6 +824,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0691-stickers-to-spell-word](https://github.com/saimanupadala/leetcode-problems-/tree/master/0691-stickers-to-spell-word) |
 | [0692-top-k-frequent-words](https://github.com/saimanupadala/leetcode-problems-/tree/master/0692-top-k-frequent-words) |
 | [0695-max-area-of-island](https://github.com/saimanupadala/leetcode-problems-/tree/master/0695-max-area-of-island) |
+| [0697-degree-of-an-array](https://github.com/saimanupadala/leetcode-problems-/tree/master/0697-degree-of-an-array) |
 ## Greedy
 |  |
 | ------- |
