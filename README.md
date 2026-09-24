@@ -820,6 +820,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0690-employee-importance](https://github.com/saimanupadala/leetcode-problems-/tree/master/0690-employee-importance) |
 | [0691-stickers-to-spell-word](https://github.com/saimanupadala/leetcode-problems-/tree/master/0691-stickers-to-spell-word) |
 | [0692-top-k-frequent-words](https://github.com/saimanupadala/leetcode-problems-/tree/master/0692-top-k-frequent-words) |
+| [0695-max-area-of-island](https://github.com/saimanupadala/leetcode-problems-/tree/master/0695-max-area-of-island) |
 ## Greedy
 |  |
 | ------- |
@@ -1223,6 +1224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0566-reshape-the-matrix](https://github.com/saimanupadala/leetcode-problems-/tree/master/0566-reshape-the-matrix) |
 | [0661-image-smoother](https://github.com/saimanupadala/leetcode-problems-/tree/master/0661-image-smoother) |
 | [0675-cut-off-trees-for-golf-event](https://github.com/saimanupadala/leetcode-problems-/tree/master/0675-cut-off-trees-for-golf-event) |
+| [0695-max-area-of-island](https://github.com/saimanupadala/leetcode-problems-/tree/master/0695-max-area-of-island) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -1360,6 +1362,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0685-redundant-connection-ii](https://github.com/saimanupadala/leetcode-problems-/tree/master/0685-redundant-connection-ii) |
 | [0687-longest-univalue-path](https://github.com/saimanupadala/leetcode-problems-/tree/master/0687-longest-univalue-path) |
 | [0690-employee-importance](https://github.com/saimanupadala/leetcode-problems-/tree/master/0690-employee-importance) |
+| [0695-max-area-of-island](https://github.com/saimanupadala/leetcode-problems-/tree/master/0695-max-area-of-island) |
 ## Tree
 |  |
 | ------- |
@@ -1573,6 +1576,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0684-redundant-connection](https://github.com/saimanupadala/leetcode-problems-/tree/master/0684-redundant-connection) |
 | [0685-redundant-connection-ii](https://github.com/saimanupadala/leetcode-problems-/tree/master/0685-redundant-connection-ii) |
 | [0690-employee-importance](https://github.com/saimanupadala/leetcode-problems-/tree/master/0690-employee-importance) |
+| [0695-max-area-of-island](https://github.com/saimanupadala/leetcode-problems-/tree/master/0695-max-area-of-island) |
 ## DP on Trees
 |  |
 | ------- |
@@ -1607,6 +1611,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/saimanupadala/leetcode-problems-/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/saimanupadala/leetcode-problems-/tree/master/0684-redundant-connection) |
 | [0685-redundant-connection-ii](https://github.com/saimanupadala/leetcode-problems-/tree/master/0685-redundant-connection-ii) |
+| [0695-max-area-of-island](https://github.com/saimanupadala/leetcode-problems-/tree/master/0695-max-area-of-island) |
 ## Graph Theory
 |  |
 | ------- |
