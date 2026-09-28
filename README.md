@@ -208,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0709-to-lower-case](https://github.com/saimanupadala/leetcode-problems-/tree/master/0709-to-lower-case) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/saimanupadala/leetcode-problems-/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0720-longest-word-in-dictionary](https://github.com/saimanupadala/leetcode-problems-/tree/master/0720-longest-word-in-dictionary) |
+| [0721-accounts-merge](https://github.com/saimanupadala/leetcode-problems-/tree/master/0721-accounts-merge) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -599,6 +600,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0706-design-hashmap](https://github.com/saimanupadala/leetcode-problems-/tree/master/0706-design-hashmap) |
 | [0710-random-pick-with-blacklist](https://github.com/saimanupadala/leetcode-problems-/tree/master/0710-random-pick-with-blacklist) |
 | [0720-longest-word-in-dictionary](https://github.com/saimanupadala/leetcode-problems-/tree/master/0720-longest-word-in-dictionary) |
+| [0721-accounts-merge](https://github.com/saimanupadala/leetcode-problems-/tree/master/0721-accounts-merge) |
 ## Array
 |  |
 | ------- |
@@ -851,6 +853,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0718-maximum-length-of-repeated-subarray](https://github.com/saimanupadala/leetcode-problems-/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/saimanupadala/leetcode-problems-/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0720-longest-word-in-dictionary](https://github.com/saimanupadala/leetcode-problems-/tree/master/0720-longest-word-in-dictionary) |
+| [0721-accounts-merge](https://github.com/saimanupadala/leetcode-problems-/tree/master/0721-accounts-merge) |
 ## Greedy
 |  |
 | ------- |
@@ -977,6 +980,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0710-random-pick-with-blacklist](https://github.com/saimanupadala/leetcode-problems-/tree/master/0710-random-pick-with-blacklist) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/saimanupadala/leetcode-problems-/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0720-longest-word-in-dictionary](https://github.com/saimanupadala/leetcode-problems-/tree/master/0720-longest-word-in-dictionary) |
+| [0721-accounts-merge](https://github.com/saimanupadala/leetcode-problems-/tree/master/0721-accounts-merge) |
 ## Backtracking
 |  |
 | ------- |
@@ -1411,6 +1415,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0687-longest-univalue-path](https://github.com/saimanupadala/leetcode-problems-/tree/master/0687-longest-univalue-path) |
 | [0690-employee-importance](https://github.com/saimanupadala/leetcode-problems-/tree/master/0690-employee-importance) |
 | [0695-max-area-of-island](https://github.com/saimanupadala/leetcode-problems-/tree/master/0695-max-area-of-island) |
+| [0721-accounts-merge](https://github.com/saimanupadala/leetcode-problems-/tree/master/0721-accounts-merge) |
 ## Tree
 |  |
 | ------- |
@@ -1634,6 +1639,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0685-redundant-connection-ii](https://github.com/saimanupadala/leetcode-problems-/tree/master/0685-redundant-connection-ii) |
 | [0690-employee-importance](https://github.com/saimanupadala/leetcode-problems-/tree/master/0690-employee-importance) |
 | [0695-max-area-of-island](https://github.com/saimanupadala/leetcode-problems-/tree/master/0695-max-area-of-island) |
+| [0721-accounts-merge](https://github.com/saimanupadala/leetcode-problems-/tree/master/0721-accounts-merge) |
 ## DP on Trees
 |  |
 | ------- |
@@ -1669,6 +1675,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0684-redundant-connection](https://github.com/saimanupadala/leetcode-problems-/tree/master/0684-redundant-connection) |
 | [0685-redundant-connection-ii](https://github.com/saimanupadala/leetcode-problems-/tree/master/0685-redundant-connection-ii) |
 | [0695-max-area-of-island](https://github.com/saimanupadala/leetcode-problems-/tree/master/0695-max-area-of-island) |
+| [0721-accounts-merge](https://github.com/saimanupadala/leetcode-problems-/tree/master/0721-accounts-merge) |
 ## Graph Theory
 |  |
 | ------- |
