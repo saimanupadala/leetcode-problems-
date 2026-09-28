@@ -205,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0692-top-k-frequent-words](https://github.com/saimanupadala/leetcode-problems-/tree/master/0692-top-k-frequent-words) |
 | [0696-count-binary-substrings](https://github.com/saimanupadala/leetcode-problems-/tree/master/0696-count-binary-substrings) |
 | [0709-to-lower-case](https://github.com/saimanupadala/leetcode-problems-/tree/master/0709-to-lower-case) |
+| [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/saimanupadala/leetcode-problems-/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -309,6 +310,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/saimanupadala/leetcode-problems-/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [0691-stickers-to-spell-word](https://github.com/saimanupadala/leetcode-problems-/tree/master/0691-stickers-to-spell-word) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/saimanupadala/leetcode-problems-/tree/master/0698-partition-to-k-equal-sum-subsets) |
+| [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/saimanupadala/leetcode-problems-/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 ## Math
 |  |
 | ------- |
@@ -2151,6 +2153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0583-delete-operation-for-two-strings](https://github.com/saimanupadala/leetcode-problems-/tree/master/0583-delete-operation-for-two-strings) |
+| [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/saimanupadala/leetcode-problems-/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 ## Linear Algebra
 |  |
 | ------- |
