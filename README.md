@@ -415,6 +415,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0670-maximum-swap](https://github.com/saimanupadala/leetcode-problems-/tree/master/0670-maximum-swap) |
 | [0672-bulb-switcher-ii](https://github.com/saimanupadala/leetcode-problems-/tree/master/0672-bulb-switcher-ii) |
 | [0679-24-game](https://github.com/saimanupadala/leetcode-problems-/tree/master/0679-24-game) |
+| [0710-random-pick-with-blacklist](https://github.com/saimanupadala/leetcode-problems-/tree/master/0710-random-pick-with-blacklist) |
 ## String Matching
 |  |
 | ------- |
@@ -590,6 +591,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0697-degree-of-an-array](https://github.com/saimanupadala/leetcode-problems-/tree/master/0697-degree-of-an-array) |
 | [0705-design-hashset](https://github.com/saimanupadala/leetcode-problems-/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/saimanupadala/leetcode-problems-/tree/master/0706-design-hashmap) |
+| [0710-random-pick-with-blacklist](https://github.com/saimanupadala/leetcode-problems-/tree/master/0710-random-pick-with-blacklist) |
 ## Array
 |  |
 | ------- |
@@ -835,6 +837,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/saimanupadala/leetcode-problems-/tree/master/0704-binary-search) |
 | [0705-design-hashset](https://github.com/saimanupadala/leetcode-problems-/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/saimanupadala/leetcode-problems-/tree/master/0706-design-hashmap) |
+| [0710-random-pick-with-blacklist](https://github.com/saimanupadala/leetcode-problems-/tree/master/0710-random-pick-with-blacklist) |
 ## Greedy
 |  |
 | ------- |
@@ -956,6 +959,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0646-maximum-length-of-pair-chain](https://github.com/saimanupadala/leetcode-problems-/tree/master/0646-maximum-length-of-pair-chain) |
 | [0658-find-k-closest-elements](https://github.com/saimanupadala/leetcode-problems-/tree/master/0658-find-k-closest-elements) |
 | [0692-top-k-frequent-words](https://github.com/saimanupadala/leetcode-problems-/tree/master/0692-top-k-frequent-words) |
+| [0710-random-pick-with-blacklist](https://github.com/saimanupadala/leetcode-problems-/tree/master/0710-random-pick-with-blacklist) |
 ## Backtracking
 |  |
 | ------- |
@@ -1209,6 +1213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0658-find-k-closest-elements](https://github.com/saimanupadala/leetcode-problems-/tree/master/0658-find-k-closest-elements) |
 | [0668-kth-smallest-number-in-multiplication-table](https://github.com/saimanupadala/leetcode-problems-/tree/master/0668-kth-smallest-number-in-multiplication-table) |
 | [0704-binary-search](https://github.com/saimanupadala/leetcode-problems-/tree/master/0704-binary-search) |
+| [0710-random-pick-with-blacklist](https://github.com/saimanupadala/leetcode-problems-/tree/master/0710-random-pick-with-blacklist) |
 ## Matrix
 |  |
 | ------- |
@@ -2082,6 +2087,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0497-random-point-in-non-overlapping-rectangles](https://github.com/saimanupadala/leetcode-problems-/tree/master/0497-random-point-in-non-overlapping-rectangles) |
 | [0519-random-flip-matrix](https://github.com/saimanupadala/leetcode-problems-/tree/master/0519-random-flip-matrix) |
 | [0528-random-pick-with-weight](https://github.com/saimanupadala/leetcode-problems-/tree/master/0528-random-pick-with-weight) |
+| [0710-random-pick-with-blacklist](https://github.com/saimanupadala/leetcode-problems-/tree/master/0710-random-pick-with-blacklist) |
 ## Reservoir Sampling
 |  |
 | ------- |
