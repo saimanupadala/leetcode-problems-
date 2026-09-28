@@ -207,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0696-count-binary-substrings](https://github.com/saimanupadala/leetcode-problems-/tree/master/0696-count-binary-substrings) |
 | [0709-to-lower-case](https://github.com/saimanupadala/leetcode-problems-/tree/master/0709-to-lower-case) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/saimanupadala/leetcode-problems-/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
+| [0720-longest-word-in-dictionary](https://github.com/saimanupadala/leetcode-problems-/tree/master/0720-longest-word-in-dictionary) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -597,6 +598,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0705-design-hashset](https://github.com/saimanupadala/leetcode-problems-/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/saimanupadala/leetcode-problems-/tree/master/0706-design-hashmap) |
 | [0710-random-pick-with-blacklist](https://github.com/saimanupadala/leetcode-problems-/tree/master/0710-random-pick-with-blacklist) |
+| [0720-longest-word-in-dictionary](https://github.com/saimanupadala/leetcode-problems-/tree/master/0720-longest-word-in-dictionary) |
 ## Array
 |  |
 | ------- |
@@ -848,6 +850,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0717-1-bit-and-2-bit-characters](https://github.com/saimanupadala/leetcode-problems-/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/saimanupadala/leetcode-problems-/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/saimanupadala/leetcode-problems-/tree/master/0719-find-k-th-smallest-pair-distance) |
+| [0720-longest-word-in-dictionary](https://github.com/saimanupadala/leetcode-problems-/tree/master/0720-longest-word-in-dictionary) |
 ## Greedy
 |  |
 | ------- |
@@ -908,6 +911,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0676-implement-magic-dictionary](https://github.com/saimanupadala/leetcode-problems-/tree/master/0676-implement-magic-dictionary) |
 | [0677-map-sum-pairs](https://github.com/saimanupadala/leetcode-problems-/tree/master/0677-map-sum-pairs) |
 | [0692-top-k-frequent-words](https://github.com/saimanupadala/leetcode-problems-/tree/master/0692-top-k-frequent-words) |
+| [0720-longest-word-in-dictionary](https://github.com/saimanupadala/leetcode-problems-/tree/master/0720-longest-word-in-dictionary) |
 ## Sorting
 |  |
 | ------- |
@@ -972,6 +976,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0692-top-k-frequent-words](https://github.com/saimanupadala/leetcode-problems-/tree/master/0692-top-k-frequent-words) |
 | [0710-random-pick-with-blacklist](https://github.com/saimanupadala/leetcode-problems-/tree/master/0710-random-pick-with-blacklist) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/saimanupadala/leetcode-problems-/tree/master/0719-find-k-th-smallest-pair-distance) |
+| [0720-longest-word-in-dictionary](https://github.com/saimanupadala/leetcode-problems-/tree/master/0720-longest-word-in-dictionary) |
 ## Backtracking
 |  |
 | ------- |
