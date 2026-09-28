@@ -588,6 +588,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0692-top-k-frequent-words](https://github.com/saimanupadala/leetcode-problems-/tree/master/0692-top-k-frequent-words) |
 | [0697-degree-of-an-array](https://github.com/saimanupadala/leetcode-problems-/tree/master/0697-degree-of-an-array) |
 | [0705-design-hashset](https://github.com/saimanupadala/leetcode-problems-/tree/master/0705-design-hashset) |
+| [0706-design-hashmap](https://github.com/saimanupadala/leetcode-problems-/tree/master/0706-design-hashmap) |
 ## Array
 |  |
 | ------- |
@@ -832,6 +833,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0699-falling-squares](https://github.com/saimanupadala/leetcode-problems-/tree/master/0699-falling-squares) |
 | [0704-binary-search](https://github.com/saimanupadala/leetcode-problems-/tree/master/0704-binary-search) |
 | [0705-design-hashset](https://github.com/saimanupadala/leetcode-problems-/tree/master/0705-design-hashset) |
+| [0706-design-hashmap](https://github.com/saimanupadala/leetcode-problems-/tree/master/0706-design-hashmap) |
 ## Greedy
 |  |
 | ------- |
@@ -1031,6 +1033,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0622-design-circular-queue](https://github.com/saimanupadala/leetcode-problems-/tree/master/0622-design-circular-queue) |
 | [0641-design-circular-deque](https://github.com/saimanupadala/leetcode-problems-/tree/master/0641-design-circular-deque) |
 | [0705-design-hashset](https://github.com/saimanupadala/leetcode-problems-/tree/master/0705-design-hashset) |
+| [0706-design-hashmap](https://github.com/saimanupadala/leetcode-problems-/tree/master/0706-design-hashmap) |
 ## Stack
 |  |
 | ------- |
@@ -1686,6 +1689,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0677-map-sum-pairs](https://github.com/saimanupadala/leetcode-problems-/tree/master/0677-map-sum-pairs) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/saimanupadala/leetcode-problems-/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0705-design-hashset](https://github.com/saimanupadala/leetcode-problems-/tree/master/0705-design-hashset) |
+| [0706-design-hashmap](https://github.com/saimanupadala/leetcode-problems-/tree/master/0706-design-hashmap) |
 ## Doubly-Linked List
 |  |
 | ------- |
@@ -1806,6 +1810,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0535-encode-and-decode-tinyurl](https://github.com/saimanupadala/leetcode-problems-/tree/master/0535-encode-and-decode-tinyurl) |
 | [0572-subtree-of-another-tree](https://github.com/saimanupadala/leetcode-problems-/tree/master/0572-subtree-of-another-tree) |
 | [0705-design-hashset](https://github.com/saimanupadala/leetcode-problems-/tree/master/0705-design-hashset) |
+| [0706-design-hashmap](https://github.com/saimanupadala/leetcode-problems-/tree/master/0706-design-hashmap) |
 ## Z Algorithm
 |  |
 | ------- |
