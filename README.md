@@ -1064,6 +1064,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0705-design-hashset](https://github.com/saimanupadala/leetcode-problems-/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/saimanupadala/leetcode-problems-/tree/master/0706-design-hashmap) |
 | [0707-design-linked-list](https://github.com/saimanupadala/leetcode-problems-/tree/master/0707-design-linked-list) |
+| [0725-split-linked-list-in-parts](https://github.com/saimanupadala/leetcode-problems-/tree/master/0725-split-linked-list-in-parts) |
 ## Stack
 |  |
 | ------- |
