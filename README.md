@@ -210,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0720-longest-word-in-dictionary](https://github.com/saimanupadala/leetcode-problems-/tree/master/0720-longest-word-in-dictionary) |
 | [0721-accounts-merge](https://github.com/saimanupadala/leetcode-problems-/tree/master/0721-accounts-merge) |
 | [0722-remove-comments](https://github.com/saimanupadala/leetcode-problems-/tree/master/0722-remove-comments) |
+| [0726-number-of-atoms](https://github.com/saimanupadala/leetcode-problems-/tree/master/0726-number-of-atoms) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -602,6 +603,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0710-random-pick-with-blacklist](https://github.com/saimanupadala/leetcode-problems-/tree/master/0710-random-pick-with-blacklist) |
 | [0720-longest-word-in-dictionary](https://github.com/saimanupadala/leetcode-problems-/tree/master/0720-longest-word-in-dictionary) |
 | [0721-accounts-merge](https://github.com/saimanupadala/leetcode-problems-/tree/master/0721-accounts-merge) |
+| [0726-number-of-atoms](https://github.com/saimanupadala/leetcode-problems-/tree/master/0726-number-of-atoms) |
 ## Array
 |  |
 | ------- |
@@ -984,6 +986,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0719-find-k-th-smallest-pair-distance](https://github.com/saimanupadala/leetcode-problems-/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0720-longest-word-in-dictionary](https://github.com/saimanupadala/leetcode-problems-/tree/master/0720-longest-word-in-dictionary) |
 | [0721-accounts-merge](https://github.com/saimanupadala/leetcode-problems-/tree/master/0721-accounts-merge) |
+| [0726-number-of-atoms](https://github.com/saimanupadala/leetcode-problems-/tree/master/0726-number-of-atoms) |
 ## Backtracking
 |  |
 | ------- |
@@ -1108,6 +1111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0654-maximum-binary-tree](https://github.com/saimanupadala/leetcode-problems-/tree/master/0654-maximum-binary-tree) |
 | [0678-valid-parenthesis-string](https://github.com/saimanupadala/leetcode-problems-/tree/master/0678-valid-parenthesis-string) |
 | [0682-baseball-game](https://github.com/saimanupadala/leetcode-problems-/tree/master/0682-baseball-game) |
+| [0726-number-of-atoms](https://github.com/saimanupadala/leetcode-problems-/tree/master/0726-number-of-atoms) |
 ## Divide and Conquer
 |  |
 | ------- |
