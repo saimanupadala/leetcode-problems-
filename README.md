@@ -856,6 +856,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0720-longest-word-in-dictionary](https://github.com/saimanupadala/leetcode-problems-/tree/master/0720-longest-word-in-dictionary) |
 | [0721-accounts-merge](https://github.com/saimanupadala/leetcode-problems-/tree/master/0721-accounts-merge) |
 | [0722-remove-comments](https://github.com/saimanupadala/leetcode-problems-/tree/master/0722-remove-comments) |
+| [0724-find-pivot-index](https://github.com/saimanupadala/leetcode-problems-/tree/master/0724-find-pivot-index) |
 ## Greedy
 |  |
 | ------- |
@@ -1915,6 +1916,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/saimanupadala/leetcode-problems-/tree/master/0560-subarray-sum-equals-k) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/saimanupadala/leetcode-problems-/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [0713-subarray-product-less-than-k](https://github.com/saimanupadala/leetcode-problems-/tree/master/0713-subarray-product-less-than-k) |
+| [0724-find-pivot-index](https://github.com/saimanupadala/leetcode-problems-/tree/master/0724-find-pivot-index) |
 ## Manacher
 |  |
 | ------- |
