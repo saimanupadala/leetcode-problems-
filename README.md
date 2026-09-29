@@ -425,6 +425,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0672-bulb-switcher-ii](https://github.com/saimanupadala/leetcode-problems-/tree/master/0672-bulb-switcher-ii) |
 | [0679-24-game](https://github.com/saimanupadala/leetcode-problems-/tree/master/0679-24-game) |
 | [0710-random-pick-with-blacklist](https://github.com/saimanupadala/leetcode-problems-/tree/master/0710-random-pick-with-blacklist) |
+| [0728-self-dividing-numbers](https://github.com/saimanupadala/leetcode-problems-/tree/master/0728-self-dividing-numbers) |
 ## String Matching
 |  |
 | ------- |
