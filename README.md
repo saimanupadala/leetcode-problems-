@@ -1186,6 +1186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0675-cut-off-trees-for-golf-event](https://github.com/saimanupadala/leetcode-problems-/tree/master/0675-cut-off-trees-for-golf-event) |
 | [0692-top-k-frequent-words](https://github.com/saimanupadala/leetcode-problems-/tree/master/0692-top-k-frequent-words) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/saimanupadala/leetcode-problems-/tree/master/0703-kth-largest-element-in-a-stream) |
+| [0743-network-delay-time](https://github.com/saimanupadala/leetcode-problems-/tree/master/0743-network-delay-time) |
 ## Merge Sort
 |  |
 | ------- |
@@ -1453,6 +1454,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/saimanupadala/leetcode-problems-/tree/master/0695-max-area-of-island) |
 | [0721-accounts-merge](https://github.com/saimanupadala/leetcode-problems-/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/saimanupadala/leetcode-problems-/tree/master/0733-flood-fill) |
+| [0743-network-delay-time](https://github.com/saimanupadala/leetcode-problems-/tree/master/0743-network-delay-time) |
 ## Tree
 |  |
 | ------- |
@@ -1678,6 +1680,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/saimanupadala/leetcode-problems-/tree/master/0695-max-area-of-island) |
 | [0721-accounts-merge](https://github.com/saimanupadala/leetcode-problems-/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/saimanupadala/leetcode-problems-/tree/master/0733-flood-fill) |
+| [0743-network-delay-time](https://github.com/saimanupadala/leetcode-problems-/tree/master/0743-network-delay-time) |
 ## DP on Trees
 |  |
 | ------- |
@@ -1727,6 +1730,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/saimanupadala/leetcode-problems-/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/saimanupadala/leetcode-problems-/tree/master/0684-redundant-connection) |
 | [0685-redundant-connection-ii](https://github.com/saimanupadala/leetcode-problems-/tree/master/0685-redundant-connection-ii) |
+| [0743-network-delay-time](https://github.com/saimanupadala/leetcode-problems-/tree/master/0743-network-delay-time) |
 ## Brute-Force Search
 |  |
 | ------- |
@@ -2184,6 +2188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0399-evaluate-division](https://github.com/saimanupadala/leetcode-problems-/tree/master/0399-evaluate-division) |
+| [0743-network-delay-time](https://github.com/saimanupadala/leetcode-problems-/tree/master/0743-network-delay-time) |
 ## Bellman–Ford Algorithm
 |  |
 | ------- |
@@ -2245,4 +2250,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0654-maximum-binary-tree](https://github.com/saimanupadala/leetcode-problems-/tree/master/0654-maximum-binary-tree) |
+## Dijkstra's Algorithm
+|  |
+| ------- |
+| [0743-network-delay-time](https://github.com/saimanupadala/leetcode-problems-/tree/master/0743-network-delay-time) |
 <!---LeetCode Topics End-->
