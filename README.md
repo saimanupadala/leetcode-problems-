@@ -212,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0722-remove-comments](https://github.com/saimanupadala/leetcode-problems-/tree/master/0722-remove-comments) |
 | [0726-number-of-atoms](https://github.com/saimanupadala/leetcode-problems-/tree/master/0726-number-of-atoms) |
 | [0730-count-different-palindromic-subsequences](https://github.com/saimanupadala/leetcode-problems-/tree/master/0730-count-different-palindromic-subsequences) |
+| [0736-parse-lisp-expression](https://github.com/saimanupadala/leetcode-problems-/tree/master/0736-parse-lisp-expression) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -501,6 +502,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0394-decode-string](https://github.com/saimanupadala/leetcode-problems-/tree/master/0394-decode-string) |
 | [0486-predict-the-winner](https://github.com/saimanupadala/leetcode-problems-/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/saimanupadala/leetcode-problems-/tree/master/0509-fibonacci-number) |
+| [0736-parse-lisp-expression](https://github.com/saimanupadala/leetcode-problems-/tree/master/0736-parse-lisp-expression) |
 ## Hash Table
 |  |
 | ------- |
@@ -607,6 +609,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0720-longest-word-in-dictionary](https://github.com/saimanupadala/leetcode-problems-/tree/master/0720-longest-word-in-dictionary) |
 | [0721-accounts-merge](https://github.com/saimanupadala/leetcode-problems-/tree/master/0721-accounts-merge) |
 | [0726-number-of-atoms](https://github.com/saimanupadala/leetcode-problems-/tree/master/0726-number-of-atoms) |
+| [0736-parse-lisp-expression](https://github.com/saimanupadala/leetcode-problems-/tree/master/0736-parse-lisp-expression) |
 ## Array
 |  |
 | ------- |
@@ -1120,6 +1123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/saimanupadala/leetcode-problems-/tree/master/0682-baseball-game) |
 | [0726-number-of-atoms](https://github.com/saimanupadala/leetcode-problems-/tree/master/0726-number-of-atoms) |
 | [0735-asteroid-collision](https://github.com/saimanupadala/leetcode-problems-/tree/master/0735-asteroid-collision) |
+| [0736-parse-lisp-expression](https://github.com/saimanupadala/leetcode-problems-/tree/master/0736-parse-lisp-expression) |
 ## Divide and Conquer
 |  |
 | ------- |
