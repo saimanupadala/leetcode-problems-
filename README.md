@@ -322,6 +322,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0718-maximum-length-of-repeated-subarray](https://github.com/saimanupadala/leetcode-problems-/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0730-count-different-palindromic-subsequences](https://github.com/saimanupadala/leetcode-problems-/tree/master/0730-count-different-palindromic-subsequences) |
 | [0740-delete-and-earn](https://github.com/saimanupadala/leetcode-problems-/tree/master/0740-delete-and-earn) |
+| [0741-cherry-pickup](https://github.com/saimanupadala/leetcode-problems-/tree/master/0741-cherry-pickup) |
 ## Math
 |  |
 | ------- |
@@ -874,6 +875,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/saimanupadala/leetcode-problems-/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/saimanupadala/leetcode-problems-/tree/master/0739-daily-temperatures) |
 | [0740-delete-and-earn](https://github.com/saimanupadala/leetcode-problems-/tree/master/0740-delete-and-earn) |
+| [0741-cherry-pickup](https://github.com/saimanupadala/leetcode-problems-/tree/master/0741-cherry-pickup) |
 ## Greedy
 |  |
 | ------- |
@@ -1307,6 +1309,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0675-cut-off-trees-for-golf-event](https://github.com/saimanupadala/leetcode-problems-/tree/master/0675-cut-off-trees-for-golf-event) |
 | [0695-max-area-of-island](https://github.com/saimanupadala/leetcode-problems-/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/saimanupadala/leetcode-problems-/tree/master/0733-flood-fill) |
+| [0741-cherry-pickup](https://github.com/saimanupadala/leetcode-problems-/tree/master/0741-cherry-pickup) |
 ## Monotonic Stack
 |  |
 | ------- |
