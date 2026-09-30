@@ -876,6 +876,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/saimanupadala/leetcode-problems-/tree/master/0739-daily-temperatures) |
 | [0740-delete-and-earn](https://github.com/saimanupadala/leetcode-problems-/tree/master/0740-delete-and-earn) |
 | [0741-cherry-pickup](https://github.com/saimanupadala/leetcode-problems-/tree/master/0741-cherry-pickup) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/saimanupadala/leetcode-problems-/tree/master/0744-find-smallest-letter-greater-than-target) |
 ## Greedy
 |  |
 | ------- |
@@ -1273,6 +1274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0729-my-calendar-i](https://github.com/saimanupadala/leetcode-problems-/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/saimanupadala/leetcode-problems-/tree/master/0731-my-calendar-ii) |
 | [0732-my-calendar-iii](https://github.com/saimanupadala/leetcode-problems-/tree/master/0732-my-calendar-iii) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/saimanupadala/leetcode-problems-/tree/master/0744-find-smallest-letter-greater-than-target) |
 ## Matrix
 |  |
 | ------- |
