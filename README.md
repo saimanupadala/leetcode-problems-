@@ -215,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0736-parse-lisp-expression](https://github.com/saimanupadala/leetcode-problems-/tree/master/0736-parse-lisp-expression) |
 | [0745-prefix-and-suffix-search](https://github.com/saimanupadala/leetcode-problems-/tree/master/0745-prefix-and-suffix-search) |
 | [0748-shortest-completing-word](https://github.com/saimanupadala/leetcode-problems-/tree/master/0748-shortest-completing-word) |
+| [0752-open-the-lock](https://github.com/saimanupadala/leetcode-problems-/tree/master/0752-open-the-lock) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -619,6 +620,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0740-delete-and-earn](https://github.com/saimanupadala/leetcode-problems-/tree/master/0740-delete-and-earn) |
 | [0745-prefix-and-suffix-search](https://github.com/saimanupadala/leetcode-problems-/tree/master/0745-prefix-and-suffix-search) |
 | [0748-shortest-completing-word](https://github.com/saimanupadala/leetcode-problems-/tree/master/0748-shortest-completing-word) |
+| [0752-open-the-lock](https://github.com/saimanupadala/leetcode-problems-/tree/master/0752-open-the-lock) |
 ## Array
 |  |
 | ------- |
@@ -887,6 +889,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0747-largest-number-at-least-twice-of-others](https://github.com/saimanupadala/leetcode-problems-/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0748-shortest-completing-word](https://github.com/saimanupadala/leetcode-problems-/tree/master/0748-shortest-completing-word) |
 | [0749-contain-virus](https://github.com/saimanupadala/leetcode-problems-/tree/master/0749-contain-virus) |
+| [0752-open-the-lock](https://github.com/saimanupadala/leetcode-problems-/tree/master/0752-open-the-lock) |
 ## Greedy
 |  |
 | ------- |
@@ -1699,6 +1702,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/saimanupadala/leetcode-problems-/tree/master/0733-flood-fill) |
 | [0743-network-delay-time](https://github.com/saimanupadala/leetcode-problems-/tree/master/0743-network-delay-time) |
 | [0749-contain-virus](https://github.com/saimanupadala/leetcode-problems-/tree/master/0749-contain-virus) |
+| [0752-open-the-lock](https://github.com/saimanupadala/leetcode-problems-/tree/master/0752-open-the-lock) |
 ## DP on Trees
 |  |
 | ------- |
@@ -1714,6 +1718,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0126-word-ladder-ii](https://github.com/saimanupadala/leetcode-problems-/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/saimanupadala/leetcode-problems-/tree/master/0127-word-ladder) |
 | [0433-minimum-genetic-mutation](https://github.com/saimanupadala/leetcode-problems-/tree/master/0433-minimum-genetic-mutation) |
+| [0752-open-the-lock](https://github.com/saimanupadala/leetcode-problems-/tree/master/0752-open-the-lock) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
