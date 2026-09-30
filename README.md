@@ -870,6 +870,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0731-my-calendar-ii](https://github.com/saimanupadala/leetcode-problems-/tree/master/0731-my-calendar-ii) |
 | [0733-flood-fill](https://github.com/saimanupadala/leetcode-problems-/tree/master/0733-flood-fill) |
 | [0735-asteroid-collision](https://github.com/saimanupadala/leetcode-problems-/tree/master/0735-asteroid-collision) |
+| [0739-daily-temperatures](https://github.com/saimanupadala/leetcode-problems-/tree/master/0739-daily-temperatures) |
 ## Greedy
 |  |
 | ------- |
@@ -1126,6 +1127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0726-number-of-atoms](https://github.com/saimanupadala/leetcode-problems-/tree/master/0726-number-of-atoms) |
 | [0735-asteroid-collision](https://github.com/saimanupadala/leetcode-problems-/tree/master/0735-asteroid-collision) |
 | [0736-parse-lisp-expression](https://github.com/saimanupadala/leetcode-problems-/tree/master/0736-parse-lisp-expression) |
+| [0739-daily-temperatures](https://github.com/saimanupadala/leetcode-problems-/tree/master/0739-daily-temperatures) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -1316,6 +1318,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/saimanupadala/leetcode-problems-/tree/master/0503-next-greater-element-ii) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/saimanupadala/leetcode-problems-/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0654-maximum-binary-tree](https://github.com/saimanupadala/leetcode-problems-/tree/master/0654-maximum-binary-tree) |
+| [0739-daily-temperatures](https://github.com/saimanupadala/leetcode-problems-/tree/master/0739-daily-temperatures) |
 ## Simulation
 |  |
 | ------- |
