@@ -882,6 +882,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0744-find-smallest-letter-greater-than-target](https://github.com/saimanupadala/leetcode-problems-/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0745-prefix-and-suffix-search](https://github.com/saimanupadala/leetcode-problems-/tree/master/0745-prefix-and-suffix-search) |
 | [0746-min-cost-climbing-stairs](https://github.com/saimanupadala/leetcode-problems-/tree/master/0746-min-cost-climbing-stairs) |
+| [0747-largest-number-at-least-twice-of-others](https://github.com/saimanupadala/leetcode-problems-/tree/master/0747-largest-number-at-least-twice-of-others) |
 ## Greedy
 |  |
 | ------- |
@@ -1012,6 +1013,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0720-longest-word-in-dictionary](https://github.com/saimanupadala/leetcode-problems-/tree/master/0720-longest-word-in-dictionary) |
 | [0721-accounts-merge](https://github.com/saimanupadala/leetcode-problems-/tree/master/0721-accounts-merge) |
 | [0726-number-of-atoms](https://github.com/saimanupadala/leetcode-problems-/tree/master/0726-number-of-atoms) |
+| [0747-largest-number-at-least-twice-of-others](https://github.com/saimanupadala/leetcode-problems-/tree/master/0747-largest-number-at-least-twice-of-others) |
 ## Backtracking
 |  |
 | ------- |
