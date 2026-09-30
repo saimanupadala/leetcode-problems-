@@ -324,6 +324,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0730-count-different-palindromic-subsequences](https://github.com/saimanupadala/leetcode-problems-/tree/master/0730-count-different-palindromic-subsequences) |
 | [0740-delete-and-earn](https://github.com/saimanupadala/leetcode-problems-/tree/master/0740-delete-and-earn) |
 | [0741-cherry-pickup](https://github.com/saimanupadala/leetcode-problems-/tree/master/0741-cherry-pickup) |
+| [0746-min-cost-climbing-stairs](https://github.com/saimanupadala/leetcode-problems-/tree/master/0746-min-cost-climbing-stairs) |
 ## Math
 |  |
 | ------- |
@@ -880,6 +881,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0741-cherry-pickup](https://github.com/saimanupadala/leetcode-problems-/tree/master/0741-cherry-pickup) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/saimanupadala/leetcode-problems-/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0745-prefix-and-suffix-search](https://github.com/saimanupadala/leetcode-problems-/tree/master/0745-prefix-and-suffix-search) |
+| [0746-min-cost-climbing-stairs](https://github.com/saimanupadala/leetcode-problems-/tree/master/0746-min-cost-climbing-stairs) |
 ## Greedy
 |  |
 | ------- |
