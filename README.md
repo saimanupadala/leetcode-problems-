@@ -886,6 +886,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0746-min-cost-climbing-stairs](https://github.com/saimanupadala/leetcode-problems-/tree/master/0746-min-cost-climbing-stairs) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/saimanupadala/leetcode-problems-/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0748-shortest-completing-word](https://github.com/saimanupadala/leetcode-problems-/tree/master/0748-shortest-completing-word) |
+| [0749-contain-virus](https://github.com/saimanupadala/leetcode-problems-/tree/master/0749-contain-virus) |
 ## Greedy
 |  |
 | ------- |
@@ -1324,6 +1325,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/saimanupadala/leetcode-problems-/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/saimanupadala/leetcode-problems-/tree/master/0733-flood-fill) |
 | [0741-cherry-pickup](https://github.com/saimanupadala/leetcode-problems-/tree/master/0741-cherry-pickup) |
+| [0749-contain-virus](https://github.com/saimanupadala/leetcode-problems-/tree/master/0749-contain-virus) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -1360,6 +1362,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0657-robot-return-to-origin](https://github.com/saimanupadala/leetcode-problems-/tree/master/0657-robot-return-to-origin) |
 | [0682-baseball-game](https://github.com/saimanupadala/leetcode-problems-/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/saimanupadala/leetcode-problems-/tree/master/0735-asteroid-collision) |
+| [0749-contain-virus](https://github.com/saimanupadala/leetcode-problems-/tree/master/0749-contain-virus) |
 ## Combinatorics
 |  |
 | ------- |
@@ -1468,6 +1471,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0721-accounts-merge](https://github.com/saimanupadala/leetcode-problems-/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/saimanupadala/leetcode-problems-/tree/master/0733-flood-fill) |
 | [0743-network-delay-time](https://github.com/saimanupadala/leetcode-problems-/tree/master/0743-network-delay-time) |
+| [0749-contain-virus](https://github.com/saimanupadala/leetcode-problems-/tree/master/0749-contain-virus) |
 ## Tree
 |  |
 | ------- |
@@ -1694,6 +1698,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0721-accounts-merge](https://github.com/saimanupadala/leetcode-problems-/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/saimanupadala/leetcode-problems-/tree/master/0733-flood-fill) |
 | [0743-network-delay-time](https://github.com/saimanupadala/leetcode-problems-/tree/master/0743-network-delay-time) |
+| [0749-contain-virus](https://github.com/saimanupadala/leetcode-problems-/tree/master/0749-contain-virus) |
 ## DP on Trees
 |  |
 | ------- |
