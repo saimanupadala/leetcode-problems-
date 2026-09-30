@@ -429,6 +429,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0679-24-game](https://github.com/saimanupadala/leetcode-problems-/tree/master/0679-24-game) |
 | [0710-random-pick-with-blacklist](https://github.com/saimanupadala/leetcode-problems-/tree/master/0710-random-pick-with-blacklist) |
 | [0728-self-dividing-numbers](https://github.com/saimanupadala/leetcode-problems-/tree/master/0728-self-dividing-numbers) |
+| [0738-monotone-increasing-digits](https://github.com/saimanupadala/leetcode-problems-/tree/master/0738-monotone-increasing-digits) |
 ## String Matching
 |  |
 | ------- |
@@ -911,6 +912,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/saimanupadala/leetcode-problems-/tree/master/0678-valid-parenthesis-string) |
 | [0680-valid-palindrome-ii](https://github.com/saimanupadala/leetcode-problems-/tree/master/0680-valid-palindrome-ii) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/saimanupadala/leetcode-problems-/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
+| [0738-monotone-increasing-digits](https://github.com/saimanupadala/leetcode-problems-/tree/master/0738-monotone-increasing-digits) |
 ## Trie
 |  |
 | ------- |
