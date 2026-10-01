@@ -216,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0745-prefix-and-suffix-search](https://github.com/saimanupadala/leetcode-problems-/tree/master/0745-prefix-and-suffix-search) |
 | [0748-shortest-completing-word](https://github.com/saimanupadala/leetcode-problems-/tree/master/0748-shortest-completing-word) |
 | [0752-open-the-lock](https://github.com/saimanupadala/leetcode-problems-/tree/master/0752-open-the-lock) |
+| [0753-cracking-the-safe](https://github.com/saimanupadala/leetcode-problems-/tree/master/0753-cracking-the-safe) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -1475,6 +1476,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/saimanupadala/leetcode-problems-/tree/master/0733-flood-fill) |
 | [0743-network-delay-time](https://github.com/saimanupadala/leetcode-problems-/tree/master/0743-network-delay-time) |
 | [0749-contain-virus](https://github.com/saimanupadala/leetcode-problems-/tree/master/0749-contain-virus) |
+| [0753-cracking-the-safe](https://github.com/saimanupadala/leetcode-problems-/tree/master/0753-cracking-the-safe) |
 ## Tree
 |  |
 | ------- |
@@ -1754,6 +1756,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0684-redundant-connection](https://github.com/saimanupadala/leetcode-problems-/tree/master/0684-redundant-connection) |
 | [0685-redundant-connection-ii](https://github.com/saimanupadala/leetcode-problems-/tree/master/0685-redundant-connection-ii) |
 | [0743-network-delay-time](https://github.com/saimanupadala/leetcode-problems-/tree/master/0743-network-delay-time) |
+| [0753-cracking-the-safe](https://github.com/saimanupadala/leetcode-problems-/tree/master/0753-cracking-the-safe) |
 ## Brute-Force Search
 |  |
 | ------- |
@@ -2163,10 +2166,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0332-reconstruct-itinerary](https://github.com/saimanupadala/leetcode-problems-/tree/master/0332-reconstruct-itinerary) |
+| [0753-cracking-the-safe](https://github.com/saimanupadala/leetcode-problems-/tree/master/0753-cracking-the-safe) |
 ## Eulerian Path
 |  |
 | ------- |
 | [0332-reconstruct-itinerary](https://github.com/saimanupadala/leetcode-problems-/tree/master/0332-reconstruct-itinerary) |
+| [0753-cracking-the-safe](https://github.com/saimanupadala/leetcode-problems-/tree/master/0753-cracking-the-safe) |
 ## Semi-Eulerian Graph
 |  |
 | ------- |
@@ -2278,4 +2283,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0743-network-delay-time](https://github.com/saimanupadala/leetcode-problems-/tree/master/0743-network-delay-time) |
+## Eulerian Graph
+|  |
+| ------- |
+| [0753-cracking-the-safe](https://github.com/saimanupadala/leetcode-problems-/tree/master/0753-cracking-the-safe) |
 <!---LeetCode Topics End-->
