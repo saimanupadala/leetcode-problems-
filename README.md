@@ -331,6 +331,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0740-delete-and-earn](https://github.com/saimanupadala/leetcode-problems-/tree/master/0740-delete-and-earn) |
 | [0741-cherry-pickup](https://github.com/saimanupadala/leetcode-problems-/tree/master/0741-cherry-pickup) |
 | [0746-min-cost-climbing-stairs](https://github.com/saimanupadala/leetcode-problems-/tree/master/0746-min-cost-climbing-stairs) |
+| [0764-largest-plus-sign](https://github.com/saimanupadala/leetcode-problems-/tree/master/0764-largest-plus-sign) |
 ## Math
 |  |
 | ------- |
@@ -899,6 +900,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0749-contain-virus](https://github.com/saimanupadala/leetcode-problems-/tree/master/0749-contain-virus) |
 | [0752-open-the-lock](https://github.com/saimanupadala/leetcode-problems-/tree/master/0752-open-the-lock) |
 | [0757-set-intersection-size-at-least-two](https://github.com/saimanupadala/leetcode-problems-/tree/master/0757-set-intersection-size-at-least-two) |
+| [0764-largest-plus-sign](https://github.com/saimanupadala/leetcode-problems-/tree/master/0764-largest-plus-sign) |
 ## Greedy
 |  |
 | ------- |
