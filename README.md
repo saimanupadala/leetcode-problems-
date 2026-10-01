@@ -901,6 +901,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0752-open-the-lock](https://github.com/saimanupadala/leetcode-problems-/tree/master/0752-open-the-lock) |
 | [0757-set-intersection-size-at-least-two](https://github.com/saimanupadala/leetcode-problems-/tree/master/0757-set-intersection-size-at-least-two) |
 | [0764-largest-plus-sign](https://github.com/saimanupadala/leetcode-problems-/tree/master/0764-largest-plus-sign) |
+| [0766-toeplitz-matrix](https://github.com/saimanupadala/leetcode-problems-/tree/master/0766-toeplitz-matrix) |
 ## Greedy
 |  |
 | ------- |
@@ -1347,6 +1348,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/saimanupadala/leetcode-problems-/tree/master/0733-flood-fill) |
 | [0741-cherry-pickup](https://github.com/saimanupadala/leetcode-problems-/tree/master/0741-cherry-pickup) |
 | [0749-contain-virus](https://github.com/saimanupadala/leetcode-problems-/tree/master/0749-contain-virus) |
+| [0766-toeplitz-matrix](https://github.com/saimanupadala/leetcode-problems-/tree/master/0766-toeplitz-matrix) |
 ## Monotonic Stack
 |  |
 | ------- |
