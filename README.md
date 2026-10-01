@@ -217,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0748-shortest-completing-word](https://github.com/saimanupadala/leetcode-problems-/tree/master/0748-shortest-completing-word) |
 | [0752-open-the-lock](https://github.com/saimanupadala/leetcode-problems-/tree/master/0752-open-the-lock) |
 | [0753-cracking-the-safe](https://github.com/saimanupadala/leetcode-problems-/tree/master/0753-cracking-the-safe) |
+| [0761-special-binary-string](https://github.com/saimanupadala/leetcode-problems-/tree/master/0761-special-binary-string) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -1026,6 +1027,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0726-number-of-atoms](https://github.com/saimanupadala/leetcode-problems-/tree/master/0726-number-of-atoms) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/saimanupadala/leetcode-problems-/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0757-set-intersection-size-at-least-two](https://github.com/saimanupadala/leetcode-problems-/tree/master/0757-set-intersection-size-at-least-two) |
+| [0761-special-binary-string](https://github.com/saimanupadala/leetcode-problems-/tree/master/0761-special-binary-string) |
 ## Backtracking
 |  |
 | ------- |
@@ -1180,6 +1182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0493-reverse-pairs](https://github.com/saimanupadala/leetcode-problems-/tree/master/0493-reverse-pairs) |
 | [0558-logical-or-of-two-binary-grids-represented-as-quad-trees](https://github.com/saimanupadala/leetcode-problems-/tree/master/0558-logical-or-of-two-binary-grids-represented-as-quad-trees) |
 | [0654-maximum-binary-tree](https://github.com/saimanupadala/leetcode-problems-/tree/master/0654-maximum-binary-tree) |
+| [0761-special-binary-string](https://github.com/saimanupadala/leetcode-problems-/tree/master/0761-special-binary-string) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
