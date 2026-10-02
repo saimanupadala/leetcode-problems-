@@ -221,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0761-special-binary-string](https://github.com/saimanupadala/leetcode-problems-/tree/master/0761-special-binary-string) |
 | [0763-partition-labels](https://github.com/saimanupadala/leetcode-problems-/tree/master/0763-partition-labels) |
 | [0767-reorganize-string](https://github.com/saimanupadala/leetcode-problems-/tree/master/0767-reorganize-string) |
+| [0771-jewels-and-stones](https://github.com/saimanupadala/leetcode-problems-/tree/master/0771-jewels-and-stones) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -632,6 +633,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0752-open-the-lock](https://github.com/saimanupadala/leetcode-problems-/tree/master/0752-open-the-lock) |
 | [0763-partition-labels](https://github.com/saimanupadala/leetcode-problems-/tree/master/0763-partition-labels) |
 | [0767-reorganize-string](https://github.com/saimanupadala/leetcode-problems-/tree/master/0767-reorganize-string) |
+| [0771-jewels-and-stones](https://github.com/saimanupadala/leetcode-problems-/tree/master/0771-jewels-and-stones) |
 ## Array
 |  |
 | ------- |
