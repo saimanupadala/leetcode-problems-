@@ -446,6 +446,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0738-monotone-increasing-digits](https://github.com/saimanupadala/leetcode-problems-/tree/master/0738-monotone-increasing-digits) |
 | [0754-reach-a-number](https://github.com/saimanupadala/leetcode-problems-/tree/master/0754-reach-a-number) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/saimanupadala/leetcode-problems-/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
+| [0775-global-and-local-inversions](https://github.com/saimanupadala/leetcode-problems-/tree/master/0775-global-and-local-inversions) |
 ## String Matching
 |  |
 | ------- |
@@ -909,6 +910,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0766-toeplitz-matrix](https://github.com/saimanupadala/leetcode-problems-/tree/master/0766-toeplitz-matrix) |
 | [0769-max-chunks-to-make-sorted](https://github.com/saimanupadala/leetcode-problems-/tree/master/0769-max-chunks-to-make-sorted) |
 | [0773-sliding-puzzle](https://github.com/saimanupadala/leetcode-problems-/tree/master/0773-sliding-puzzle) |
+| [0775-global-and-local-inversions](https://github.com/saimanupadala/leetcode-problems-/tree/master/0775-global-and-local-inversions) |
 ## Greedy
 |  |
 | ------- |
