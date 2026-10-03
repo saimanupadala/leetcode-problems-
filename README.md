@@ -449,6 +449,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0754-reach-a-number](https://github.com/saimanupadala/leetcode-problems-/tree/master/0754-reach-a-number) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/saimanupadala/leetcode-problems-/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0775-global-and-local-inversions](https://github.com/saimanupadala/leetcode-problems-/tree/master/0775-global-and-local-inversions) |
+| [0779-k-th-symbol-in-grammar](https://github.com/saimanupadala/leetcode-problems-/tree/master/0779-k-th-symbol-in-grammar) |
 ## String Matching
 |  |
 | ------- |
@@ -499,6 +500,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0693-binary-number-with-alternating-bits](https://github.com/saimanupadala/leetcode-problems-/tree/master/0693-binary-number-with-alternating-bits) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/saimanupadala/leetcode-problems-/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/saimanupadala/leetcode-problems-/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
+| [0779-k-th-symbol-in-grammar](https://github.com/saimanupadala/leetcode-problems-/tree/master/0779-k-th-symbol-in-grammar) |
 ## Recursion
 |  |
 | ------- |
@@ -524,6 +526,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/saimanupadala/leetcode-problems-/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/saimanupadala/leetcode-problems-/tree/master/0509-fibonacci-number) |
 | [0736-parse-lisp-expression](https://github.com/saimanupadala/leetcode-problems-/tree/master/0736-parse-lisp-expression) |
+| [0779-k-th-symbol-in-grammar](https://github.com/saimanupadala/leetcode-problems-/tree/master/0779-k-th-symbol-in-grammar) |
 ## Hash Table
 |  |
 | ------- |
