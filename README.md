@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0696-count-binary-substrings](https://github.com/saimanupadala/leetcode-problems-/tree/master/0696-count-binary-substrings) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/saimanupadala/leetcode-problems-/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0763-partition-labels](https://github.com/saimanupadala/leetcode-problems-/tree/master/0763-partition-labels) |
+| [0777-swap-adjacent-in-lr-string](https://github.com/saimanupadala/leetcode-problems-/tree/master/0777-swap-adjacent-in-lr-string) |
 ## String
 |  |
 | ------- |
@@ -222,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0763-partition-labels](https://github.com/saimanupadala/leetcode-problems-/tree/master/0763-partition-labels) |
 | [0767-reorganize-string](https://github.com/saimanupadala/leetcode-problems-/tree/master/0767-reorganize-string) |
 | [0771-jewels-and-stones](https://github.com/saimanupadala/leetcode-problems-/tree/master/0771-jewels-and-stones) |
+| [0777-swap-adjacent-in-lr-string](https://github.com/saimanupadala/leetcode-problems-/tree/master/0777-swap-adjacent-in-lr-string) |
 ## Dynamic Programming
 |  |
 | ------- |
