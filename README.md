@@ -453,6 +453,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0770-basic-calculator-iv](https://github.com/saimanupadala/leetcode-problems-/tree/master/0770-basic-calculator-iv) |
 | [0775-global-and-local-inversions](https://github.com/saimanupadala/leetcode-problems-/tree/master/0775-global-and-local-inversions) |
 | [0779-k-th-symbol-in-grammar](https://github.com/saimanupadala/leetcode-problems-/tree/master/0779-k-th-symbol-in-grammar) |
+| [0780-reaching-points](https://github.com/saimanupadala/leetcode-problems-/tree/master/0780-reaching-points) |
 ## String Matching
 |  |
 | ------- |
@@ -1901,12 +1902,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0149-max-points-on-a-line](https://github.com/saimanupadala/leetcode-problems-/tree/master/0149-max-points-on-a-line) |
 | [0365-water-and-jug-problem](https://github.com/saimanupadala/leetcode-problems-/tree/master/0365-water-and-jug-problem) |
 | [0592-fraction-addition-and-subtraction](https://github.com/saimanupadala/leetcode-problems-/tree/master/0592-fraction-addition-and-subtraction) |
+| [0780-reaching-points](https://github.com/saimanupadala/leetcode-problems-/tree/master/0780-reaching-points) |
 ## Greatest Common Divisor
 |  |
 | ------- |
 | [0149-max-points-on-a-line](https://github.com/saimanupadala/leetcode-problems-/tree/master/0149-max-points-on-a-line) |
 | [0365-water-and-jug-problem](https://github.com/saimanupadala/leetcode-problems-/tree/master/0365-water-and-jug-problem) |
 | [0592-fraction-addition-and-subtraction](https://github.com/saimanupadala/leetcode-problems-/tree/master/0592-fraction-addition-and-subtraction) |
+| [0780-reaching-points](https://github.com/saimanupadala/leetcode-problems-/tree/master/0780-reaching-points) |
 ## Bucket Sort
 |  |
 | ------- |
