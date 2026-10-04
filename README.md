@@ -222,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0761-special-binary-string](https://github.com/saimanupadala/leetcode-problems-/tree/master/0761-special-binary-string) |
 | [0763-partition-labels](https://github.com/saimanupadala/leetcode-problems-/tree/master/0763-partition-labels) |
 | [0767-reorganize-string](https://github.com/saimanupadala/leetcode-problems-/tree/master/0767-reorganize-string) |
+| [0770-basic-calculator-iv](https://github.com/saimanupadala/leetcode-problems-/tree/master/0770-basic-calculator-iv) |
 | [0771-jewels-and-stones](https://github.com/saimanupadala/leetcode-problems-/tree/master/0771-jewels-and-stones) |
 | [0777-swap-adjacent-in-lr-string](https://github.com/saimanupadala/leetcode-problems-/tree/master/0777-swap-adjacent-in-lr-string) |
 ## Dynamic Programming
@@ -448,6 +449,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0738-monotone-increasing-digits](https://github.com/saimanupadala/leetcode-problems-/tree/master/0738-monotone-increasing-digits) |
 | [0754-reach-a-number](https://github.com/saimanupadala/leetcode-problems-/tree/master/0754-reach-a-number) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/saimanupadala/leetcode-problems-/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
+| [0770-basic-calculator-iv](https://github.com/saimanupadala/leetcode-problems-/tree/master/0770-basic-calculator-iv) |
 | [0775-global-and-local-inversions](https://github.com/saimanupadala/leetcode-problems-/tree/master/0775-global-and-local-inversions) |
 | [0779-k-th-symbol-in-grammar](https://github.com/saimanupadala/leetcode-problems-/tree/master/0779-k-th-symbol-in-grammar) |
 ## String Matching
@@ -526,6 +528,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/saimanupadala/leetcode-problems-/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/saimanupadala/leetcode-problems-/tree/master/0509-fibonacci-number) |
 | [0736-parse-lisp-expression](https://github.com/saimanupadala/leetcode-problems-/tree/master/0736-parse-lisp-expression) |
+| [0770-basic-calculator-iv](https://github.com/saimanupadala/leetcode-problems-/tree/master/0770-basic-calculator-iv) |
 | [0779-k-th-symbol-in-grammar](https://github.com/saimanupadala/leetcode-problems-/tree/master/0779-k-th-symbol-in-grammar) |
 ## Hash Table
 |  |
@@ -640,6 +643,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0752-open-the-lock](https://github.com/saimanupadala/leetcode-problems-/tree/master/0752-open-the-lock) |
 | [0763-partition-labels](https://github.com/saimanupadala/leetcode-problems-/tree/master/0763-partition-labels) |
 | [0767-reorganize-string](https://github.com/saimanupadala/leetcode-problems-/tree/master/0767-reorganize-string) |
+| [0770-basic-calculator-iv](https://github.com/saimanupadala/leetcode-problems-/tree/master/0770-basic-calculator-iv) |
 | [0771-jewels-and-stones](https://github.com/saimanupadala/leetcode-problems-/tree/master/0771-jewels-and-stones) |
 ## Array
 |  |
@@ -1191,6 +1195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/saimanupadala/leetcode-problems-/tree/master/0739-daily-temperatures) |
 | [0768-max-chunks-to-make-sorted-ii](https://github.com/saimanupadala/leetcode-problems-/tree/master/0768-max-chunks-to-make-sorted-ii) |
 | [0769-max-chunks-to-make-sorted](https://github.com/saimanupadala/leetcode-problems-/tree/master/0769-max-chunks-to-make-sorted) |
+| [0770-basic-calculator-iv](https://github.com/saimanupadala/leetcode-problems-/tree/master/0770-basic-calculator-iv) |
 ## Divide and Conquer
 |  |
 | ------- |
