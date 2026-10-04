@@ -913,6 +913,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0757-set-intersection-size-at-least-two](https://github.com/saimanupadala/leetcode-problems-/tree/master/0757-set-intersection-size-at-least-two) |
 | [0764-largest-plus-sign](https://github.com/saimanupadala/leetcode-problems-/tree/master/0764-largest-plus-sign) |
 | [0766-toeplitz-matrix](https://github.com/saimanupadala/leetcode-problems-/tree/master/0766-toeplitz-matrix) |
+| [0768-max-chunks-to-make-sorted-ii](https://github.com/saimanupadala/leetcode-problems-/tree/master/0768-max-chunks-to-make-sorted-ii) |
 | [0769-max-chunks-to-make-sorted](https://github.com/saimanupadala/leetcode-problems-/tree/master/0769-max-chunks-to-make-sorted) |
 | [0773-sliding-puzzle](https://github.com/saimanupadala/leetcode-problems-/tree/master/0773-sliding-puzzle) |
 | [0775-global-and-local-inversions](https://github.com/saimanupadala/leetcode-problems-/tree/master/0775-global-and-local-inversions) |
@@ -964,6 +965,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0763-partition-labels](https://github.com/saimanupadala/leetcode-problems-/tree/master/0763-partition-labels) |
 | [0765-couples-holding-hands](https://github.com/saimanupadala/leetcode-problems-/tree/master/0765-couples-holding-hands) |
 | [0767-reorganize-string](https://github.com/saimanupadala/leetcode-problems-/tree/master/0767-reorganize-string) |
+| [0768-max-chunks-to-make-sorted-ii](https://github.com/saimanupadala/leetcode-problems-/tree/master/0768-max-chunks-to-make-sorted-ii) |
 | [0769-max-chunks-to-make-sorted](https://github.com/saimanupadala/leetcode-problems-/tree/master/0769-max-chunks-to-make-sorted) |
 ## Trie
 |  |
@@ -1056,6 +1058,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0757-set-intersection-size-at-least-two](https://github.com/saimanupadala/leetcode-problems-/tree/master/0757-set-intersection-size-at-least-two) |
 | [0761-special-binary-string](https://github.com/saimanupadala/leetcode-problems-/tree/master/0761-special-binary-string) |
 | [0767-reorganize-string](https://github.com/saimanupadala/leetcode-problems-/tree/master/0767-reorganize-string) |
+| [0768-max-chunks-to-make-sorted-ii](https://github.com/saimanupadala/leetcode-problems-/tree/master/0768-max-chunks-to-make-sorted-ii) |
 | [0769-max-chunks-to-make-sorted](https://github.com/saimanupadala/leetcode-problems-/tree/master/0769-max-chunks-to-make-sorted) |
 ## Backtracking
 |  |
@@ -1186,6 +1189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/saimanupadala/leetcode-problems-/tree/master/0735-asteroid-collision) |
 | [0736-parse-lisp-expression](https://github.com/saimanupadala/leetcode-problems-/tree/master/0736-parse-lisp-expression) |
 | [0739-daily-temperatures](https://github.com/saimanupadala/leetcode-problems-/tree/master/0739-daily-temperatures) |
+| [0768-max-chunks-to-make-sorted-ii](https://github.com/saimanupadala/leetcode-problems-/tree/master/0768-max-chunks-to-make-sorted-ii) |
 | [0769-max-chunks-to-make-sorted](https://github.com/saimanupadala/leetcode-problems-/tree/master/0769-max-chunks-to-make-sorted) |
 ## Divide and Conquer
 |  |
@@ -1390,6 +1394,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/saimanupadala/leetcode-problems-/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0654-maximum-binary-tree](https://github.com/saimanupadala/leetcode-problems-/tree/master/0654-maximum-binary-tree) |
 | [0739-daily-temperatures](https://github.com/saimanupadala/leetcode-problems-/tree/master/0739-daily-temperatures) |
+| [0768-max-chunks-to-make-sorted-ii](https://github.com/saimanupadala/leetcode-problems-/tree/master/0768-max-chunks-to-make-sorted-ii) |
 | [0769-max-chunks-to-make-sorted](https://github.com/saimanupadala/leetcode-problems-/tree/master/0769-max-chunks-to-make-sorted) |
 ## Simulation
 |  |
