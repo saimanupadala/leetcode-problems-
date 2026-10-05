@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0719-find-k-th-smallest-pair-distance](https://github.com/saimanupadala/leetcode-problems-/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0763-partition-labels](https://github.com/saimanupadala/leetcode-problems-/tree/master/0763-partition-labels) |
 | [0777-swap-adjacent-in-lr-string](https://github.com/saimanupadala/leetcode-problems-/tree/master/0777-swap-adjacent-in-lr-string) |
+| [0786-k-th-smallest-prime-fraction](https://github.com/saimanupadala/leetcode-problems-/tree/master/0786-k-th-smallest-prime-fraction) |
 ## String
 |  |
 | ------- |
@@ -933,6 +934,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0775-global-and-local-inversions](https://github.com/saimanupadala/leetcode-problems-/tree/master/0775-global-and-local-inversions) |
 | [0778-swim-in-rising-water](https://github.com/saimanupadala/leetcode-problems-/tree/master/0778-swim-in-rising-water) |
 | [0781-rabbits-in-forest](https://github.com/saimanupadala/leetcode-problems-/tree/master/0781-rabbits-in-forest) |
+| [0786-k-th-smallest-prime-fraction](https://github.com/saimanupadala/leetcode-problems-/tree/master/0786-k-th-smallest-prime-fraction) |
 ## Greedy
 |  |
 | ------- |
@@ -1077,6 +1079,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0767-reorganize-string](https://github.com/saimanupadala/leetcode-problems-/tree/master/0767-reorganize-string) |
 | [0768-max-chunks-to-make-sorted-ii](https://github.com/saimanupadala/leetcode-problems-/tree/master/0768-max-chunks-to-make-sorted-ii) |
 | [0769-max-chunks-to-make-sorted](https://github.com/saimanupadala/leetcode-problems-/tree/master/0769-max-chunks-to-make-sorted) |
+| [0786-k-th-smallest-prime-fraction](https://github.com/saimanupadala/leetcode-problems-/tree/master/0786-k-th-smallest-prime-fraction) |
 ## Backtracking
 |  |
 | ------- |
@@ -1270,6 +1273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0743-network-delay-time](https://github.com/saimanupadala/leetcode-problems-/tree/master/0743-network-delay-time) |
 | [0767-reorganize-string](https://github.com/saimanupadala/leetcode-problems-/tree/master/0767-reorganize-string) |
 | [0778-swim-in-rising-water](https://github.com/saimanupadala/leetcode-problems-/tree/master/0778-swim-in-rising-water) |
+| [0786-k-th-smallest-prime-fraction](https://github.com/saimanupadala/leetcode-problems-/tree/master/0786-k-th-smallest-prime-fraction) |
 ## Merge Sort
 |  |
 | ------- |
@@ -1359,6 +1363,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0744-find-smallest-letter-greater-than-target](https://github.com/saimanupadala/leetcode-problems-/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0754-reach-a-number](https://github.com/saimanupadala/leetcode-problems-/tree/master/0754-reach-a-number) |
 | [0778-swim-in-rising-water](https://github.com/saimanupadala/leetcode-problems-/tree/master/0778-swim-in-rising-water) |
+| [0786-k-th-smallest-prime-fraction](https://github.com/saimanupadala/leetcode-problems-/tree/master/0786-k-th-smallest-prime-fraction) |
 ## Matrix
 |  |
 | ------- |
