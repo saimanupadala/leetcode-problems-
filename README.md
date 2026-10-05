@@ -1555,6 +1555,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0753-cracking-the-safe](https://github.com/saimanupadala/leetcode-problems-/tree/master/0753-cracking-the-safe) |
 | [0765-couples-holding-hands](https://github.com/saimanupadala/leetcode-problems-/tree/master/0765-couples-holding-hands) |
 | [0778-swim-in-rising-water](https://github.com/saimanupadala/leetcode-problems-/tree/master/0778-swim-in-rising-water) |
+| [0785-is-graph-bipartite](https://github.com/saimanupadala/leetcode-problems-/tree/master/0785-is-graph-bipartite) |
 ## Tree
 |  |
 | ------- |
@@ -1787,6 +1788,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0765-couples-holding-hands](https://github.com/saimanupadala/leetcode-problems-/tree/master/0765-couples-holding-hands) |
 | [0773-sliding-puzzle](https://github.com/saimanupadala/leetcode-problems-/tree/master/0773-sliding-puzzle) |
 | [0778-swim-in-rising-water](https://github.com/saimanupadala/leetcode-problems-/tree/master/0778-swim-in-rising-water) |
+| [0785-is-graph-bipartite](https://github.com/saimanupadala/leetcode-problems-/tree/master/0785-is-graph-bipartite) |
 ## DP on Trees
 |  |
 | ------- |
@@ -1827,6 +1829,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0721-accounts-merge](https://github.com/saimanupadala/leetcode-problems-/tree/master/0721-accounts-merge) |
 | [0765-couples-holding-hands](https://github.com/saimanupadala/leetcode-problems-/tree/master/0765-couples-holding-hands) |
 | [0778-swim-in-rising-water](https://github.com/saimanupadala/leetcode-problems-/tree/master/0778-swim-in-rising-water) |
+| [0785-is-graph-bipartite](https://github.com/saimanupadala/leetcode-problems-/tree/master/0785-is-graph-bipartite) |
 ## Graph Theory
 |  |
 | ------- |
@@ -1843,6 +1846,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0743-network-delay-time](https://github.com/saimanupadala/leetcode-problems-/tree/master/0743-network-delay-time) |
 | [0753-cracking-the-safe](https://github.com/saimanupadala/leetcode-problems-/tree/master/0753-cracking-the-safe) |
 | [0765-couples-holding-hands](https://github.com/saimanupadala/leetcode-problems-/tree/master/0765-couples-holding-hands) |
+| [0785-is-graph-bipartite](https://github.com/saimanupadala/leetcode-problems-/tree/master/0785-is-graph-bipartite) |
 ## Brute-Force Search
 |  |
 | ------- |
@@ -2388,4 +2392,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0773-sliding-puzzle](https://github.com/saimanupadala/leetcode-problems-/tree/master/0773-sliding-puzzle) |
+## Graph Coloring
+|  |
+| ------- |
+| [0785-is-graph-bipartite](https://github.com/saimanupadala/leetcode-problems-/tree/master/0785-is-graph-bipartite) |
+## Bipartite Graph
+|  |
+| ------- |
+| [0785-is-graph-bipartite](https://github.com/saimanupadala/leetcode-problems-/tree/master/0785-is-graph-bipartite) |
 <!---LeetCode Topics End-->
