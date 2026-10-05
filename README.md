@@ -226,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0770-basic-calculator-iv](https://github.com/saimanupadala/leetcode-problems-/tree/master/0770-basic-calculator-iv) |
 | [0771-jewels-and-stones](https://github.com/saimanupadala/leetcode-problems-/tree/master/0771-jewels-and-stones) |
 | [0777-swap-adjacent-in-lr-string](https://github.com/saimanupadala/leetcode-problems-/tree/master/0777-swap-adjacent-in-lr-string) |
+| [0784-letter-case-permutation](https://github.com/saimanupadala/leetcode-problems-/tree/master/0784-letter-case-permutation) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -507,6 +508,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0756-pyramid-transition-matrix](https://github.com/saimanupadala/leetcode-problems-/tree/master/0756-pyramid-transition-matrix) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/saimanupadala/leetcode-problems-/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0779-k-th-symbol-in-grammar](https://github.com/saimanupadala/leetcode-problems-/tree/master/0779-k-th-symbol-in-grammar) |
+| [0784-letter-case-permutation](https://github.com/saimanupadala/leetcode-problems-/tree/master/0784-letter-case-permutation) |
 ## Recursion
 |  |
 | ------- |
@@ -1116,6 +1118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/saimanupadala/leetcode-problems-/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0756-pyramid-transition-matrix](https://github.com/saimanupadala/leetcode-problems-/tree/master/0756-pyramid-transition-matrix) |
 | [0773-sliding-puzzle](https://github.com/saimanupadala/leetcode-problems-/tree/master/0773-sliding-puzzle) |
+| [0784-letter-case-permutation](https://github.com/saimanupadala/leetcode-problems-/tree/master/0784-letter-case-permutation) |
 ## Linked List
 |  |
 | ------- |
