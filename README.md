@@ -460,6 +460,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0780-reaching-points](https://github.com/saimanupadala/leetcode-problems-/tree/master/0780-reaching-points) |
 | [0781-rabbits-in-forest](https://github.com/saimanupadala/leetcode-problems-/tree/master/0781-rabbits-in-forest) |
 | [0788-rotated-digits](https://github.com/saimanupadala/leetcode-problems-/tree/master/0788-rotated-digits) |
+| [0789-escape-the-ghosts](https://github.com/saimanupadala/leetcode-problems-/tree/master/0789-escape-the-ghosts) |
 ## String Matching
 |  |
 | ------- |
@@ -938,6 +939,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0778-swim-in-rising-water](https://github.com/saimanupadala/leetcode-problems-/tree/master/0778-swim-in-rising-water) |
 | [0781-rabbits-in-forest](https://github.com/saimanupadala/leetcode-problems-/tree/master/0781-rabbits-in-forest) |
 | [0786-k-th-smallest-prime-fraction](https://github.com/saimanupadala/leetcode-problems-/tree/master/0786-k-th-smallest-prime-fraction) |
+| [0789-escape-the-ghosts](https://github.com/saimanupadala/leetcode-problems-/tree/master/0789-escape-the-ghosts) |
 ## Greedy
 |  |
 | ------- |
