@@ -465,6 +465,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0781-rabbits-in-forest](https://github.com/saimanupadala/leetcode-problems-/tree/master/0781-rabbits-in-forest) |
 | [0788-rotated-digits](https://github.com/saimanupadala/leetcode-problems-/tree/master/0788-rotated-digits) |
 | [0789-escape-the-ghosts](https://github.com/saimanupadala/leetcode-problems-/tree/master/0789-escape-the-ghosts) |
+| [0793-preimage-size-of-factorial-zeroes-function](https://github.com/saimanupadala/leetcode-problems-/tree/master/0793-preimage-size-of-factorial-zeroes-function) |
 ## String Matching
 |  |
 | ------- |
@@ -1381,6 +1382,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0778-swim-in-rising-water](https://github.com/saimanupadala/leetcode-problems-/tree/master/0778-swim-in-rising-water) |
 | [0786-k-th-smallest-prime-fraction](https://github.com/saimanupadala/leetcode-problems-/tree/master/0786-k-th-smallest-prime-fraction) |
 | [0792-number-of-matching-subsequences](https://github.com/saimanupadala/leetcode-problems-/tree/master/0792-number-of-matching-subsequences) |
+| [0793-preimage-size-of-factorial-zeroes-function](https://github.com/saimanupadala/leetcode-problems-/tree/master/0793-preimage-size-of-factorial-zeroes-function) |
 ## Matrix
 |  |
 | ------- |
