@@ -343,6 +343,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0773-sliding-puzzle](https://github.com/saimanupadala/leetcode-problems-/tree/master/0773-sliding-puzzle) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/saimanupadala/leetcode-problems-/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0788-rotated-digits](https://github.com/saimanupadala/leetcode-problems-/tree/master/0788-rotated-digits) |
+| [0790-domino-and-tromino-tiling](https://github.com/saimanupadala/leetcode-problems-/tree/master/0790-domino-and-tromino-tiling) |
 ## Math
 |  |
 | ------- |
