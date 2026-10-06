@@ -948,6 +948,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0786-k-th-smallest-prime-fraction](https://github.com/saimanupadala/leetcode-problems-/tree/master/0786-k-th-smallest-prime-fraction) |
 | [0789-escape-the-ghosts](https://github.com/saimanupadala/leetcode-problems-/tree/master/0789-escape-the-ghosts) |
 | [0792-number-of-matching-subsequences](https://github.com/saimanupadala/leetcode-problems-/tree/master/0792-number-of-matching-subsequences) |
+| [0794-valid-tic-tac-toe-state](https://github.com/saimanupadala/leetcode-problems-/tree/master/0794-valid-tic-tac-toe-state) |
 ## Greedy
 |  |
 | ------- |
@@ -1426,6 +1427,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0766-toeplitz-matrix](https://github.com/saimanupadala/leetcode-problems-/tree/master/0766-toeplitz-matrix) |
 | [0773-sliding-puzzle](https://github.com/saimanupadala/leetcode-problems-/tree/master/0773-sliding-puzzle) |
 | [0778-swim-in-rising-water](https://github.com/saimanupadala/leetcode-problems-/tree/master/0778-swim-in-rising-water) |
+| [0794-valid-tic-tac-toe-state](https://github.com/saimanupadala/leetcode-problems-/tree/master/0794-valid-tic-tac-toe-state) |
 ## Monotonic Stack
 |  |
 | ------- |
