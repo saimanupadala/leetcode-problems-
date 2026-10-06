@@ -228,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0771-jewels-and-stones](https://github.com/saimanupadala/leetcode-problems-/tree/master/0771-jewels-and-stones) |
 | [0777-swap-adjacent-in-lr-string](https://github.com/saimanupadala/leetcode-problems-/tree/master/0777-swap-adjacent-in-lr-string) |
 | [0784-letter-case-permutation](https://github.com/saimanupadala/leetcode-problems-/tree/master/0784-letter-case-permutation) |
+| [0791-custom-sort-string](https://github.com/saimanupadala/leetcode-problems-/tree/master/0791-custom-sort-string) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -659,6 +660,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0770-basic-calculator-iv](https://github.com/saimanupadala/leetcode-problems-/tree/master/0770-basic-calculator-iv) |
 | [0771-jewels-and-stones](https://github.com/saimanupadala/leetcode-problems-/tree/master/0771-jewels-and-stones) |
 | [0781-rabbits-in-forest](https://github.com/saimanupadala/leetcode-problems-/tree/master/0781-rabbits-in-forest) |
+| [0791-custom-sort-string](https://github.com/saimanupadala/leetcode-problems-/tree/master/0791-custom-sort-string) |
 ## Array
 |  |
 | ------- |
@@ -1086,6 +1088,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0768-max-chunks-to-make-sorted-ii](https://github.com/saimanupadala/leetcode-problems-/tree/master/0768-max-chunks-to-make-sorted-ii) |
 | [0769-max-chunks-to-make-sorted](https://github.com/saimanupadala/leetcode-problems-/tree/master/0769-max-chunks-to-make-sorted) |
 | [0786-k-th-smallest-prime-fraction](https://github.com/saimanupadala/leetcode-problems-/tree/master/0786-k-th-smallest-prime-fraction) |
+| [0791-custom-sort-string](https://github.com/saimanupadala/leetcode-problems-/tree/master/0791-custom-sort-string) |
 ## Backtracking
 |  |
 | ------- |
