@@ -231,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0784-letter-case-permutation](https://github.com/saimanupadala/leetcode-problems-/tree/master/0784-letter-case-permutation) |
 | [0791-custom-sort-string](https://github.com/saimanupadala/leetcode-problems-/tree/master/0791-custom-sort-string) |
 | [0792-number-of-matching-subsequences](https://github.com/saimanupadala/leetcode-problems-/tree/master/0792-number-of-matching-subsequences) |
+| [0796-rotate-string](https://github.com/saimanupadala/leetcode-problems-/tree/master/0796-rotate-string) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -475,6 +476,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0459-repeated-substring-pattern](https://github.com/saimanupadala/leetcode-problems-/tree/master/0459-repeated-substring-pattern) |
 | [0572-subtree-of-another-tree](https://github.com/saimanupadala/leetcode-problems-/tree/master/0572-subtree-of-another-tree) |
 | [0686-repeated-string-match](https://github.com/saimanupadala/leetcode-problems-/tree/master/0686-repeated-string-match) |
+| [0796-rotate-string](https://github.com/saimanupadala/leetcode-problems-/tree/master/0796-rotate-string) |
 ## Bit Manipulation
 |  |
 | ------- |
