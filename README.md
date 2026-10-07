@@ -349,6 +349,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0788-rotated-digits](https://github.com/saimanupadala/leetcode-problems-/tree/master/0788-rotated-digits) |
 | [0790-domino-and-tromino-tiling](https://github.com/saimanupadala/leetcode-problems-/tree/master/0790-domino-and-tromino-tiling) |
 | [0792-number-of-matching-subsequences](https://github.com/saimanupadala/leetcode-problems-/tree/master/0792-number-of-matching-subsequences) |
+| [0799-champagne-tower](https://github.com/saimanupadala/leetcode-problems-/tree/master/0799-champagne-tower) |
 ## Math
 |  |
 | ------- |
