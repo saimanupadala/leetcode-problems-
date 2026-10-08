@@ -350,6 +350,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0790-domino-and-tromino-tiling](https://github.com/saimanupadala/leetcode-problems-/tree/master/0790-domino-and-tromino-tiling) |
 | [0792-number-of-matching-subsequences](https://github.com/saimanupadala/leetcode-problems-/tree/master/0792-number-of-matching-subsequences) |
 | [0799-champagne-tower](https://github.com/saimanupadala/leetcode-problems-/tree/master/0799-champagne-tower) |
+| [0801-minimum-swaps-to-make-sequences-increasing](https://github.com/saimanupadala/leetcode-problems-/tree/master/0801-minimum-swaps-to-make-sequences-increasing) |
 ## Math
 |  |
 | ------- |
@@ -955,6 +956,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0794-valid-tic-tac-toe-state](https://github.com/saimanupadala/leetcode-problems-/tree/master/0794-valid-tic-tac-toe-state) |
 | [0795-number-of-subarrays-with-bounded-maximum](https://github.com/saimanupadala/leetcode-problems-/tree/master/0795-number-of-subarrays-with-bounded-maximum) |
 | [0798-smallest-rotation-with-highest-score](https://github.com/saimanupadala/leetcode-problems-/tree/master/0798-smallest-rotation-with-highest-score) |
+| [0801-minimum-swaps-to-make-sequences-increasing](https://github.com/saimanupadala/leetcode-problems-/tree/master/0801-minimum-swaps-to-make-sequences-increasing) |
 ## Greedy
 |  |
 | ------- |
