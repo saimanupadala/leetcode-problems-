@@ -233,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0792-number-of-matching-subsequences](https://github.com/saimanupadala/leetcode-problems-/tree/master/0792-number-of-matching-subsequences) |
 | [0796-rotate-string](https://github.com/saimanupadala/leetcode-problems-/tree/master/0796-rotate-string) |
 | [0804-unique-morse-code-words](https://github.com/saimanupadala/leetcode-problems-/tree/master/0804-unique-morse-code-words) |
+| [0806-number-of-lines-to-write-string](https://github.com/saimanupadala/leetcode-problems-/tree/master/0806-number-of-lines-to-write-string) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -966,6 +967,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0803-bricks-falling-when-hit](https://github.com/saimanupadala/leetcode-problems-/tree/master/0803-bricks-falling-when-hit) |
 | [0804-unique-morse-code-words](https://github.com/saimanupadala/leetcode-problems-/tree/master/0804-unique-morse-code-words) |
 | [0805-split-array-with-same-average](https://github.com/saimanupadala/leetcode-problems-/tree/master/0805-split-array-with-same-average) |
+| [0806-number-of-lines-to-write-string](https://github.com/saimanupadala/leetcode-problems-/tree/master/0806-number-of-lines-to-write-string) |
 ## Greedy
 |  |
 | ------- |
