@@ -352,6 +352,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0792-number-of-matching-subsequences](https://github.com/saimanupadala/leetcode-problems-/tree/master/0792-number-of-matching-subsequences) |
 | [0799-champagne-tower](https://github.com/saimanupadala/leetcode-problems-/tree/master/0799-champagne-tower) |
 | [0801-minimum-swaps-to-make-sequences-increasing](https://github.com/saimanupadala/leetcode-problems-/tree/master/0801-minimum-swaps-to-make-sequences-increasing) |
+| [0805-split-array-with-same-average](https://github.com/saimanupadala/leetcode-problems-/tree/master/0805-split-array-with-same-average) |
 ## Math
 |  |
 | ------- |
@@ -471,6 +472,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0788-rotated-digits](https://github.com/saimanupadala/leetcode-problems-/tree/master/0788-rotated-digits) |
 | [0789-escape-the-ghosts](https://github.com/saimanupadala/leetcode-problems-/tree/master/0789-escape-the-ghosts) |
 | [0793-preimage-size-of-factorial-zeroes-function](https://github.com/saimanupadala/leetcode-problems-/tree/master/0793-preimage-size-of-factorial-zeroes-function) |
+| [0805-split-array-with-same-average](https://github.com/saimanupadala/leetcode-problems-/tree/master/0805-split-array-with-same-average) |
 ## String Matching
 |  |
 | ------- |
@@ -525,6 +527,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/saimanupadala/leetcode-problems-/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0779-k-th-symbol-in-grammar](https://github.com/saimanupadala/leetcode-problems-/tree/master/0779-k-th-symbol-in-grammar) |
 | [0784-letter-case-permutation](https://github.com/saimanupadala/leetcode-problems-/tree/master/0784-letter-case-permutation) |
+| [0805-split-array-with-same-average](https://github.com/saimanupadala/leetcode-problems-/tree/master/0805-split-array-with-same-average) |
 ## Recursion
 |  |
 | ------- |
@@ -672,6 +675,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0791-custom-sort-string](https://github.com/saimanupadala/leetcode-problems-/tree/master/0791-custom-sort-string) |
 | [0792-number-of-matching-subsequences](https://github.com/saimanupadala/leetcode-problems-/tree/master/0792-number-of-matching-subsequences) |
 | [0804-unique-morse-code-words](https://github.com/saimanupadala/leetcode-problems-/tree/master/0804-unique-morse-code-words) |
+| [0805-split-array-with-same-average](https://github.com/saimanupadala/leetcode-problems-/tree/master/0805-split-array-with-same-average) |
 ## Array
 |  |
 | ------- |
@@ -961,6 +965,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0801-minimum-swaps-to-make-sequences-increasing](https://github.com/saimanupadala/leetcode-problems-/tree/master/0801-minimum-swaps-to-make-sequences-increasing) |
 | [0803-bricks-falling-when-hit](https://github.com/saimanupadala/leetcode-problems-/tree/master/0803-bricks-falling-when-hit) |
 | [0804-unique-morse-code-words](https://github.com/saimanupadala/leetcode-problems-/tree/master/0804-unique-morse-code-words) |
+| [0805-split-array-with-same-average](https://github.com/saimanupadala/leetcode-problems-/tree/master/0805-split-array-with-same-average) |
 ## Greedy
 |  |
 | ------- |
@@ -2395,6 +2400,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0638-shopping-offers](https://github.com/saimanupadala/leetcode-problems-/tree/master/0638-shopping-offers) |
 | [0691-stickers-to-spell-word](https://github.com/saimanupadala/leetcode-problems-/tree/master/0691-stickers-to-spell-word) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/saimanupadala/leetcode-problems-/tree/master/0698-partition-to-k-equal-sum-subsets) |
+| [0805-split-array-with-same-average](https://github.com/saimanupadala/leetcode-problems-/tree/master/0805-split-array-with-same-average) |
 ## Rejection Sampling
 |  |
 | ------- |
@@ -2462,4 +2468,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0802-find-eventual-safe-states](https://github.com/saimanupadala/leetcode-problems-/tree/master/0802-find-eventual-safe-states) |
+## Meet in the Middle
+|  |
+| ------- |
+| [0805-split-array-with-same-average](https://github.com/saimanupadala/leetcode-problems-/tree/master/0805-split-array-with-same-average) |
 <!---LeetCode Topics End-->
