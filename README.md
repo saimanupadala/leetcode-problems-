@@ -1593,6 +1593,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0785-is-graph-bipartite](https://github.com/saimanupadala/leetcode-problems-/tree/master/0785-is-graph-bipartite) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/saimanupadala/leetcode-problems-/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0797-all-paths-from-source-to-target](https://github.com/saimanupadala/leetcode-problems-/tree/master/0797-all-paths-from-source-to-target) |
+| [0802-find-eventual-safe-states](https://github.com/saimanupadala/leetcode-problems-/tree/master/0802-find-eventual-safe-states) |
 ## Tree
 |  |
 | ------- |
@@ -1828,6 +1829,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0785-is-graph-bipartite](https://github.com/saimanupadala/leetcode-problems-/tree/master/0785-is-graph-bipartite) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/saimanupadala/leetcode-problems-/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0797-all-paths-from-source-to-target](https://github.com/saimanupadala/leetcode-problems-/tree/master/0797-all-paths-from-source-to-target) |
+| [0802-find-eventual-safe-states](https://github.com/saimanupadala/leetcode-problems-/tree/master/0802-find-eventual-safe-states) |
 ## DP on Trees
 |  |
 | ------- |
@@ -1888,6 +1890,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0785-is-graph-bipartite](https://github.com/saimanupadala/leetcode-problems-/tree/master/0785-is-graph-bipartite) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/saimanupadala/leetcode-problems-/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0797-all-paths-from-source-to-target](https://github.com/saimanupadala/leetcode-problems-/tree/master/0797-all-paths-from-source-to-target) |
+| [0802-find-eventual-safe-states](https://github.com/saimanupadala/leetcode-problems-/tree/master/0802-find-eventual-safe-states) |
 ## Brute-Force Search
 |  |
 | ------- |
@@ -2099,6 +2102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0210-course-schedule-ii](https://github.com/saimanupadala/leetcode-problems-/tree/master/0210-course-schedule-ii) |
 | [0310-minimum-height-trees](https://github.com/saimanupadala/leetcode-problems-/tree/master/0310-minimum-height-trees) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/saimanupadala/leetcode-problems-/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [0802-find-eventual-safe-states](https://github.com/saimanupadala/leetcode-problems-/tree/master/0802-find-eventual-safe-states) |
 ## Directed Acyclic Graph
 |  |
 | ------- |
@@ -2444,4 +2448,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0785-is-graph-bipartite](https://github.com/saimanupadala/leetcode-problems-/tree/master/0785-is-graph-bipartite) |
+## Kosaraju's Algorithm
+|  |
+| ------- |
+| [0802-find-eventual-safe-states](https://github.com/saimanupadala/leetcode-problems-/tree/master/0802-find-eventual-safe-states) |
+## Tarjan's SCC Algorithm
+|  |
+| ------- |
+| [0802-find-eventual-safe-states](https://github.com/saimanupadala/leetcode-problems-/tree/master/0802-find-eventual-safe-states) |
 <!---LeetCode Topics End-->
