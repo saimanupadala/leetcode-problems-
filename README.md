@@ -478,6 +478,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0793-preimage-size-of-factorial-zeroes-function](https://github.com/saimanupadala/leetcode-problems-/tree/master/0793-preimage-size-of-factorial-zeroes-function) |
 | [0805-split-array-with-same-average](https://github.com/saimanupadala/leetcode-problems-/tree/master/0805-split-array-with-same-average) |
 | [0808-soup-servings](https://github.com/saimanupadala/leetcode-problems-/tree/master/0808-soup-servings) |
+| [0810-chalkboard-xor-game](https://github.com/saimanupadala/leetcode-problems-/tree/master/0810-chalkboard-xor-game) |
 ## String Matching
 |  |
 | ------- |
@@ -533,6 +534,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0779-k-th-symbol-in-grammar](https://github.com/saimanupadala/leetcode-problems-/tree/master/0779-k-th-symbol-in-grammar) |
 | [0784-letter-case-permutation](https://github.com/saimanupadala/leetcode-problems-/tree/master/0784-letter-case-permutation) |
 | [0805-split-array-with-same-average](https://github.com/saimanupadala/leetcode-problems-/tree/master/0805-split-array-with-same-average) |
+| [0810-chalkboard-xor-game](https://github.com/saimanupadala/leetcode-problems-/tree/master/0810-chalkboard-xor-game) |
 ## Recursion
 |  |
 | ------- |
@@ -974,6 +976,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0806-number-of-lines-to-write-string](https://github.com/saimanupadala/leetcode-problems-/tree/master/0806-number-of-lines-to-write-string) |
 | [0807-max-increase-to-keep-city-skyline](https://github.com/saimanupadala/leetcode-problems-/tree/master/0807-max-increase-to-keep-city-skyline) |
 | [0809-expressive-words](https://github.com/saimanupadala/leetcode-problems-/tree/master/0809-expressive-words) |
+| [0810-chalkboard-xor-game](https://github.com/saimanupadala/leetcode-problems-/tree/master/0810-chalkboard-xor-game) |
 ## Greedy
 |  |
 | ------- |
@@ -2273,6 +2276,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0292-nim-game](https://github.com/saimanupadala/leetcode-problems-/tree/master/0292-nim-game) |
 | [0319-bulb-switcher](https://github.com/saimanupadala/leetcode-problems-/tree/master/0319-bulb-switcher) |
+| [0810-chalkboard-xor-game](https://github.com/saimanupadala/leetcode-problems-/tree/master/0810-chalkboard-xor-game) |
 ## Minimax
 |  |
 | ------- |
@@ -2287,6 +2291,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0375-guess-number-higher-or-lower-ii](https://github.com/saimanupadala/leetcode-problems-/tree/master/0375-guess-number-higher-or-lower-ii) |
 | [0464-can-i-win](https://github.com/saimanupadala/leetcode-problems-/tree/master/0464-can-i-win) |
 | [0486-predict-the-winner](https://github.com/saimanupadala/leetcode-problems-/tree/master/0486-predict-the-winner) |
+| [0810-chalkboard-xor-game](https://github.com/saimanupadala/leetcode-problems-/tree/master/0810-chalkboard-xor-game) |
 ## Nim Game
 |  |
 | ------- |
@@ -2295,6 +2300,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/saimanupadala/leetcode-problems-/tree/master/0292-nim-game) |
+| [0810-chalkboard-xor-game](https://github.com/saimanupadala/leetcode-problems-/tree/master/0810-chalkboard-xor-game) |
 ## Data Stream
 |  |
 | ------- |
@@ -2425,6 +2431,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/saimanupadala/leetcode-problems-/tree/master/0486-predict-the-winner) |
+| [0810-chalkboard-xor-game](https://github.com/saimanupadala/leetcode-problems-/tree/master/0810-chalkboard-xor-game) |
 ## Convex Hull
 |  |
 | ------- |
