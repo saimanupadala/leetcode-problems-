@@ -480,6 +480,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0805-split-array-with-same-average](https://github.com/saimanupadala/leetcode-problems-/tree/master/0805-split-array-with-same-average) |
 | [0808-soup-servings](https://github.com/saimanupadala/leetcode-problems-/tree/master/0808-soup-servings) |
 | [0810-chalkboard-xor-game](https://github.com/saimanupadala/leetcode-problems-/tree/master/0810-chalkboard-xor-game) |
+| [0812-largest-triangle-area](https://github.com/saimanupadala/leetcode-problems-/tree/master/0812-largest-triangle-area) |
 ## String Matching
 |  |
 | ------- |
@@ -980,6 +981,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0809-expressive-words](https://github.com/saimanupadala/leetcode-problems-/tree/master/0809-expressive-words) |
 | [0810-chalkboard-xor-game](https://github.com/saimanupadala/leetcode-problems-/tree/master/0810-chalkboard-xor-game) |
 | [0811-subdomain-visit-count](https://github.com/saimanupadala/leetcode-problems-/tree/master/0811-subdomain-visit-count) |
+| [0812-largest-triangle-area](https://github.com/saimanupadala/leetcode-problems-/tree/master/0812-largest-triangle-area) |
 ## Greedy
 |  |
 | ------- |
@@ -1978,6 +1980,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0478-generate-random-point-in-a-circle](https://github.com/saimanupadala/leetcode-problems-/tree/master/0478-generate-random-point-in-a-circle) |
 | [0587-erect-the-fence](https://github.com/saimanupadala/leetcode-problems-/tree/master/0587-erect-the-fence) |
 | [0593-valid-square](https://github.com/saimanupadala/leetcode-problems-/tree/master/0593-valid-square) |
+| [0812-largest-triangle-area](https://github.com/saimanupadala/leetcode-problems-/tree/master/0812-largest-triangle-area) |
 ## Euclidean Algorithm
 |  |
 | ------- |
@@ -2444,6 +2447,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0587-erect-the-fence](https://github.com/saimanupadala/leetcode-problems-/tree/master/0587-erect-the-fence) |
+| [0812-largest-triangle-area](https://github.com/saimanupadala/leetcode-problems-/tree/master/0812-largest-triangle-area) |
 ## Longest Common Subsequence
 |  |
 | ------- |
