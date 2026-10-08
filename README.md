@@ -232,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0791-custom-sort-string](https://github.com/saimanupadala/leetcode-problems-/tree/master/0791-custom-sort-string) |
 | [0792-number-of-matching-subsequences](https://github.com/saimanupadala/leetcode-problems-/tree/master/0792-number-of-matching-subsequences) |
 | [0796-rotate-string](https://github.com/saimanupadala/leetcode-problems-/tree/master/0796-rotate-string) |
+| [0804-unique-morse-code-words](https://github.com/saimanupadala/leetcode-problems-/tree/master/0804-unique-morse-code-words) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -670,6 +671,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0781-rabbits-in-forest](https://github.com/saimanupadala/leetcode-problems-/tree/master/0781-rabbits-in-forest) |
 | [0791-custom-sort-string](https://github.com/saimanupadala/leetcode-problems-/tree/master/0791-custom-sort-string) |
 | [0792-number-of-matching-subsequences](https://github.com/saimanupadala/leetcode-problems-/tree/master/0792-number-of-matching-subsequences) |
+| [0804-unique-morse-code-words](https://github.com/saimanupadala/leetcode-problems-/tree/master/0804-unique-morse-code-words) |
 ## Array
 |  |
 | ------- |
@@ -958,6 +960,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0798-smallest-rotation-with-highest-score](https://github.com/saimanupadala/leetcode-problems-/tree/master/0798-smallest-rotation-with-highest-score) |
 | [0801-minimum-swaps-to-make-sequences-increasing](https://github.com/saimanupadala/leetcode-problems-/tree/master/0801-minimum-swaps-to-make-sequences-increasing) |
 | [0803-bricks-falling-when-hit](https://github.com/saimanupadala/leetcode-problems-/tree/master/0803-bricks-falling-when-hit) |
+| [0804-unique-morse-code-words](https://github.com/saimanupadala/leetcode-problems-/tree/master/0804-unique-morse-code-words) |
 ## Greedy
 |  |
 | ------- |
