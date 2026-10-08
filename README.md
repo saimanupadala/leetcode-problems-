@@ -968,6 +968,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0804-unique-morse-code-words](https://github.com/saimanupadala/leetcode-problems-/tree/master/0804-unique-morse-code-words) |
 | [0805-split-array-with-same-average](https://github.com/saimanupadala/leetcode-problems-/tree/master/0805-split-array-with-same-average) |
 | [0806-number-of-lines-to-write-string](https://github.com/saimanupadala/leetcode-problems-/tree/master/0806-number-of-lines-to-write-string) |
+| [0807-max-increase-to-keep-city-skyline](https://github.com/saimanupadala/leetcode-problems-/tree/master/0807-max-increase-to-keep-city-skyline) |
 ## Greedy
 |  |
 | ------- |
@@ -1018,6 +1019,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0768-max-chunks-to-make-sorted-ii](https://github.com/saimanupadala/leetcode-problems-/tree/master/0768-max-chunks-to-make-sorted-ii) |
 | [0769-max-chunks-to-make-sorted](https://github.com/saimanupadala/leetcode-problems-/tree/master/0769-max-chunks-to-make-sorted) |
 | [0781-rabbits-in-forest](https://github.com/saimanupadala/leetcode-problems-/tree/master/0781-rabbits-in-forest) |
+| [0807-max-increase-to-keep-city-skyline](https://github.com/saimanupadala/leetcode-problems-/tree/master/0807-max-increase-to-keep-city-skyline) |
 ## Trie
 |  |
 | ------- |
@@ -1449,6 +1451,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0778-swim-in-rising-water](https://github.com/saimanupadala/leetcode-problems-/tree/master/0778-swim-in-rising-water) |
 | [0794-valid-tic-tac-toe-state](https://github.com/saimanupadala/leetcode-problems-/tree/master/0794-valid-tic-tac-toe-state) |
 | [0803-bricks-falling-when-hit](https://github.com/saimanupadala/leetcode-problems-/tree/master/0803-bricks-falling-when-hit) |
+| [0807-max-increase-to-keep-city-skyline](https://github.com/saimanupadala/leetcode-problems-/tree/master/0807-max-increase-to-keep-city-skyline) |
 ## Monotonic Stack
 |  |
 | ------- |
