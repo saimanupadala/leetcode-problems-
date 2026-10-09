@@ -689,6 +689,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0805-split-array-with-same-average](https://github.com/saimanupadala/leetcode-problems-/tree/master/0805-split-array-with-same-average) |
 | [0811-subdomain-visit-count](https://github.com/saimanupadala/leetcode-problems-/tree/master/0811-subdomain-visit-count) |
 | [0815-bus-routes](https://github.com/saimanupadala/leetcode-problems-/tree/master/0815-bus-routes) |
+| [0817-linked-list-components](https://github.com/saimanupadala/leetcode-problems-/tree/master/0817-linked-list-components) |
 ## Array
 |  |
 | ------- |
@@ -987,6 +988,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0812-largest-triangle-area](https://github.com/saimanupadala/leetcode-problems-/tree/master/0812-largest-triangle-area) |
 | [0813-largest-sum-of-averages](https://github.com/saimanupadala/leetcode-problems-/tree/master/0813-largest-sum-of-averages) |
 | [0815-bus-routes](https://github.com/saimanupadala/leetcode-problems-/tree/master/0815-bus-routes) |
+| [0817-linked-list-components](https://github.com/saimanupadala/leetcode-problems-/tree/master/0817-linked-list-components) |
 ## Greedy
 |  |
 | ------- |
@@ -1222,6 +1224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0706-design-hashmap](https://github.com/saimanupadala/leetcode-problems-/tree/master/0706-design-hashmap) |
 | [0707-design-linked-list](https://github.com/saimanupadala/leetcode-problems-/tree/master/0707-design-linked-list) |
 | [0725-split-linked-list-in-parts](https://github.com/saimanupadala/leetcode-problems-/tree/master/0725-split-linked-list-in-parts) |
+| [0817-linked-list-components](https://github.com/saimanupadala/leetcode-problems-/tree/master/0817-linked-list-components) |
 ## Stack
 |  |
 | ------- |
