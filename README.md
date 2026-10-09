@@ -237,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0806-number-of-lines-to-write-string](https://github.com/saimanupadala/leetcode-problems-/tree/master/0806-number-of-lines-to-write-string) |
 | [0809-expressive-words](https://github.com/saimanupadala/leetcode-problems-/tree/master/0809-expressive-words) |
 | [0811-subdomain-visit-count](https://github.com/saimanupadala/leetcode-problems-/tree/master/0811-subdomain-visit-count) |
+| [0816-ambiguous-coordinates](https://github.com/saimanupadala/leetcode-problems-/tree/master/0816-ambiguous-coordinates) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -1178,6 +1179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0773-sliding-puzzle](https://github.com/saimanupadala/leetcode-problems-/tree/master/0773-sliding-puzzle) |
 | [0784-letter-case-permutation](https://github.com/saimanupadala/leetcode-problems-/tree/master/0784-letter-case-permutation) |
 | [0797-all-paths-from-source-to-target](https://github.com/saimanupadala/leetcode-problems-/tree/master/0797-all-paths-from-source-to-target) |
+| [0816-ambiguous-coordinates](https://github.com/saimanupadala/leetcode-problems-/tree/master/0816-ambiguous-coordinates) |
 ## Linked List
 |  |
 | ------- |
@@ -2116,6 +2118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0204-count-primes](https://github.com/saimanupadala/leetcode-problems-/tree/master/0204-count-primes) |
 | [0479-largest-palindrome-product](https://github.com/saimanupadala/leetcode-problems-/tree/master/0479-largest-palindrome-product) |
+| [0816-ambiguous-coordinates](https://github.com/saimanupadala/leetcode-problems-/tree/master/0816-ambiguous-coordinates) |
 ## Number Theory
 |  |
 | ------- |
