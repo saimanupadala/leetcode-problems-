@@ -360,6 +360,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0805-split-array-with-same-average](https://github.com/saimanupadala/leetcode-problems-/tree/master/0805-split-array-with-same-average) |
 | [0808-soup-servings](https://github.com/saimanupadala/leetcode-problems-/tree/master/0808-soup-servings) |
 | [0813-largest-sum-of-averages](https://github.com/saimanupadala/leetcode-problems-/tree/master/0813-largest-sum-of-averages) |
+| [0818-race-car](https://github.com/saimanupadala/leetcode-problems-/tree/master/0818-race-car) |
 ## Math
 |  |
 | ------- |
@@ -2489,10 +2490,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0773-sliding-puzzle](https://github.com/saimanupadala/leetcode-problems-/tree/master/0773-sliding-puzzle) |
+| [0818-race-car](https://github.com/saimanupadala/leetcode-problems-/tree/master/0818-race-car) |
 ## A* Search
 |  |
 | ------- |
 | [0773-sliding-puzzle](https://github.com/saimanupadala/leetcode-problems-/tree/master/0773-sliding-puzzle) |
+| [0818-race-car](https://github.com/saimanupadala/leetcode-problems-/tree/master/0818-race-car) |
 ## Graph Coloring
 |  |
 | ------- |
