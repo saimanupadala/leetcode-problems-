@@ -687,6 +687,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0804-unique-morse-code-words](https://github.com/saimanupadala/leetcode-problems-/tree/master/0804-unique-morse-code-words) |
 | [0805-split-array-with-same-average](https://github.com/saimanupadala/leetcode-problems-/tree/master/0805-split-array-with-same-average) |
 | [0811-subdomain-visit-count](https://github.com/saimanupadala/leetcode-problems-/tree/master/0811-subdomain-visit-count) |
+| [0815-bus-routes](https://github.com/saimanupadala/leetcode-problems-/tree/master/0815-bus-routes) |
 ## Array
 |  |
 | ------- |
@@ -984,6 +985,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0811-subdomain-visit-count](https://github.com/saimanupadala/leetcode-problems-/tree/master/0811-subdomain-visit-count) |
 | [0812-largest-triangle-area](https://github.com/saimanupadala/leetcode-problems-/tree/master/0812-largest-triangle-area) |
 | [0813-largest-sum-of-averages](https://github.com/saimanupadala/leetcode-problems-/tree/master/0813-largest-sum-of-averages) |
+| [0815-bus-routes](https://github.com/saimanupadala/leetcode-problems-/tree/master/0815-bus-routes) |
 ## Greedy
 |  |
 | ------- |
@@ -1863,6 +1865,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0787-cheapest-flights-within-k-stops](https://github.com/saimanupadala/leetcode-problems-/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0797-all-paths-from-source-to-target](https://github.com/saimanupadala/leetcode-problems-/tree/master/0797-all-paths-from-source-to-target) |
 | [0802-find-eventual-safe-states](https://github.com/saimanupadala/leetcode-problems-/tree/master/0802-find-eventual-safe-states) |
+| [0815-bus-routes](https://github.com/saimanupadala/leetcode-problems-/tree/master/0815-bus-routes) |
 ## DP on Trees
 |  |
 | ------- |
