@@ -1624,6 +1624,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0787-cheapest-flights-within-k-stops](https://github.com/saimanupadala/leetcode-problems-/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0797-all-paths-from-source-to-target](https://github.com/saimanupadala/leetcode-problems-/tree/master/0797-all-paths-from-source-to-target) |
 | [0802-find-eventual-safe-states](https://github.com/saimanupadala/leetcode-problems-/tree/master/0802-find-eventual-safe-states) |
+| [0814-binary-tree-pruning](https://github.com/saimanupadala/leetcode-problems-/tree/master/0814-binary-tree-pruning) |
 ## Tree
 |  |
 | ------- |
@@ -1700,6 +1701,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0700-search-in-a-binary-search-tree](https://github.com/saimanupadala/leetcode-problems-/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/saimanupadala/leetcode-problems-/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/saimanupadala/leetcode-problems-/tree/master/0703-kth-largest-element-in-a-stream) |
+| [0814-binary-tree-pruning](https://github.com/saimanupadala/leetcode-problems-/tree/master/0814-binary-tree-pruning) |
 ## Binary Tree
 |  |
 | ------- |
@@ -1768,6 +1770,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0700-search-in-a-binary-search-tree](https://github.com/saimanupadala/leetcode-problems-/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/saimanupadala/leetcode-problems-/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/saimanupadala/leetcode-problems-/tree/master/0703-kth-largest-element-in-a-stream) |
+| [0814-binary-tree-pruning](https://github.com/saimanupadala/leetcode-problems-/tree/master/0814-binary-tree-pruning) |
 ## Binary Search Tree
 |  |
 | ------- |
