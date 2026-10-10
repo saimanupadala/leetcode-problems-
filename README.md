@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0795-number-of-subarrays-with-bounded-maximum](https://github.com/saimanupadala/leetcode-problems-/tree/master/0795-number-of-subarrays-with-bounded-maximum) |
 | [0809-expressive-words](https://github.com/saimanupadala/leetcode-problems-/tree/master/0809-expressive-words) |
 | [0821-shortest-distance-to-a-character](https://github.com/saimanupadala/leetcode-problems-/tree/master/0821-shortest-distance-to-a-character) |
+| [0825-friends-of-appropriate-ages](https://github.com/saimanupadala/leetcode-problems-/tree/master/0825-friends-of-appropriate-ages) |
 ## String
 |  |
 | ------- |
@@ -1002,6 +1003,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0821-shortest-distance-to-a-character](https://github.com/saimanupadala/leetcode-problems-/tree/master/0821-shortest-distance-to-a-character) |
 | [0822-card-flipping-game](https://github.com/saimanupadala/leetcode-problems-/tree/master/0822-card-flipping-game) |
 | [0823-binary-trees-with-factors](https://github.com/saimanupadala/leetcode-problems-/tree/master/0823-binary-trees-with-factors) |
+| [0825-friends-of-appropriate-ages](https://github.com/saimanupadala/leetcode-problems-/tree/master/0825-friends-of-appropriate-ages) |
 ## Greedy
 |  |
 | ------- |
@@ -1152,6 +1154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0791-custom-sort-string](https://github.com/saimanupadala/leetcode-problems-/tree/master/0791-custom-sort-string) |
 | [0792-number-of-matching-subsequences](https://github.com/saimanupadala/leetcode-problems-/tree/master/0792-number-of-matching-subsequences) |
 | [0823-binary-trees-with-factors](https://github.com/saimanupadala/leetcode-problems-/tree/master/0823-binary-trees-with-factors) |
+| [0825-friends-of-appropriate-ages](https://github.com/saimanupadala/leetcode-problems-/tree/master/0825-friends-of-appropriate-ages) |
 ## Backtracking
 |  |
 | ------- |
@@ -1442,6 +1445,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0786-k-th-smallest-prime-fraction](https://github.com/saimanupadala/leetcode-problems-/tree/master/0786-k-th-smallest-prime-fraction) |
 | [0792-number-of-matching-subsequences](https://github.com/saimanupadala/leetcode-problems-/tree/master/0792-number-of-matching-subsequences) |
 | [0793-preimage-size-of-factorial-zeroes-function](https://github.com/saimanupadala/leetcode-problems-/tree/master/0793-preimage-size-of-factorial-zeroes-function) |
+| [0825-friends-of-appropriate-ages](https://github.com/saimanupadala/leetcode-problems-/tree/master/0825-friends-of-appropriate-ages) |
 ## Matrix
 |  |
 | ------- |
