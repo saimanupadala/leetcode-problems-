@@ -241,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0816-ambiguous-coordinates](https://github.com/saimanupadala/leetcode-problems-/tree/master/0816-ambiguous-coordinates) |
 | [0819-most-common-word](https://github.com/saimanupadala/leetcode-problems-/tree/master/0819-most-common-word) |
 | [0821-shortest-distance-to-a-character](https://github.com/saimanupadala/leetcode-problems-/tree/master/0821-shortest-distance-to-a-character) |
+| [0824-goat-latin](https://github.com/saimanupadala/leetcode-problems-/tree/master/0824-goat-latin) |
 ## Dynamic Programming
 |  |
 | ------- |
