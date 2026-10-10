@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0786-k-th-smallest-prime-fraction](https://github.com/saimanupadala/leetcode-problems-/tree/master/0786-k-th-smallest-prime-fraction) |
 | [0795-number-of-subarrays-with-bounded-maximum](https://github.com/saimanupadala/leetcode-problems-/tree/master/0795-number-of-subarrays-with-bounded-maximum) |
 | [0809-expressive-words](https://github.com/saimanupadala/leetcode-problems-/tree/master/0809-expressive-words) |
+| [0821-shortest-distance-to-a-character](https://github.com/saimanupadala/leetcode-problems-/tree/master/0821-shortest-distance-to-a-character) |
 ## String
 |  |
 | ------- |
@@ -239,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0811-subdomain-visit-count](https://github.com/saimanupadala/leetcode-problems-/tree/master/0811-subdomain-visit-count) |
 | [0816-ambiguous-coordinates](https://github.com/saimanupadala/leetcode-problems-/tree/master/0816-ambiguous-coordinates) |
 | [0819-most-common-word](https://github.com/saimanupadala/leetcode-problems-/tree/master/0819-most-common-word) |
+| [0821-shortest-distance-to-a-character](https://github.com/saimanupadala/leetcode-problems-/tree/master/0821-shortest-distance-to-a-character) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -993,6 +995,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0815-bus-routes](https://github.com/saimanupadala/leetcode-problems-/tree/master/0815-bus-routes) |
 | [0817-linked-list-components](https://github.com/saimanupadala/leetcode-problems-/tree/master/0817-linked-list-components) |
 | [0819-most-common-word](https://github.com/saimanupadala/leetcode-problems-/tree/master/0819-most-common-word) |
+| [0821-shortest-distance-to-a-character](https://github.com/saimanupadala/leetcode-problems-/tree/master/0821-shortest-distance-to-a-character) |
 ## Greedy
 |  |
 | ------- |
