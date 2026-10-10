@@ -695,6 +695,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0815-bus-routes](https://github.com/saimanupadala/leetcode-problems-/tree/master/0815-bus-routes) |
 | [0817-linked-list-components](https://github.com/saimanupadala/leetcode-problems-/tree/master/0817-linked-list-components) |
 | [0819-most-common-word](https://github.com/saimanupadala/leetcode-problems-/tree/master/0819-most-common-word) |
+| [0822-card-flipping-game](https://github.com/saimanupadala/leetcode-problems-/tree/master/0822-card-flipping-game) |
 ## Array
 |  |
 | ------- |
@@ -996,6 +997,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0817-linked-list-components](https://github.com/saimanupadala/leetcode-problems-/tree/master/0817-linked-list-components) |
 | [0819-most-common-word](https://github.com/saimanupadala/leetcode-problems-/tree/master/0819-most-common-word) |
 | [0821-shortest-distance-to-a-character](https://github.com/saimanupadala/leetcode-problems-/tree/master/0821-shortest-distance-to-a-character) |
+| [0822-card-flipping-game](https://github.com/saimanupadala/leetcode-problems-/tree/master/0822-card-flipping-game) |
 ## Greedy
 |  |
 | ------- |
