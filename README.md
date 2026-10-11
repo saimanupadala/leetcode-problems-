@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0809-expressive-words](https://github.com/saimanupadala/leetcode-problems-/tree/master/0809-expressive-words) |
 | [0821-shortest-distance-to-a-character](https://github.com/saimanupadala/leetcode-problems-/tree/master/0821-shortest-distance-to-a-character) |
 | [0825-friends-of-appropriate-ages](https://github.com/saimanupadala/leetcode-problems-/tree/master/0825-friends-of-appropriate-ages) |
+| [0826-most-profit-assigning-work](https://github.com/saimanupadala/leetcode-problems-/tree/master/0826-most-profit-assigning-work) |
 ## String
 |  |
 | ------- |
@@ -1004,6 +1005,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0822-card-flipping-game](https://github.com/saimanupadala/leetcode-problems-/tree/master/0822-card-flipping-game) |
 | [0823-binary-trees-with-factors](https://github.com/saimanupadala/leetcode-problems-/tree/master/0823-binary-trees-with-factors) |
 | [0825-friends-of-appropriate-ages](https://github.com/saimanupadala/leetcode-problems-/tree/master/0825-friends-of-appropriate-ages) |
+| [0826-most-profit-assigning-work](https://github.com/saimanupadala/leetcode-problems-/tree/master/0826-most-profit-assigning-work) |
 ## Greedy
 |  |
 | ------- |
@@ -1055,6 +1057,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0769-max-chunks-to-make-sorted](https://github.com/saimanupadala/leetcode-problems-/tree/master/0769-max-chunks-to-make-sorted) |
 | [0781-rabbits-in-forest](https://github.com/saimanupadala/leetcode-problems-/tree/master/0781-rabbits-in-forest) |
 | [0807-max-increase-to-keep-city-skyline](https://github.com/saimanupadala/leetcode-problems-/tree/master/0807-max-increase-to-keep-city-skyline) |
+| [0826-most-profit-assigning-work](https://github.com/saimanupadala/leetcode-problems-/tree/master/0826-most-profit-assigning-work) |
 ## Trie
 |  |
 | ------- |
@@ -1155,6 +1158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0792-number-of-matching-subsequences](https://github.com/saimanupadala/leetcode-problems-/tree/master/0792-number-of-matching-subsequences) |
 | [0823-binary-trees-with-factors](https://github.com/saimanupadala/leetcode-problems-/tree/master/0823-binary-trees-with-factors) |
 | [0825-friends-of-appropriate-ages](https://github.com/saimanupadala/leetcode-problems-/tree/master/0825-friends-of-appropriate-ages) |
+| [0826-most-profit-assigning-work](https://github.com/saimanupadala/leetcode-problems-/tree/master/0826-most-profit-assigning-work) |
 ## Backtracking
 |  |
 | ------- |
@@ -1446,6 +1450,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0792-number-of-matching-subsequences](https://github.com/saimanupadala/leetcode-problems-/tree/master/0792-number-of-matching-subsequences) |
 | [0793-preimage-size-of-factorial-zeroes-function](https://github.com/saimanupadala/leetcode-problems-/tree/master/0793-preimage-size-of-factorial-zeroes-function) |
 | [0825-friends-of-appropriate-ages](https://github.com/saimanupadala/leetcode-problems-/tree/master/0825-friends-of-appropriate-ages) |
+| [0826-most-profit-assigning-work](https://github.com/saimanupadala/leetcode-problems-/tree/master/0826-most-profit-assigning-work) |
 ## Matrix
 |  |
 | ------- |
