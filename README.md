@@ -1006,6 +1006,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0823-binary-trees-with-factors](https://github.com/saimanupadala/leetcode-problems-/tree/master/0823-binary-trees-with-factors) |
 | [0825-friends-of-appropriate-ages](https://github.com/saimanupadala/leetcode-problems-/tree/master/0825-friends-of-appropriate-ages) |
 | [0826-most-profit-assigning-work](https://github.com/saimanupadala/leetcode-problems-/tree/master/0826-most-profit-assigning-work) |
+| [0827-making-a-large-island](https://github.com/saimanupadala/leetcode-problems-/tree/master/0827-making-a-large-island) |
 ## Greedy
 |  |
 | ------- |
@@ -1497,6 +1498,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0794-valid-tic-tac-toe-state](https://github.com/saimanupadala/leetcode-problems-/tree/master/0794-valid-tic-tac-toe-state) |
 | [0803-bricks-falling-when-hit](https://github.com/saimanupadala/leetcode-problems-/tree/master/0803-bricks-falling-when-hit) |
 | [0807-max-increase-to-keep-city-skyline](https://github.com/saimanupadala/leetcode-problems-/tree/master/0807-max-increase-to-keep-city-skyline) |
+| [0827-making-a-large-island](https://github.com/saimanupadala/leetcode-problems-/tree/master/0827-making-a-large-island) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -1655,6 +1657,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0797-all-paths-from-source-to-target](https://github.com/saimanupadala/leetcode-problems-/tree/master/0797-all-paths-from-source-to-target) |
 | [0802-find-eventual-safe-states](https://github.com/saimanupadala/leetcode-problems-/tree/master/0802-find-eventual-safe-states) |
 | [0814-binary-tree-pruning](https://github.com/saimanupadala/leetcode-problems-/tree/master/0814-binary-tree-pruning) |
+| [0827-making-a-large-island](https://github.com/saimanupadala/leetcode-problems-/tree/master/0827-making-a-large-island) |
 ## Tree
 |  |
 | ------- |
@@ -1894,6 +1897,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0797-all-paths-from-source-to-target](https://github.com/saimanupadala/leetcode-problems-/tree/master/0797-all-paths-from-source-to-target) |
 | [0802-find-eventual-safe-states](https://github.com/saimanupadala/leetcode-problems-/tree/master/0802-find-eventual-safe-states) |
 | [0815-bus-routes](https://github.com/saimanupadala/leetcode-problems-/tree/master/0815-bus-routes) |
+| [0827-making-a-large-island](https://github.com/saimanupadala/leetcode-problems-/tree/master/0827-making-a-large-island) |
 ## DP on Trees
 |  |
 | ------- |
@@ -1936,6 +1940,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0778-swim-in-rising-water](https://github.com/saimanupadala/leetcode-problems-/tree/master/0778-swim-in-rising-water) |
 | [0785-is-graph-bipartite](https://github.com/saimanupadala/leetcode-problems-/tree/master/0785-is-graph-bipartite) |
 | [0803-bricks-falling-when-hit](https://github.com/saimanupadala/leetcode-problems-/tree/master/0803-bricks-falling-when-hit) |
+| [0827-making-a-large-island](https://github.com/saimanupadala/leetcode-problems-/tree/master/0827-making-a-large-island) |
 ## Graph Theory
 |  |
 | ------- |
