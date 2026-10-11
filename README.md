@@ -493,6 +493,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0808-soup-servings](https://github.com/saimanupadala/leetcode-problems-/tree/master/0808-soup-servings) |
 | [0810-chalkboard-xor-game](https://github.com/saimanupadala/leetcode-problems-/tree/master/0810-chalkboard-xor-game) |
 | [0812-largest-triangle-area](https://github.com/saimanupadala/leetcode-problems-/tree/master/0812-largest-triangle-area) |
+| [0829-consecutive-numbers-sum](https://github.com/saimanupadala/leetcode-problems-/tree/master/0829-consecutive-numbers-sum) |
 ## String Matching
 |  |
 | ------- |
@@ -2154,6 +2155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/saimanupadala/leetcode-problems-/tree/master/0204-count-primes) |
 | [0479-largest-palindrome-product](https://github.com/saimanupadala/leetcode-problems-/tree/master/0479-largest-palindrome-product) |
 | [0816-ambiguous-coordinates](https://github.com/saimanupadala/leetcode-problems-/tree/master/0816-ambiguous-coordinates) |
+| [0829-consecutive-numbers-sum](https://github.com/saimanupadala/leetcode-problems-/tree/master/0829-consecutive-numbers-sum) |
 ## Number Theory
 |  |
 | ------- |
