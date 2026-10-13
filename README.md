@@ -248,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0828-count-unique-characters-of-all-substrings-of-a-given-string](https://github.com/saimanupadala/leetcode-problems-/tree/master/0828-count-unique-characters-of-all-substrings-of-a-given-string) |
 | [0830-positions-of-large-groups](https://github.com/saimanupadala/leetcode-problems-/tree/master/0830-positions-of-large-groups) |
 | [0831-masking-personal-information](https://github.com/saimanupadala/leetcode-problems-/tree/master/0831-masking-personal-information) |
+| [0833-find-and-replace-in-string](https://github.com/saimanupadala/leetcode-problems-/tree/master/0833-find-and-replace-in-string) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -709,6 +710,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0822-card-flipping-game](https://github.com/saimanupadala/leetcode-problems-/tree/master/0822-card-flipping-game) |
 | [0823-binary-trees-with-factors](https://github.com/saimanupadala/leetcode-problems-/tree/master/0823-binary-trees-with-factors) |
 | [0828-count-unique-characters-of-all-substrings-of-a-given-string](https://github.com/saimanupadala/leetcode-problems-/tree/master/0828-count-unique-characters-of-all-substrings-of-a-given-string) |
+| [0833-find-and-replace-in-string](https://github.com/saimanupadala/leetcode-problems-/tree/master/0833-find-and-replace-in-string) |
 ## Array
 |  |
 | ------- |
@@ -1016,6 +1018,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0826-most-profit-assigning-work](https://github.com/saimanupadala/leetcode-problems-/tree/master/0826-most-profit-assigning-work) |
 | [0827-making-a-large-island](https://github.com/saimanupadala/leetcode-problems-/tree/master/0827-making-a-large-island) |
 | [0832-flipping-an-image](https://github.com/saimanupadala/leetcode-problems-/tree/master/0832-flipping-an-image) |
+| [0833-find-and-replace-in-string](https://github.com/saimanupadala/leetcode-problems-/tree/master/0833-find-and-replace-in-string) |
 ## Greedy
 |  |
 | ------- |
@@ -1169,6 +1172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0823-binary-trees-with-factors](https://github.com/saimanupadala/leetcode-problems-/tree/master/0823-binary-trees-with-factors) |
 | [0825-friends-of-appropriate-ages](https://github.com/saimanupadala/leetcode-problems-/tree/master/0825-friends-of-appropriate-ages) |
 | [0826-most-profit-assigning-work](https://github.com/saimanupadala/leetcode-problems-/tree/master/0826-most-profit-assigning-work) |
+| [0833-find-and-replace-in-string](https://github.com/saimanupadala/leetcode-problems-/tree/master/0833-find-and-replace-in-string) |
 ## Backtracking
 |  |
 | ------- |
