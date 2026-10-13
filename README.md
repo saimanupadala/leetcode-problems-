@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0821-shortest-distance-to-a-character](https://github.com/saimanupadala/leetcode-problems-/tree/master/0821-shortest-distance-to-a-character) |
 | [0825-friends-of-appropriate-ages](https://github.com/saimanupadala/leetcode-problems-/tree/master/0825-friends-of-appropriate-ages) |
 | [0826-most-profit-assigning-work](https://github.com/saimanupadala/leetcode-problems-/tree/master/0826-most-profit-assigning-work) |
+| [0832-flipping-an-image](https://github.com/saimanupadala/leetcode-problems-/tree/master/0832-flipping-an-image) |
 ## String
 |  |
 | ------- |
@@ -552,6 +553,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0784-letter-case-permutation](https://github.com/saimanupadala/leetcode-problems-/tree/master/0784-letter-case-permutation) |
 | [0805-split-array-with-same-average](https://github.com/saimanupadala/leetcode-problems-/tree/master/0805-split-array-with-same-average) |
 | [0810-chalkboard-xor-game](https://github.com/saimanupadala/leetcode-problems-/tree/master/0810-chalkboard-xor-game) |
+| [0832-flipping-an-image](https://github.com/saimanupadala/leetcode-problems-/tree/master/0832-flipping-an-image) |
 ## Recursion
 |  |
 | ------- |
@@ -1013,6 +1015,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0825-friends-of-appropriate-ages](https://github.com/saimanupadala/leetcode-problems-/tree/master/0825-friends-of-appropriate-ages) |
 | [0826-most-profit-assigning-work](https://github.com/saimanupadala/leetcode-problems-/tree/master/0826-most-profit-assigning-work) |
 | [0827-making-a-large-island](https://github.com/saimanupadala/leetcode-problems-/tree/master/0827-making-a-large-island) |
+| [0832-flipping-an-image](https://github.com/saimanupadala/leetcode-problems-/tree/master/0832-flipping-an-image) |
 ## Greedy
 |  |
 | ------- |
@@ -1505,6 +1508,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0803-bricks-falling-when-hit](https://github.com/saimanupadala/leetcode-problems-/tree/master/0803-bricks-falling-when-hit) |
 | [0807-max-increase-to-keep-city-skyline](https://github.com/saimanupadala/leetcode-problems-/tree/master/0807-max-increase-to-keep-city-skyline) |
 | [0827-making-a-large-island](https://github.com/saimanupadala/leetcode-problems-/tree/master/0827-making-a-large-island) |
+| [0832-flipping-an-image](https://github.com/saimanupadala/leetcode-problems-/tree/master/0832-flipping-an-image) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -1544,6 +1548,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/saimanupadala/leetcode-problems-/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/saimanupadala/leetcode-problems-/tree/master/0735-asteroid-collision) |
 | [0749-contain-virus](https://github.com/saimanupadala/leetcode-problems-/tree/master/0749-contain-virus) |
+| [0832-flipping-an-image](https://github.com/saimanupadala/leetcode-problems-/tree/master/0832-flipping-an-image) |
 ## Combinatorics
 |  |
 | ------- |
