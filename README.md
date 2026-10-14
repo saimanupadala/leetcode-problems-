@@ -375,6 +375,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0823-binary-trees-with-factors](https://github.com/saimanupadala/leetcode-problems-/tree/master/0823-binary-trees-with-factors) |
 | [0828-count-unique-characters-of-all-substrings-of-a-given-string](https://github.com/saimanupadala/leetcode-problems-/tree/master/0828-count-unique-characters-of-all-substrings-of-a-given-string) |
 | [0834-sum-of-distances-in-tree](https://github.com/saimanupadala/leetcode-problems-/tree/master/0834-sum-of-distances-in-tree) |
+| [0837-new-21-game](https://github.com/saimanupadala/leetcode-problems-/tree/master/0837-new-21-game) |
 ## Math
 |  |
 | ------- |
@@ -500,6 +501,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0812-largest-triangle-area](https://github.com/saimanupadala/leetcode-problems-/tree/master/0812-largest-triangle-area) |
 | [0829-consecutive-numbers-sum](https://github.com/saimanupadala/leetcode-problems-/tree/master/0829-consecutive-numbers-sum) |
 | [0836-rectangle-overlap](https://github.com/saimanupadala/leetcode-problems-/tree/master/0836-rectangle-overlap) |
+| [0837-new-21-game](https://github.com/saimanupadala/leetcode-problems-/tree/master/0837-new-21-game) |
 ## String Matching
 |  |
 | ------- |
@@ -1405,6 +1407,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/saimanupadala/leetcode-problems-/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [0713-subarray-product-less-than-k](https://github.com/saimanupadala/leetcode-problems-/tree/master/0713-subarray-product-less-than-k) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/saimanupadala/leetcode-problems-/tree/master/0718-maximum-length-of-repeated-subarray) |
+| [0837-new-21-game](https://github.com/saimanupadala/leetcode-problems-/tree/master/0837-new-21-game) |
 ## Binary Search
 |  |
 | ------- |
@@ -2503,6 +2506,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0470-implement-rand10-using-rand7](https://github.com/saimanupadala/leetcode-problems-/tree/master/0470-implement-rand10-using-rand7) |
 | [0808-soup-servings](https://github.com/saimanupadala/leetcode-problems-/tree/master/0808-soup-servings) |
+| [0837-new-21-game](https://github.com/saimanupadala/leetcode-problems-/tree/master/0837-new-21-game) |
 ## Zero-Sum Game
 |  |
 | ------- |
