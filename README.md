@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0825-friends-of-appropriate-ages](https://github.com/saimanupadala/leetcode-problems-/tree/master/0825-friends-of-appropriate-ages) |
 | [0826-most-profit-assigning-work](https://github.com/saimanupadala/leetcode-problems-/tree/master/0826-most-profit-assigning-work) |
 | [0832-flipping-an-image](https://github.com/saimanupadala/leetcode-problems-/tree/master/0832-flipping-an-image) |
+| [0838-push-dominoes](https://github.com/saimanupadala/leetcode-problems-/tree/master/0838-push-dominoes) |
 ## String
 |  |
 | ------- |
@@ -249,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0830-positions-of-large-groups](https://github.com/saimanupadala/leetcode-problems-/tree/master/0830-positions-of-large-groups) |
 | [0831-masking-personal-information](https://github.com/saimanupadala/leetcode-problems-/tree/master/0831-masking-personal-information) |
 | [0833-find-and-replace-in-string](https://github.com/saimanupadala/leetcode-problems-/tree/master/0833-find-and-replace-in-string) |
+| [0838-push-dominoes](https://github.com/saimanupadala/leetcode-problems-/tree/master/0838-push-dominoes) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -376,6 +378,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0828-count-unique-characters-of-all-substrings-of-a-given-string](https://github.com/saimanupadala/leetcode-problems-/tree/master/0828-count-unique-characters-of-all-substrings-of-a-given-string) |
 | [0834-sum-of-distances-in-tree](https://github.com/saimanupadala/leetcode-problems-/tree/master/0834-sum-of-distances-in-tree) |
 | [0837-new-21-game](https://github.com/saimanupadala/leetcode-problems-/tree/master/0837-new-21-game) |
+| [0838-push-dominoes](https://github.com/saimanupadala/leetcode-problems-/tree/master/0838-push-dominoes) |
 ## Math
 |  |
 | ------- |
