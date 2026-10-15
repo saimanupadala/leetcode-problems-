@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0826-most-profit-assigning-work](https://github.com/saimanupadala/leetcode-problems-/tree/master/0826-most-profit-assigning-work) |
 | [0832-flipping-an-image](https://github.com/saimanupadala/leetcode-problems-/tree/master/0832-flipping-an-image) |
 | [0838-push-dominoes](https://github.com/saimanupadala/leetcode-problems-/tree/master/0838-push-dominoes) |
+| [0844-backspace-string-compare](https://github.com/saimanupadala/leetcode-problems-/tree/master/0844-backspace-string-compare) |
 ## String
 |  |
 | ------- |
@@ -253,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0838-push-dominoes](https://github.com/saimanupadala/leetcode-problems-/tree/master/0838-push-dominoes) |
 | [0839-similar-string-groups](https://github.com/saimanupadala/leetcode-problems-/tree/master/0839-similar-string-groups) |
 | [0842-split-array-into-fibonacci-sequence](https://github.com/saimanupadala/leetcode-problems-/tree/master/0842-split-array-into-fibonacci-sequence) |
+| [0844-backspace-string-compare](https://github.com/saimanupadala/leetcode-problems-/tree/master/0844-backspace-string-compare) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -1326,6 +1328,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0768-max-chunks-to-make-sorted-ii](https://github.com/saimanupadala/leetcode-problems-/tree/master/0768-max-chunks-to-make-sorted-ii) |
 | [0769-max-chunks-to-make-sorted](https://github.com/saimanupadala/leetcode-problems-/tree/master/0769-max-chunks-to-make-sorted) |
 | [0770-basic-calculator-iv](https://github.com/saimanupadala/leetcode-problems-/tree/master/0770-basic-calculator-iv) |
+| [0844-backspace-string-compare](https://github.com/saimanupadala/leetcode-problems-/tree/master/0844-backspace-string-compare) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -1572,6 +1575,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/saimanupadala/leetcode-problems-/tree/master/0735-asteroid-collision) |
 | [0749-contain-virus](https://github.com/saimanupadala/leetcode-problems-/tree/master/0749-contain-virus) |
 | [0832-flipping-an-image](https://github.com/saimanupadala/leetcode-problems-/tree/master/0832-flipping-an-image) |
+| [0844-backspace-string-compare](https://github.com/saimanupadala/leetcode-problems-/tree/master/0844-backspace-string-compare) |
 ## Combinatorics
 |  |
 | ------- |
