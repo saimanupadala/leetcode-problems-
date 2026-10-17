@@ -256,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0839-similar-string-groups](https://github.com/saimanupadala/leetcode-problems-/tree/master/0839-similar-string-groups) |
 | [0842-split-array-into-fibonacci-sequence](https://github.com/saimanupadala/leetcode-problems-/tree/master/0842-split-array-into-fibonacci-sequence) |
 | [0844-backspace-string-compare](https://github.com/saimanupadala/leetcode-problems-/tree/master/0844-backspace-string-compare) |
+| [0848-shifting-letters](https://github.com/saimanupadala/leetcode-problems-/tree/master/0848-shifting-letters) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -1043,6 +1044,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0840-magic-squares-in-grid](https://github.com/saimanupadala/leetcode-problems-/tree/master/0840-magic-squares-in-grid) |
 | [0845-longest-mountain-in-array](https://github.com/saimanupadala/leetcode-problems-/tree/master/0845-longest-mountain-in-array) |
 | [0846-hand-of-straights](https://github.com/saimanupadala/leetcode-problems-/tree/master/0846-hand-of-straights) |
+| [0848-shifting-letters](https://github.com/saimanupadala/leetcode-problems-/tree/master/0848-shifting-letters) |
 ## Greedy
 |  |
 | ------- |
@@ -2266,6 +2268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0732-my-calendar-iii](https://github.com/saimanupadala/leetcode-problems-/tree/master/0732-my-calendar-iii) |
 | [0798-smallest-rotation-with-highest-score](https://github.com/saimanupadala/leetcode-problems-/tree/master/0798-smallest-rotation-with-highest-score) |
 | [0813-largest-sum-of-averages](https://github.com/saimanupadala/leetcode-problems-/tree/master/0813-largest-sum-of-averages) |
+| [0848-shifting-letters](https://github.com/saimanupadala/leetcode-problems-/tree/master/0848-shifting-letters) |
 ## Manacher
 |  |
 | ------- |
