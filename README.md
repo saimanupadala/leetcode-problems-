@@ -727,6 +727,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0833-find-and-replace-in-string](https://github.com/saimanupadala/leetcode-problems-/tree/master/0833-find-and-replace-in-string) |
 | [0839-similar-string-groups](https://github.com/saimanupadala/leetcode-problems-/tree/master/0839-similar-string-groups) |
 | [0840-magic-squares-in-grid](https://github.com/saimanupadala/leetcode-problems-/tree/master/0840-magic-squares-in-grid) |
+| [0846-hand-of-straights](https://github.com/saimanupadala/leetcode-problems-/tree/master/0846-hand-of-straights) |
 ## Array
 |  |
 | ------- |
@@ -1039,6 +1040,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0839-similar-string-groups](https://github.com/saimanupadala/leetcode-problems-/tree/master/0839-similar-string-groups) |
 | [0840-magic-squares-in-grid](https://github.com/saimanupadala/leetcode-problems-/tree/master/0840-magic-squares-in-grid) |
 | [0845-longest-mountain-in-array](https://github.com/saimanupadala/leetcode-problems-/tree/master/0845-longest-mountain-in-array) |
+| [0846-hand-of-straights](https://github.com/saimanupadala/leetcode-problems-/tree/master/0846-hand-of-straights) |
 ## Greedy
 |  |
 | ------- |
@@ -1091,6 +1093,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0781-rabbits-in-forest](https://github.com/saimanupadala/leetcode-problems-/tree/master/0781-rabbits-in-forest) |
 | [0807-max-increase-to-keep-city-skyline](https://github.com/saimanupadala/leetcode-problems-/tree/master/0807-max-increase-to-keep-city-skyline) |
 | [0826-most-profit-assigning-work](https://github.com/saimanupadala/leetcode-problems-/tree/master/0826-most-profit-assigning-work) |
+| [0846-hand-of-straights](https://github.com/saimanupadala/leetcode-problems-/tree/master/0846-hand-of-straights) |
 ## Trie
 |  |
 | ------- |
@@ -1193,6 +1196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0825-friends-of-appropriate-ages](https://github.com/saimanupadala/leetcode-problems-/tree/master/0825-friends-of-appropriate-ages) |
 | [0826-most-profit-assigning-work](https://github.com/saimanupadala/leetcode-problems-/tree/master/0826-most-profit-assigning-work) |
 | [0833-find-and-replace-in-string](https://github.com/saimanupadala/leetcode-problems-/tree/master/0833-find-and-replace-in-string) |
+| [0846-hand-of-straights](https://github.com/saimanupadala/leetcode-problems-/tree/master/0846-hand-of-straights) |
 ## Backtracking
 |  |
 | ------- |
