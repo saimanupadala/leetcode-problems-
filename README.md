@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0832-flipping-an-image](https://github.com/saimanupadala/leetcode-problems-/tree/master/0832-flipping-an-image) |
 | [0838-push-dominoes](https://github.com/saimanupadala/leetcode-problems-/tree/master/0838-push-dominoes) |
 | [0844-backspace-string-compare](https://github.com/saimanupadala/leetcode-problems-/tree/master/0844-backspace-string-compare) |
+| [0845-longest-mountain-in-array](https://github.com/saimanupadala/leetcode-problems-/tree/master/0845-longest-mountain-in-array) |
 ## String
 |  |
 | ------- |
@@ -383,6 +384,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0834-sum-of-distances-in-tree](https://github.com/saimanupadala/leetcode-problems-/tree/master/0834-sum-of-distances-in-tree) |
 | [0837-new-21-game](https://github.com/saimanupadala/leetcode-problems-/tree/master/0837-new-21-game) |
 | [0838-push-dominoes](https://github.com/saimanupadala/leetcode-problems-/tree/master/0838-push-dominoes) |
+| [0845-longest-mountain-in-array](https://github.com/saimanupadala/leetcode-problems-/tree/master/0845-longest-mountain-in-array) |
 ## Math
 |  |
 | ------- |
@@ -1036,6 +1038,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0835-image-overlap](https://github.com/saimanupadala/leetcode-problems-/tree/master/0835-image-overlap) |
 | [0839-similar-string-groups](https://github.com/saimanupadala/leetcode-problems-/tree/master/0839-similar-string-groups) |
 | [0840-magic-squares-in-grid](https://github.com/saimanupadala/leetcode-problems-/tree/master/0840-magic-squares-in-grid) |
+| [0845-longest-mountain-in-array](https://github.com/saimanupadala/leetcode-problems-/tree/master/0845-longest-mountain-in-array) |
 ## Greedy
 |  |
 | ------- |
@@ -2201,6 +2204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0479-largest-palindrome-product](https://github.com/saimanupadala/leetcode-problems-/tree/master/0479-largest-palindrome-product) |
 | [0816-ambiguous-coordinates](https://github.com/saimanupadala/leetcode-problems-/tree/master/0816-ambiguous-coordinates) |
 | [0829-consecutive-numbers-sum](https://github.com/saimanupadala/leetcode-problems-/tree/master/0829-consecutive-numbers-sum) |
+| [0845-longest-mountain-in-array](https://github.com/saimanupadala/leetcode-problems-/tree/master/0845-longest-mountain-in-array) |
 ## Number Theory
 |  |
 | ------- |
