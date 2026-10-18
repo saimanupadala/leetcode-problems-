@@ -1045,6 +1045,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0845-longest-mountain-in-array](https://github.com/saimanupadala/leetcode-problems-/tree/master/0845-longest-mountain-in-array) |
 | [0846-hand-of-straights](https://github.com/saimanupadala/leetcode-problems-/tree/master/0846-hand-of-straights) |
 | [0848-shifting-letters](https://github.com/saimanupadala/leetcode-problems-/tree/master/0848-shifting-letters) |
+| [0849-maximize-distance-to-closest-person](https://github.com/saimanupadala/leetcode-problems-/tree/master/0849-maximize-distance-to-closest-person) |
 ## Greedy
 |  |
 | ------- |
