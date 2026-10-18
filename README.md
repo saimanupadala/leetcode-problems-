@@ -1048,6 +1048,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0849-maximize-distance-to-closest-person](https://github.com/saimanupadala/leetcode-problems-/tree/master/0849-maximize-distance-to-closest-person) |
 | [0850-rectangle-area-ii](https://github.com/saimanupadala/leetcode-problems-/tree/master/0850-rectangle-area-ii) |
 | [0851-loud-and-rich](https://github.com/saimanupadala/leetcode-problems-/tree/master/0851-loud-and-rich) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/saimanupadala/leetcode-problems-/tree/master/0852-peak-index-in-a-mountain-array) |
 ## Greedy
 |  |
 | ------- |
@@ -1499,6 +1500,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0793-preimage-size-of-factorial-zeroes-function](https://github.com/saimanupadala/leetcode-problems-/tree/master/0793-preimage-size-of-factorial-zeroes-function) |
 | [0825-friends-of-appropriate-ages](https://github.com/saimanupadala/leetcode-problems-/tree/master/0825-friends-of-appropriate-ages) |
 | [0826-most-profit-assigning-work](https://github.com/saimanupadala/leetcode-problems-/tree/master/0826-most-profit-assigning-work) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/saimanupadala/leetcode-problems-/tree/master/0852-peak-index-in-a-mountain-array) |
 ## Matrix
 |  |
 | ------- |
@@ -2621,4 +2623,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0805-split-array-with-same-average](https://github.com/saimanupadala/leetcode-problems-/tree/master/0805-split-array-with-same-average) |
+## Ternary Search
+|  |
+| ------- |
+| [0852-peak-index-in-a-mountain-array](https://github.com/saimanupadala/leetcode-problems-/tree/master/0852-peak-index-in-a-mountain-array) |
 <!---LeetCode Topics End-->
