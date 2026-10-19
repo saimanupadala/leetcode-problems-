@@ -1410,6 +1410,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0778-swim-in-rising-water](https://github.com/saimanupadala/leetcode-problems-/tree/master/0778-swim-in-rising-water) |
 | [0786-k-th-smallest-prime-fraction](https://github.com/saimanupadala/leetcode-problems-/tree/master/0786-k-th-smallest-prime-fraction) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/saimanupadala/leetcode-problems-/tree/master/0787-cheapest-flights-within-k-stops) |
+| [0855-exam-room](https://github.com/saimanupadala/leetcode-problems-/tree/master/0855-exam-room) |
 ## Merge Sort
 |  |
 | ------- |
@@ -2079,6 +2080,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0731-my-calendar-ii](https://github.com/saimanupadala/leetcode-problems-/tree/master/0731-my-calendar-ii) |
 | [0732-my-calendar-iii](https://github.com/saimanupadala/leetcode-problems-/tree/master/0732-my-calendar-iii) |
 | [0745-prefix-and-suffix-search](https://github.com/saimanupadala/leetcode-problems-/tree/master/0745-prefix-and-suffix-search) |
+| [0855-exam-room](https://github.com/saimanupadala/leetcode-problems-/tree/master/0855-exam-room) |
 ## Doubly-Linked List
 |  |
 | ------- |
@@ -2345,6 +2347,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0731-my-calendar-ii](https://github.com/saimanupadala/leetcode-problems-/tree/master/0731-my-calendar-ii) |
 | [0732-my-calendar-iii](https://github.com/saimanupadala/leetcode-problems-/tree/master/0732-my-calendar-iii) |
 | [0850-rectangle-area-ii](https://github.com/saimanupadala/leetcode-problems-/tree/master/0850-rectangle-area-ii) |
+| [0855-exam-room](https://github.com/saimanupadala/leetcode-problems-/tree/master/0855-exam-room) |
 ## Queue
 |  |
 | ------- |
