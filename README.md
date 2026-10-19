@@ -1049,6 +1049,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0850-rectangle-area-ii](https://github.com/saimanupadala/leetcode-problems-/tree/master/0850-rectangle-area-ii) |
 | [0851-loud-and-rich](https://github.com/saimanupadala/leetcode-problems-/tree/master/0851-loud-and-rich) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/saimanupadala/leetcode-problems-/tree/master/0852-peak-index-in-a-mountain-array) |
+| [0853-car-fleet](https://github.com/saimanupadala/leetcode-problems-/tree/master/0853-car-fleet) |
 ## Greedy
 |  |
 | ------- |
@@ -1205,6 +1206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0826-most-profit-assigning-work](https://github.com/saimanupadala/leetcode-problems-/tree/master/0826-most-profit-assigning-work) |
 | [0833-find-and-replace-in-string](https://github.com/saimanupadala/leetcode-problems-/tree/master/0833-find-and-replace-in-string) |
 | [0846-hand-of-straights](https://github.com/saimanupadala/leetcode-problems-/tree/master/0846-hand-of-straights) |
+| [0853-car-fleet](https://github.com/saimanupadala/leetcode-problems-/tree/master/0853-car-fleet) |
 ## Backtracking
 |  |
 | ------- |
@@ -1344,6 +1346,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0769-max-chunks-to-make-sorted](https://github.com/saimanupadala/leetcode-problems-/tree/master/0769-max-chunks-to-make-sorted) |
 | [0770-basic-calculator-iv](https://github.com/saimanupadala/leetcode-problems-/tree/master/0770-basic-calculator-iv) |
 | [0844-backspace-string-compare](https://github.com/saimanupadala/leetcode-problems-/tree/master/0844-backspace-string-compare) |
+| [0853-car-fleet](https://github.com/saimanupadala/leetcode-problems-/tree/master/0853-car-fleet) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -1568,6 +1571,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/saimanupadala/leetcode-problems-/tree/master/0739-daily-temperatures) |
 | [0768-max-chunks-to-make-sorted-ii](https://github.com/saimanupadala/leetcode-problems-/tree/master/0768-max-chunks-to-make-sorted-ii) |
 | [0769-max-chunks-to-make-sorted](https://github.com/saimanupadala/leetcode-problems-/tree/master/0769-max-chunks-to-make-sorted) |
+| [0853-car-fleet](https://github.com/saimanupadala/leetcode-problems-/tree/master/0853-car-fleet) |
 ## Simulation
 |  |
 | ------- |
