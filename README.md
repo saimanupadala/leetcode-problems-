@@ -258,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0844-backspace-string-compare](https://github.com/saimanupadala/leetcode-problems-/tree/master/0844-backspace-string-compare) |
 | [0848-shifting-letters](https://github.com/saimanupadala/leetcode-problems-/tree/master/0848-shifting-letters) |
 | [0854-k-similar-strings](https://github.com/saimanupadala/leetcode-problems-/tree/master/0854-k-similar-strings) |
+| [0856-score-of-parentheses](https://github.com/saimanupadala/leetcode-problems-/tree/master/0856-score-of-parentheses) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -1349,6 +1350,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0770-basic-calculator-iv](https://github.com/saimanupadala/leetcode-problems-/tree/master/0770-basic-calculator-iv) |
 | [0844-backspace-string-compare](https://github.com/saimanupadala/leetcode-problems-/tree/master/0844-backspace-string-compare) |
 | [0853-car-fleet](https://github.com/saimanupadala/leetcode-problems-/tree/master/0853-car-fleet) |
+| [0856-score-of-parentheses](https://github.com/saimanupadala/leetcode-problems-/tree/master/0856-score-of-parentheses) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -2382,6 +2384,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0241-different-ways-to-add-parentheses](https://github.com/saimanupadala/leetcode-problems-/tree/master/0241-different-ways-to-add-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/saimanupadala/leetcode-problems-/tree/master/0678-valid-parenthesis-string) |
+| [0856-score-of-parentheses](https://github.com/saimanupadala/leetcode-problems-/tree/master/0856-score-of-parentheses) |
 ## Counting Sort
 |  |
 | ------- |
