@@ -516,6 +516,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0836-rectangle-overlap](https://github.com/saimanupadala/leetcode-problems-/tree/master/0836-rectangle-overlap) |
 | [0837-new-21-game](https://github.com/saimanupadala/leetcode-problems-/tree/master/0837-new-21-game) |
 | [0840-magic-squares-in-grid](https://github.com/saimanupadala/leetcode-problems-/tree/master/0840-magic-squares-in-grid) |
+| [0858-mirror-reflection](https://github.com/saimanupadala/leetcode-problems-/tree/master/0858-mirror-reflection) |
 ## String Matching
 |  |
 | ------- |
@@ -2106,6 +2107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0593-valid-square](https://github.com/saimanupadala/leetcode-problems-/tree/master/0593-valid-square) |
 | [0812-largest-triangle-area](https://github.com/saimanupadala/leetcode-problems-/tree/master/0812-largest-triangle-area) |
 | [0836-rectangle-overlap](https://github.com/saimanupadala/leetcode-problems-/tree/master/0836-rectangle-overlap) |
+| [0858-mirror-reflection](https://github.com/saimanupadala/leetcode-problems-/tree/master/0858-mirror-reflection) |
 ## Euclidean Algorithm
 |  |
 | ------- |
@@ -2120,6 +2122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0365-water-and-jug-problem](https://github.com/saimanupadala/leetcode-problems-/tree/master/0365-water-and-jug-problem) |
 | [0592-fraction-addition-and-subtraction](https://github.com/saimanupadala/leetcode-problems-/tree/master/0592-fraction-addition-and-subtraction) |
 | [0780-reaching-points](https://github.com/saimanupadala/leetcode-problems-/tree/master/0780-reaching-points) |
+| [0858-mirror-reflection](https://github.com/saimanupadala/leetcode-problems-/tree/master/0858-mirror-reflection) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -2242,6 +2245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0204-count-primes](https://github.com/saimanupadala/leetcode-problems-/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/saimanupadala/leetcode-problems-/tree/master/0258-add-digits) |
+| [0858-mirror-reflection](https://github.com/saimanupadala/leetcode-problems-/tree/master/0858-mirror-reflection) |
 ## Primality Test
 |  |
 | ------- |
@@ -2644,4 +2648,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0852-peak-index-in-a-mountain-array](https://github.com/saimanupadala/leetcode-problems-/tree/master/0852-peak-index-in-a-mountain-array) |
+## Least Common Multiple
+|  |
+| ------- |
+| [0858-mirror-reflection](https://github.com/saimanupadala/leetcode-problems-/tree/master/0858-mirror-reflection) |
 <!---LeetCode Topics End-->
