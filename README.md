@@ -259,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0848-shifting-letters](https://github.com/saimanupadala/leetcode-problems-/tree/master/0848-shifting-letters) |
 | [0854-k-similar-strings](https://github.com/saimanupadala/leetcode-problems-/tree/master/0854-k-similar-strings) |
 | [0856-score-of-parentheses](https://github.com/saimanupadala/leetcode-problems-/tree/master/0856-score-of-parentheses) |
+| [0859-buddy-strings](https://github.com/saimanupadala/leetcode-problems-/tree/master/0859-buddy-strings) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -735,6 +736,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0840-magic-squares-in-grid](https://github.com/saimanupadala/leetcode-problems-/tree/master/0840-magic-squares-in-grid) |
 | [0846-hand-of-straights](https://github.com/saimanupadala/leetcode-problems-/tree/master/0846-hand-of-straights) |
 | [0854-k-similar-strings](https://github.com/saimanupadala/leetcode-problems-/tree/master/0854-k-similar-strings) |
+| [0859-buddy-strings](https://github.com/saimanupadala/leetcode-problems-/tree/master/0859-buddy-strings) |
 ## Array
 |  |
 | ------- |
