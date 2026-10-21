@@ -1066,6 +1066,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0861-score-after-flipping-matrix](https://github.com/saimanupadala/leetcode-problems-/tree/master/0861-score-after-flipping-matrix) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/saimanupadala/leetcode-problems-/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [0864-shortest-path-to-get-all-keys](https://github.com/saimanupadala/leetcode-problems-/tree/master/0864-shortest-path-to-get-all-keys) |
+| [0867-transpose-matrix](https://github.com/saimanupadala/leetcode-problems-/tree/master/0867-transpose-matrix) |
 ## Greedy
 |  |
 | ------- |
@@ -1582,6 +1583,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0840-magic-squares-in-grid](https://github.com/saimanupadala/leetcode-problems-/tree/master/0840-magic-squares-in-grid) |
 | [0861-score-after-flipping-matrix](https://github.com/saimanupadala/leetcode-problems-/tree/master/0861-score-after-flipping-matrix) |
 | [0864-shortest-path-to-get-all-keys](https://github.com/saimanupadala/leetcode-problems-/tree/master/0864-shortest-path-to-get-all-keys) |
+| [0867-transpose-matrix](https://github.com/saimanupadala/leetcode-problems-/tree/master/0867-transpose-matrix) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -1624,6 +1626,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0749-contain-virus](https://github.com/saimanupadala/leetcode-problems-/tree/master/0749-contain-virus) |
 | [0832-flipping-an-image](https://github.com/saimanupadala/leetcode-problems-/tree/master/0832-flipping-an-image) |
 | [0844-backspace-string-compare](https://github.com/saimanupadala/leetcode-problems-/tree/master/0844-backspace-string-compare) |
+| [0867-transpose-matrix](https://github.com/saimanupadala/leetcode-problems-/tree/master/0867-transpose-matrix) |
 ## Combinatorics
 |  |
 | ------- |
