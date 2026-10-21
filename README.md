@@ -518,6 +518,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0837-new-21-game](https://github.com/saimanupadala/leetcode-problems-/tree/master/0837-new-21-game) |
 | [0840-magic-squares-in-grid](https://github.com/saimanupadala/leetcode-problems-/tree/master/0840-magic-squares-in-grid) |
 | [0858-mirror-reflection](https://github.com/saimanupadala/leetcode-problems-/tree/master/0858-mirror-reflection) |
+| [0866-prime-palindrome](https://github.com/saimanupadala/leetcode-problems-/tree/master/0866-prime-palindrome) |
 ## String Matching
 |  |
 | ------- |
@@ -2273,11 +2274,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/saimanupadala/leetcode-problems-/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/saimanupadala/leetcode-problems-/tree/master/0258-add-digits) |
 | [0858-mirror-reflection](https://github.com/saimanupadala/leetcode-problems-/tree/master/0858-mirror-reflection) |
+| [0866-prime-palindrome](https://github.com/saimanupadala/leetcode-problems-/tree/master/0866-prime-palindrome) |
 ## Primality Test
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/saimanupadala/leetcode-problems-/tree/master/0204-count-primes) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/saimanupadala/leetcode-problems-/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
+| [0866-prime-palindrome](https://github.com/saimanupadala/leetcode-problems-/tree/master/0866-prime-palindrome) |
 ## Sieve Theory
 |  |
 | ------- |
