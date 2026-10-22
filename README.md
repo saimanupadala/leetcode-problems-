@@ -391,6 +391,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0838-push-dominoes](https://github.com/saimanupadala/leetcode-problems-/tree/master/0838-push-dominoes) |
 | [0845-longest-mountain-in-array](https://github.com/saimanupadala/leetcode-problems-/tree/master/0845-longest-mountain-in-array) |
 | [0847-shortest-path-visiting-all-nodes](https://github.com/saimanupadala/leetcode-problems-/tree/master/0847-shortest-path-visiting-all-nodes) |
+| [0871-minimum-number-of-refueling-stops](https://github.com/saimanupadala/leetcode-problems-/tree/master/0871-minimum-number-of-refueling-stops) |
 ## Math
 |  |
 | ------- |
@@ -1072,6 +1073,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0864-shortest-path-to-get-all-keys](https://github.com/saimanupadala/leetcode-problems-/tree/master/0864-shortest-path-to-get-all-keys) |
 | [0867-transpose-matrix](https://github.com/saimanupadala/leetcode-problems-/tree/master/0867-transpose-matrix) |
 | [0870-advantage-shuffle](https://github.com/saimanupadala/leetcode-problems-/tree/master/0870-advantage-shuffle) |
+| [0871-minimum-number-of-refueling-stops](https://github.com/saimanupadala/leetcode-problems-/tree/master/0871-minimum-number-of-refueling-stops) |
 ## Greedy
 |  |
 | ------- |
@@ -1129,6 +1131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0860-lemonade-change](https://github.com/saimanupadala/leetcode-problems-/tree/master/0860-lemonade-change) |
 | [0861-score-after-flipping-matrix](https://github.com/saimanupadala/leetcode-problems-/tree/master/0861-score-after-flipping-matrix) |
 | [0870-advantage-shuffle](https://github.com/saimanupadala/leetcode-problems-/tree/master/0870-advantage-shuffle) |
+| [0871-minimum-number-of-refueling-stops](https://github.com/saimanupadala/leetcode-problems-/tree/master/0871-minimum-number-of-refueling-stops) |
 ## Trie
 |  |
 | ------- |
@@ -1441,6 +1444,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0855-exam-room](https://github.com/saimanupadala/leetcode-problems-/tree/master/0855-exam-room) |
 | [0857-minimum-cost-to-hire-k-workers](https://github.com/saimanupadala/leetcode-problems-/tree/master/0857-minimum-cost-to-hire-k-workers) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/saimanupadala/leetcode-problems-/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
+| [0871-minimum-number-of-refueling-stops](https://github.com/saimanupadala/leetcode-problems-/tree/master/0871-minimum-number-of-refueling-stops) |
 ## Merge Sort
 |  |
 | ------- |
