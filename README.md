@@ -579,6 +579,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0847-shortest-path-visiting-all-nodes](https://github.com/saimanupadala/leetcode-problems-/tree/master/0847-shortest-path-visiting-all-nodes) |
 | [0861-score-after-flipping-matrix](https://github.com/saimanupadala/leetcode-problems-/tree/master/0861-score-after-flipping-matrix) |
 | [0864-shortest-path-to-get-all-keys](https://github.com/saimanupadala/leetcode-problems-/tree/master/0864-shortest-path-to-get-all-keys) |
+| [0868-binary-gap](https://github.com/saimanupadala/leetcode-problems-/tree/master/0868-binary-gap) |
 ## Recursion
 |  |
 | ------- |
