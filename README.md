@@ -519,6 +519,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0840-magic-squares-in-grid](https://github.com/saimanupadala/leetcode-problems-/tree/master/0840-magic-squares-in-grid) |
 | [0858-mirror-reflection](https://github.com/saimanupadala/leetcode-problems-/tree/master/0858-mirror-reflection) |
 | [0866-prime-palindrome](https://github.com/saimanupadala/leetcode-problems-/tree/master/0866-prime-palindrome) |
+| [0869-reordered-power-of-2](https://github.com/saimanupadala/leetcode-problems-/tree/master/0869-reordered-power-of-2) |
 ## String Matching
 |  |
 | ------- |
@@ -743,6 +744,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0859-buddy-strings](https://github.com/saimanupadala/leetcode-problems-/tree/master/0859-buddy-strings) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/saimanupadala/leetcode-problems-/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/saimanupadala/leetcode-problems-/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
+| [0869-reordered-power-of-2](https://github.com/saimanupadala/leetcode-problems-/tree/master/0869-reordered-power-of-2) |
 ## Array
 |  |
 | ------- |
@@ -1229,6 +1231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0846-hand-of-straights](https://github.com/saimanupadala/leetcode-problems-/tree/master/0846-hand-of-straights) |
 | [0853-car-fleet](https://github.com/saimanupadala/leetcode-problems-/tree/master/0853-car-fleet) |
 | [0857-minimum-cost-to-hire-k-workers](https://github.com/saimanupadala/leetcode-problems-/tree/master/0857-minimum-cost-to-hire-k-workers) |
+| [0869-reordered-power-of-2](https://github.com/saimanupadala/leetcode-problems-/tree/master/0869-reordered-power-of-2) |
 ## Backtracking
 |  |
 | ------- |
@@ -2189,6 +2192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0767-reorganize-string](https://github.com/saimanupadala/leetcode-problems-/tree/master/0767-reorganize-string) |
 | [0811-subdomain-visit-count](https://github.com/saimanupadala/leetcode-problems-/tree/master/0811-subdomain-visit-count) |
 | [0819-most-common-word](https://github.com/saimanupadala/leetcode-problems-/tree/master/0819-most-common-word) |
+| [0869-reordered-power-of-2](https://github.com/saimanupadala/leetcode-problems-/tree/master/0869-reordered-power-of-2) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
@@ -2272,6 +2276,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0816-ambiguous-coordinates](https://github.com/saimanupadala/leetcode-problems-/tree/master/0816-ambiguous-coordinates) |
 | [0829-consecutive-numbers-sum](https://github.com/saimanupadala/leetcode-problems-/tree/master/0829-consecutive-numbers-sum) |
 | [0845-longest-mountain-in-array](https://github.com/saimanupadala/leetcode-problems-/tree/master/0845-longest-mountain-in-array) |
+| [0869-reordered-power-of-2](https://github.com/saimanupadala/leetcode-problems-/tree/master/0869-reordered-power-of-2) |
 ## Number Theory
 |  |
 | ------- |
