@@ -749,6 +749,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/saimanupadala/leetcode-problems-/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0869-reordered-power-of-2](https://github.com/saimanupadala/leetcode-problems-/tree/master/0869-reordered-power-of-2) |
 | [0873-length-of-longest-fibonacci-subsequence](https://github.com/saimanupadala/leetcode-problems-/tree/master/0873-length-of-longest-fibonacci-subsequence) |
+| [0874-walking-robot-simulation](https://github.com/saimanupadala/leetcode-problems-/tree/master/0874-walking-robot-simulation) |
 ## Array
 |  |
 | ------- |
@@ -1077,6 +1078,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0870-advantage-shuffle](https://github.com/saimanupadala/leetcode-problems-/tree/master/0870-advantage-shuffle) |
 | [0871-minimum-number-of-refueling-stops](https://github.com/saimanupadala/leetcode-problems-/tree/master/0871-minimum-number-of-refueling-stops) |
 | [0873-length-of-longest-fibonacci-subsequence](https://github.com/saimanupadala/leetcode-problems-/tree/master/0873-length-of-longest-fibonacci-subsequence) |
+| [0874-walking-robot-simulation](https://github.com/saimanupadala/leetcode-problems-/tree/master/0874-walking-robot-simulation) |
 ## Greedy
 |  |
 | ------- |
@@ -1642,6 +1644,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0832-flipping-an-image](https://github.com/saimanupadala/leetcode-problems-/tree/master/0832-flipping-an-image) |
 | [0844-backspace-string-compare](https://github.com/saimanupadala/leetcode-problems-/tree/master/0844-backspace-string-compare) |
 | [0867-transpose-matrix](https://github.com/saimanupadala/leetcode-problems-/tree/master/0867-transpose-matrix) |
+| [0874-walking-robot-simulation](https://github.com/saimanupadala/leetcode-problems-/tree/master/0874-walking-robot-simulation) |
 ## Combinatorics
 |  |
 | ------- |
