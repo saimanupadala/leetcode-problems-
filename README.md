@@ -1079,6 +1079,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0871-minimum-number-of-refueling-stops](https://github.com/saimanupadala/leetcode-problems-/tree/master/0871-minimum-number-of-refueling-stops) |
 | [0873-length-of-longest-fibonacci-subsequence](https://github.com/saimanupadala/leetcode-problems-/tree/master/0873-length-of-longest-fibonacci-subsequence) |
 | [0874-walking-robot-simulation](https://github.com/saimanupadala/leetcode-problems-/tree/master/0874-walking-robot-simulation) |
+| [0875-koko-eating-bananas](https://github.com/saimanupadala/leetcode-problems-/tree/master/0875-koko-eating-bananas) |
 ## Greedy
 |  |
 | ------- |
@@ -1548,6 +1549,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0826-most-profit-assigning-work](https://github.com/saimanupadala/leetcode-problems-/tree/master/0826-most-profit-assigning-work) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/saimanupadala/leetcode-problems-/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/saimanupadala/leetcode-problems-/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
+| [0875-koko-eating-bananas](https://github.com/saimanupadala/leetcode-problems-/tree/master/0875-koko-eating-bananas) |
 ## Matrix
 |  |
 | ------- |
