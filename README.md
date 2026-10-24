@@ -395,6 +395,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0871-minimum-number-of-refueling-stops](https://github.com/saimanupadala/leetcode-problems-/tree/master/0871-minimum-number-of-refueling-stops) |
 | [0873-length-of-longest-fibonacci-subsequence](https://github.com/saimanupadala/leetcode-problems-/tree/master/0873-length-of-longest-fibonacci-subsequence) |
 | [0877-stone-game](https://github.com/saimanupadala/leetcode-problems-/tree/master/0877-stone-game) |
+| [0879-profitable-schemes](https://github.com/saimanupadala/leetcode-problems-/tree/master/0879-profitable-schemes) |
 ## Math
 |  |
 | ------- |
@@ -1085,6 +1086,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0874-walking-robot-simulation](https://github.com/saimanupadala/leetcode-problems-/tree/master/0874-walking-robot-simulation) |
 | [0875-koko-eating-bananas](https://github.com/saimanupadala/leetcode-problems-/tree/master/0875-koko-eating-bananas) |
 | [0877-stone-game](https://github.com/saimanupadala/leetcode-problems-/tree/master/0877-stone-game) |
+| [0879-profitable-schemes](https://github.com/saimanupadala/leetcode-problems-/tree/master/0879-profitable-schemes) |
 ## Greedy
 |  |
 | ------- |
@@ -2483,6 +2485,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0494-target-sum](https://github.com/saimanupadala/leetcode-problems-/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/saimanupadala/leetcode-problems-/tree/master/0518-coin-change-ii) |
 | [0638-shopping-offers](https://github.com/saimanupadala/leetcode-problems-/tree/master/0638-shopping-offers) |
+| [0879-profitable-schemes](https://github.com/saimanupadala/leetcode-problems-/tree/master/0879-profitable-schemes) |
 ## Complete Knapsack
 |  |
 | ------- |
@@ -2624,6 +2627,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0416-partition-equal-subset-sum](https://github.com/saimanupadala/leetcode-problems-/tree/master/0416-partition-equal-subset-sum) |
 | [0474-ones-and-zeroes](https://github.com/saimanupadala/leetcode-problems-/tree/master/0474-ones-and-zeroes) |
 | [0494-target-sum](https://github.com/saimanupadala/leetcode-problems-/tree/master/0494-target-sum) |
+| [0879-profitable-schemes](https://github.com/saimanupadala/leetcode-problems-/tree/master/0879-profitable-schemes) |
 ## Quicksort
 |  |
 | ------- |
