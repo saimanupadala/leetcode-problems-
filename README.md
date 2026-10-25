@@ -262,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0854-k-similar-strings](https://github.com/saimanupadala/leetcode-problems-/tree/master/0854-k-similar-strings) |
 | [0856-score-of-parentheses](https://github.com/saimanupadala/leetcode-problems-/tree/master/0856-score-of-parentheses) |
 | [0859-buddy-strings](https://github.com/saimanupadala/leetcode-problems-/tree/master/0859-buddy-strings) |
+| [0880-decoded-string-at-index](https://github.com/saimanupadala/leetcode-problems-/tree/master/0880-decoded-string-at-index) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -1394,6 +1395,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0844-backspace-string-compare](https://github.com/saimanupadala/leetcode-problems-/tree/master/0844-backspace-string-compare) |
 | [0853-car-fleet](https://github.com/saimanupadala/leetcode-problems-/tree/master/0853-car-fleet) |
 | [0856-score-of-parentheses](https://github.com/saimanupadala/leetcode-problems-/tree/master/0856-score-of-parentheses) |
+| [0880-decoded-string-at-index](https://github.com/saimanupadala/leetcode-problems-/tree/master/0880-decoded-string-at-index) |
 ## Divide and Conquer
 |  |
 | ------- |
