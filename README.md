@@ -1090,6 +1090,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/saimanupadala/leetcode-problems-/tree/master/0877-stone-game) |
 | [0879-profitable-schemes](https://github.com/saimanupadala/leetcode-problems-/tree/master/0879-profitable-schemes) |
 | [0881-boats-to-save-people](https://github.com/saimanupadala/leetcode-problems-/tree/master/0881-boats-to-save-people) |
+| [0896-monotonic-array](https://github.com/saimanupadala/leetcode-problems-/tree/master/0896-monotonic-array) |
 ## Greedy
 |  |
 | ------- |
