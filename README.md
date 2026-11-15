@@ -264,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0856-score-of-parentheses](https://github.com/saimanupadala/leetcode-problems-/tree/master/0856-score-of-parentheses) |
 | [0859-buddy-strings](https://github.com/saimanupadala/leetcode-problems-/tree/master/0859-buddy-strings) |
 | [0880-decoded-string-at-index](https://github.com/saimanupadala/leetcode-problems-/tree/master/0880-decoded-string-at-index) |
+| [0899-orderly-queue](https://github.com/saimanupadala/leetcode-problems-/tree/master/0899-orderly-queue) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -531,6 +532,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0869-reordered-power-of-2](https://github.com/saimanupadala/leetcode-problems-/tree/master/0869-reordered-power-of-2) |
 | [0877-stone-game](https://github.com/saimanupadala/leetcode-problems-/tree/master/0877-stone-game) |
 | [0878-nth-magical-number](https://github.com/saimanupadala/leetcode-problems-/tree/master/0878-nth-magical-number) |
+| [0899-orderly-queue](https://github.com/saimanupadala/leetcode-problems-/tree/master/0899-orderly-queue) |
 ## String Matching
 |  |
 | ------- |
@@ -1261,6 +1263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0869-reordered-power-of-2](https://github.com/saimanupadala/leetcode-problems-/tree/master/0869-reordered-power-of-2) |
 | [0870-advantage-shuffle](https://github.com/saimanupadala/leetcode-problems-/tree/master/0870-advantage-shuffle) |
 | [0881-boats-to-save-people](https://github.com/saimanupadala/leetcode-problems-/tree/master/0881-boats-to-save-people) |
+| [0899-orderly-queue](https://github.com/saimanupadala/leetcode-problems-/tree/master/0899-orderly-queue) |
 ## Backtracking
 |  |
 | ------- |
@@ -2753,4 +2756,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0881-boats-to-save-people](https://github.com/saimanupadala/leetcode-problems-/tree/master/0881-boats-to-save-people) |
+## Lexicographically Minimal String Rotation
+|  |
+| ------- |
+| [0899-orderly-queue](https://github.com/saimanupadala/leetcode-problems-/tree/master/0899-orderly-queue) |
 <!---LeetCode Topics End-->
