@@ -1401,6 +1401,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0853-car-fleet](https://github.com/saimanupadala/leetcode-problems-/tree/master/0853-car-fleet) |
 | [0856-score-of-parentheses](https://github.com/saimanupadala/leetcode-problems-/tree/master/0856-score-of-parentheses) |
 | [0880-decoded-string-at-index](https://github.com/saimanupadala/leetcode-problems-/tree/master/0880-decoded-string-at-index) |
+| [0897-increasing-order-search-tree](https://github.com/saimanupadala/leetcode-problems-/tree/master/0897-increasing-order-search-tree) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -1790,6 +1791,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/saimanupadala/leetcode-problems-/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/saimanupadala/leetcode-problems-/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0872-leaf-similar-trees](https://github.com/saimanupadala/leetcode-problems-/tree/master/0872-leaf-similar-trees) |
+| [0897-increasing-order-search-tree](https://github.com/saimanupadala/leetcode-problems-/tree/master/0897-increasing-order-search-tree) |
 ## Tree
 |  |
 | ------- |
@@ -1871,6 +1873,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/saimanupadala/leetcode-problems-/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/saimanupadala/leetcode-problems-/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0872-leaf-similar-trees](https://github.com/saimanupadala/leetcode-problems-/tree/master/0872-leaf-similar-trees) |
+| [0897-increasing-order-search-tree](https://github.com/saimanupadala/leetcode-problems-/tree/master/0897-increasing-order-search-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -1943,6 +1946,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/saimanupadala/leetcode-problems-/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/saimanupadala/leetcode-problems-/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0872-leaf-similar-trees](https://github.com/saimanupadala/leetcode-problems-/tree/master/0872-leaf-similar-trees) |
+| [0897-increasing-order-search-tree](https://github.com/saimanupadala/leetcode-problems-/tree/master/0897-increasing-order-search-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -1965,6 +1969,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0700-search-in-a-binary-search-tree](https://github.com/saimanupadala/leetcode-problems-/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/saimanupadala/leetcode-problems-/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/saimanupadala/leetcode-problems-/tree/master/0703-kth-largest-element-in-a-stream) |
+| [0897-increasing-order-search-tree](https://github.com/saimanupadala/leetcode-problems-/tree/master/0897-increasing-order-search-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
