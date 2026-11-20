@@ -1473,6 +1473,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0857-minimum-cost-to-hire-k-workers](https://github.com/saimanupadala/leetcode-problems-/tree/master/0857-minimum-cost-to-hire-k-workers) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/saimanupadala/leetcode-problems-/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [0871-minimum-number-of-refueling-stops](https://github.com/saimanupadala/leetcode-problems-/tree/master/0871-minimum-number-of-refueling-stops) |
+| [0882-reachable-nodes-in-subdivided-graph](https://github.com/saimanupadala/leetcode-problems-/tree/master/0882-reachable-nodes-in-subdivided-graph) |
 ## Merge Sort
 |  |
 | ------- |
@@ -2130,6 +2131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0841-keys-and-rooms](https://github.com/saimanupadala/leetcode-problems-/tree/master/0841-keys-and-rooms) |
 | [0847-shortest-path-visiting-all-nodes](https://github.com/saimanupadala/leetcode-problems-/tree/master/0847-shortest-path-visiting-all-nodes) |
 | [0851-loud-and-rich](https://github.com/saimanupadala/leetcode-problems-/tree/master/0851-loud-and-rich) |
+| [0882-reachable-nodes-in-subdivided-graph](https://github.com/saimanupadala/leetcode-problems-/tree/master/0882-reachable-nodes-in-subdivided-graph) |
 ## Brute-Force Search
 |  |
 | ------- |
@@ -2636,6 +2638,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0399-evaluate-division](https://github.com/saimanupadala/leetcode-problems-/tree/master/0399-evaluate-division) |
 | [0743-network-delay-time](https://github.com/saimanupadala/leetcode-problems-/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/saimanupadala/leetcode-problems-/tree/master/0787-cheapest-flights-within-k-stops) |
+| [0882-reachable-nodes-in-subdivided-graph](https://github.com/saimanupadala/leetcode-problems-/tree/master/0882-reachable-nodes-in-subdivided-graph) |
 ## Bellman–Ford Algorithm
 |  |
 | ------- |
@@ -2710,6 +2713,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0743-network-delay-time](https://github.com/saimanupadala/leetcode-problems-/tree/master/0743-network-delay-time) |
 | [0778-swim-in-rising-water](https://github.com/saimanupadala/leetcode-problems-/tree/master/0778-swim-in-rising-water) |
+| [0882-reachable-nodes-in-subdivided-graph](https://github.com/saimanupadala/leetcode-problems-/tree/master/0882-reachable-nodes-in-subdivided-graph) |
 ## Eulerian Graph
 |  |
 | ------- |
