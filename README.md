@@ -532,6 +532,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0869-reordered-power-of-2](https://github.com/saimanupadala/leetcode-problems-/tree/master/0869-reordered-power-of-2) |
 | [0877-stone-game](https://github.com/saimanupadala/leetcode-problems-/tree/master/0877-stone-game) |
 | [0878-nth-magical-number](https://github.com/saimanupadala/leetcode-problems-/tree/master/0878-nth-magical-number) |
+| [0883-projection-area-of-3d-shapes](https://github.com/saimanupadala/leetcode-problems-/tree/master/0883-projection-area-of-3d-shapes) |
 | [0899-orderly-queue](https://github.com/saimanupadala/leetcode-problems-/tree/master/0899-orderly-queue) |
 ## String Matching
 |  |
@@ -1094,6 +1095,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/saimanupadala/leetcode-problems-/tree/master/0877-stone-game) |
 | [0879-profitable-schemes](https://github.com/saimanupadala/leetcode-problems-/tree/master/0879-profitable-schemes) |
 | [0881-boats-to-save-people](https://github.com/saimanupadala/leetcode-problems-/tree/master/0881-boats-to-save-people) |
+| [0883-projection-area-of-3d-shapes](https://github.com/saimanupadala/leetcode-problems-/tree/master/0883-projection-area-of-3d-shapes) |
 | [0896-monotonic-array](https://github.com/saimanupadala/leetcode-problems-/tree/master/0896-monotonic-array) |
 | [0898-bitwise-ors-of-subarrays](https://github.com/saimanupadala/leetcode-problems-/tree/master/0898-bitwise-ors-of-subarrays) |
 ## Greedy
@@ -1627,6 +1629,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0861-score-after-flipping-matrix](https://github.com/saimanupadala/leetcode-problems-/tree/master/0861-score-after-flipping-matrix) |
 | [0864-shortest-path-to-get-all-keys](https://github.com/saimanupadala/leetcode-problems-/tree/master/0864-shortest-path-to-get-all-keys) |
 | [0867-transpose-matrix](https://github.com/saimanupadala/leetcode-problems-/tree/master/0867-transpose-matrix) |
+| [0883-projection-area-of-3d-shapes](https://github.com/saimanupadala/leetcode-problems-/tree/master/0883-projection-area-of-3d-shapes) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -2196,6 +2199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0812-largest-triangle-area](https://github.com/saimanupadala/leetcode-problems-/tree/master/0812-largest-triangle-area) |
 | [0836-rectangle-overlap](https://github.com/saimanupadala/leetcode-problems-/tree/master/0836-rectangle-overlap) |
 | [0858-mirror-reflection](https://github.com/saimanupadala/leetcode-problems-/tree/master/0858-mirror-reflection) |
+| [0883-projection-area-of-3d-shapes](https://github.com/saimanupadala/leetcode-problems-/tree/master/0883-projection-area-of-3d-shapes) |
 ## Euclidean Algorithm
 |  |
 | ------- |
