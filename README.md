@@ -1098,6 +1098,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0879-profitable-schemes](https://github.com/saimanupadala/leetcode-problems-/tree/master/0879-profitable-schemes) |
 | [0881-boats-to-save-people](https://github.com/saimanupadala/leetcode-problems-/tree/master/0881-boats-to-save-people) |
 | [0883-projection-area-of-3d-shapes](https://github.com/saimanupadala/leetcode-problems-/tree/master/0883-projection-area-of-3d-shapes) |
+| [0885-spiral-matrix-iii](https://github.com/saimanupadala/leetcode-problems-/tree/master/0885-spiral-matrix-iii) |
 | [0896-monotonic-array](https://github.com/saimanupadala/leetcode-problems-/tree/master/0896-monotonic-array) |
 | [0898-bitwise-ors-of-subarrays](https://github.com/saimanupadala/leetcode-problems-/tree/master/0898-bitwise-ors-of-subarrays) |
 ## Greedy
@@ -1632,6 +1633,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0864-shortest-path-to-get-all-keys](https://github.com/saimanupadala/leetcode-problems-/tree/master/0864-shortest-path-to-get-all-keys) |
 | [0867-transpose-matrix](https://github.com/saimanupadala/leetcode-problems-/tree/master/0867-transpose-matrix) |
 | [0883-projection-area-of-3d-shapes](https://github.com/saimanupadala/leetcode-problems-/tree/master/0883-projection-area-of-3d-shapes) |
+| [0885-spiral-matrix-iii](https://github.com/saimanupadala/leetcode-problems-/tree/master/0885-spiral-matrix-iii) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -1676,6 +1678,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0844-backspace-string-compare](https://github.com/saimanupadala/leetcode-problems-/tree/master/0844-backspace-string-compare) |
 | [0867-transpose-matrix](https://github.com/saimanupadala/leetcode-problems-/tree/master/0867-transpose-matrix) |
 | [0874-walking-robot-simulation](https://github.com/saimanupadala/leetcode-problems-/tree/master/0874-walking-robot-simulation) |
+| [0885-spiral-matrix-iii](https://github.com/saimanupadala/leetcode-problems-/tree/master/0885-spiral-matrix-iii) |
 ## Combinatorics
 |  |
 | ------- |
