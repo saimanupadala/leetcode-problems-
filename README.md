@@ -1807,6 +1807,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/saimanupadala/leetcode-problems-/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/saimanupadala/leetcode-problems-/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0872-leaf-similar-trees](https://github.com/saimanupadala/leetcode-problems-/tree/master/0872-leaf-similar-trees) |
+| [0886-possible-bipartition](https://github.com/saimanupadala/leetcode-problems-/tree/master/0886-possible-bipartition) |
 | [0897-increasing-order-search-tree](https://github.com/saimanupadala/leetcode-problems-/tree/master/0897-increasing-order-search-tree) |
 ## Tree
 |  |
@@ -2069,6 +2070,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/saimanupadala/leetcode-problems-/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0864-shortest-path-to-get-all-keys](https://github.com/saimanupadala/leetcode-problems-/tree/master/0864-shortest-path-to-get-all-keys) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/saimanupadala/leetcode-problems-/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
+| [0886-possible-bipartition](https://github.com/saimanupadala/leetcode-problems-/tree/master/0886-possible-bipartition) |
 ## DP on Trees
 |  |
 | ------- |
@@ -2115,6 +2117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0803-bricks-falling-when-hit](https://github.com/saimanupadala/leetcode-problems-/tree/master/0803-bricks-falling-when-hit) |
 | [0827-making-a-large-island](https://github.com/saimanupadala/leetcode-problems-/tree/master/0827-making-a-large-island) |
 | [0839-similar-string-groups](https://github.com/saimanupadala/leetcode-problems-/tree/master/0839-similar-string-groups) |
+| [0886-possible-bipartition](https://github.com/saimanupadala/leetcode-problems-/tree/master/0886-possible-bipartition) |
 ## Graph Theory
 |  |
 | ------- |
@@ -2140,6 +2143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0847-shortest-path-visiting-all-nodes](https://github.com/saimanupadala/leetcode-problems-/tree/master/0847-shortest-path-visiting-all-nodes) |
 | [0851-loud-and-rich](https://github.com/saimanupadala/leetcode-problems-/tree/master/0851-loud-and-rich) |
 | [0882-reachable-nodes-in-subdivided-graph](https://github.com/saimanupadala/leetcode-problems-/tree/master/0882-reachable-nodes-in-subdivided-graph) |
+| [0886-possible-bipartition](https://github.com/saimanupadala/leetcode-problems-/tree/master/0886-possible-bipartition) |
 ## Brute-Force Search
 |  |
 | ------- |
@@ -2742,10 +2746,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0785-is-graph-bipartite](https://github.com/saimanupadala/leetcode-problems-/tree/master/0785-is-graph-bipartite) |
+| [0886-possible-bipartition](https://github.com/saimanupadala/leetcode-problems-/tree/master/0886-possible-bipartition) |
 ## Bipartite Graph
 |  |
 | ------- |
 | [0785-is-graph-bipartite](https://github.com/saimanupadala/leetcode-problems-/tree/master/0785-is-graph-bipartite) |
+| [0886-possible-bipartition](https://github.com/saimanupadala/leetcode-problems-/tree/master/0886-possible-bipartition) |
 ## Kosaraju's Algorithm
 |  |
 | ------- |
