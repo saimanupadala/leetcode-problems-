@@ -766,6 +766,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0873-length-of-longest-fibonacci-subsequence](https://github.com/saimanupadala/leetcode-problems-/tree/master/0873-length-of-longest-fibonacci-subsequence) |
 | [0874-walking-robot-simulation](https://github.com/saimanupadala/leetcode-problems-/tree/master/0874-walking-robot-simulation) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/saimanupadala/leetcode-problems-/tree/master/0884-uncommon-words-from-two-sentences) |
+| [0888-fair-candy-swap](https://github.com/saimanupadala/leetcode-problems-/tree/master/0888-fair-candy-swap) |
 ## Array
 |  |
 | ------- |
@@ -1101,6 +1102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0881-boats-to-save-people](https://github.com/saimanupadala/leetcode-problems-/tree/master/0881-boats-to-save-people) |
 | [0883-projection-area-of-3d-shapes](https://github.com/saimanupadala/leetcode-problems-/tree/master/0883-projection-area-of-3d-shapes) |
 | [0885-spiral-matrix-iii](https://github.com/saimanupadala/leetcode-problems-/tree/master/0885-spiral-matrix-iii) |
+| [0888-fair-candy-swap](https://github.com/saimanupadala/leetcode-problems-/tree/master/0888-fair-candy-swap) |
 | [0896-monotonic-array](https://github.com/saimanupadala/leetcode-problems-/tree/master/0896-monotonic-array) |
 | [0898-bitwise-ors-of-subarrays](https://github.com/saimanupadala/leetcode-problems-/tree/master/0898-bitwise-ors-of-subarrays) |
 ## Greedy
@@ -1270,6 +1272,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0869-reordered-power-of-2](https://github.com/saimanupadala/leetcode-problems-/tree/master/0869-reordered-power-of-2) |
 | [0870-advantage-shuffle](https://github.com/saimanupadala/leetcode-problems-/tree/master/0870-advantage-shuffle) |
 | [0881-boats-to-save-people](https://github.com/saimanupadala/leetcode-problems-/tree/master/0881-boats-to-save-people) |
+| [0888-fair-candy-swap](https://github.com/saimanupadala/leetcode-problems-/tree/master/0888-fair-candy-swap) |
 | [0899-orderly-queue](https://github.com/saimanupadala/leetcode-problems-/tree/master/0899-orderly-queue) |
 ## Backtracking
 |  |
@@ -1582,6 +1585,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0875-koko-eating-bananas](https://github.com/saimanupadala/leetcode-problems-/tree/master/0875-koko-eating-bananas) |
 | [0878-nth-magical-number](https://github.com/saimanupadala/leetcode-problems-/tree/master/0878-nth-magical-number) |
 | [0887-super-egg-drop](https://github.com/saimanupadala/leetcode-problems-/tree/master/0887-super-egg-drop) |
+| [0888-fair-candy-swap](https://github.com/saimanupadala/leetcode-problems-/tree/master/0888-fair-candy-swap) |
 ## Matrix
 |  |
 | ------- |
