@@ -537,6 +537,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0878-nth-magical-number](https://github.com/saimanupadala/leetcode-problems-/tree/master/0878-nth-magical-number) |
 | [0883-projection-area-of-3d-shapes](https://github.com/saimanupadala/leetcode-problems-/tree/master/0883-projection-area-of-3d-shapes) |
 | [0887-super-egg-drop](https://github.com/saimanupadala/leetcode-problems-/tree/master/0887-super-egg-drop) |
+| [0892-surface-area-of-3d-shapes](https://github.com/saimanupadala/leetcode-problems-/tree/master/0892-surface-area-of-3d-shapes) |
 | [0899-orderly-queue](https://github.com/saimanupadala/leetcode-problems-/tree/master/0899-orderly-queue) |
 ## String Matching
 |  |
@@ -1108,6 +1109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0888-fair-candy-swap](https://github.com/saimanupadala/leetcode-problems-/tree/master/0888-fair-candy-swap) |
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/saimanupadala/leetcode-problems-/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0890-find-and-replace-pattern](https://github.com/saimanupadala/leetcode-problems-/tree/master/0890-find-and-replace-pattern) |
+| [0892-surface-area-of-3d-shapes](https://github.com/saimanupadala/leetcode-problems-/tree/master/0892-surface-area-of-3d-shapes) |
 | [0896-monotonic-array](https://github.com/saimanupadala/leetcode-problems-/tree/master/0896-monotonic-array) |
 | [0898-bitwise-ors-of-subarrays](https://github.com/saimanupadala/leetcode-problems-/tree/master/0898-bitwise-ors-of-subarrays) |
 ## Greedy
@@ -1647,6 +1649,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0867-transpose-matrix](https://github.com/saimanupadala/leetcode-problems-/tree/master/0867-transpose-matrix) |
 | [0883-projection-area-of-3d-shapes](https://github.com/saimanupadala/leetcode-problems-/tree/master/0883-projection-area-of-3d-shapes) |
 | [0885-spiral-matrix-iii](https://github.com/saimanupadala/leetcode-problems-/tree/master/0885-spiral-matrix-iii) |
+| [0892-surface-area-of-3d-shapes](https://github.com/saimanupadala/leetcode-problems-/tree/master/0892-surface-area-of-3d-shapes) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -2224,6 +2227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0836-rectangle-overlap](https://github.com/saimanupadala/leetcode-problems-/tree/master/0836-rectangle-overlap) |
 | [0858-mirror-reflection](https://github.com/saimanupadala/leetcode-problems-/tree/master/0858-mirror-reflection) |
 | [0883-projection-area-of-3d-shapes](https://github.com/saimanupadala/leetcode-problems-/tree/master/0883-projection-area-of-3d-shapes) |
+| [0892-surface-area-of-3d-shapes](https://github.com/saimanupadala/leetcode-problems-/tree/master/0892-surface-area-of-3d-shapes) |
 ## Euclidean Algorithm
 |  |
 | ------- |
