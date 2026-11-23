@@ -265,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0859-buddy-strings](https://github.com/saimanupadala/leetcode-problems-/tree/master/0859-buddy-strings) |
 | [0880-decoded-string-at-index](https://github.com/saimanupadala/leetcode-problems-/tree/master/0880-decoded-string-at-index) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/saimanupadala/leetcode-problems-/tree/master/0884-uncommon-words-from-two-sentences) |
+| [0890-find-and-replace-pattern](https://github.com/saimanupadala/leetcode-problems-/tree/master/0890-find-and-replace-pattern) |
 | [0899-orderly-queue](https://github.com/saimanupadala/leetcode-problems-/tree/master/0899-orderly-queue) |
 ## Dynamic Programming
 |  |
@@ -768,6 +769,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0884-uncommon-words-from-two-sentences](https://github.com/saimanupadala/leetcode-problems-/tree/master/0884-uncommon-words-from-two-sentences) |
 | [0888-fair-candy-swap](https://github.com/saimanupadala/leetcode-problems-/tree/master/0888-fair-candy-swap) |
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/saimanupadala/leetcode-problems-/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
+| [0890-find-and-replace-pattern](https://github.com/saimanupadala/leetcode-problems-/tree/master/0890-find-and-replace-pattern) |
 ## Array
 |  |
 | ------- |
@@ -1105,6 +1107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0885-spiral-matrix-iii](https://github.com/saimanupadala/leetcode-problems-/tree/master/0885-spiral-matrix-iii) |
 | [0888-fair-candy-swap](https://github.com/saimanupadala/leetcode-problems-/tree/master/0888-fair-candy-swap) |
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/saimanupadala/leetcode-problems-/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
+| [0890-find-and-replace-pattern](https://github.com/saimanupadala/leetcode-problems-/tree/master/0890-find-and-replace-pattern) |
 | [0896-monotonic-array](https://github.com/saimanupadala/leetcode-problems-/tree/master/0896-monotonic-array) |
 | [0898-bitwise-ors-of-subarrays](https://github.com/saimanupadala/leetcode-problems-/tree/master/0898-bitwise-ors-of-subarrays) |
 ## Greedy
