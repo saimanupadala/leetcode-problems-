@@ -400,6 +400,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0873-length-of-longest-fibonacci-subsequence](https://github.com/saimanupadala/leetcode-problems-/tree/master/0873-length-of-longest-fibonacci-subsequence) |
 | [0877-stone-game](https://github.com/saimanupadala/leetcode-problems-/tree/master/0877-stone-game) |
 | [0879-profitable-schemes](https://github.com/saimanupadala/leetcode-problems-/tree/master/0879-profitable-schemes) |
+| [0887-super-egg-drop](https://github.com/saimanupadala/leetcode-problems-/tree/master/0887-super-egg-drop) |
 | [0898-bitwise-ors-of-subarrays](https://github.com/saimanupadala/leetcode-problems-/tree/master/0898-bitwise-ors-of-subarrays) |
 ## Math
 |  |
@@ -534,6 +535,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/saimanupadala/leetcode-problems-/tree/master/0877-stone-game) |
 | [0878-nth-magical-number](https://github.com/saimanupadala/leetcode-problems-/tree/master/0878-nth-magical-number) |
 | [0883-projection-area-of-3d-shapes](https://github.com/saimanupadala/leetcode-problems-/tree/master/0883-projection-area-of-3d-shapes) |
+| [0887-super-egg-drop](https://github.com/saimanupadala/leetcode-problems-/tree/master/0887-super-egg-drop) |
 | [0899-orderly-queue](https://github.com/saimanupadala/leetcode-problems-/tree/master/0899-orderly-queue) |
 ## String Matching
 |  |
@@ -1579,6 +1581,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/saimanupadala/leetcode-problems-/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [0875-koko-eating-bananas](https://github.com/saimanupadala/leetcode-problems-/tree/master/0875-koko-eating-bananas) |
 | [0878-nth-magical-number](https://github.com/saimanupadala/leetcode-problems-/tree/master/0878-nth-magical-number) |
+| [0887-super-egg-drop](https://github.com/saimanupadala/leetcode-problems-/tree/master/0887-super-egg-drop) |
 ## Matrix
 |  |
 | ------- |
