@@ -775,6 +775,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/saimanupadala/leetcode-problems-/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0890-find-and-replace-pattern](https://github.com/saimanupadala/leetcode-problems-/tree/master/0890-find-and-replace-pattern) |
 | [0893-groups-of-special-equivalent-strings](https://github.com/saimanupadala/leetcode-problems-/tree/master/0893-groups-of-special-equivalent-strings) |
+| [0895-maximum-frequency-stack](https://github.com/saimanupadala/leetcode-problems-/tree/master/0895-maximum-frequency-stack) |
 ## Array
 |  |
 | ------- |
@@ -1430,6 +1431,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0853-car-fleet](https://github.com/saimanupadala/leetcode-problems-/tree/master/0853-car-fleet) |
 | [0856-score-of-parentheses](https://github.com/saimanupadala/leetcode-problems-/tree/master/0856-score-of-parentheses) |
 | [0880-decoded-string-at-index](https://github.com/saimanupadala/leetcode-problems-/tree/master/0880-decoded-string-at-index) |
+| [0895-maximum-frequency-stack](https://github.com/saimanupadala/leetcode-problems-/tree/master/0895-maximum-frequency-stack) |
 | [0897-increasing-order-search-tree](https://github.com/saimanupadala/leetcode-problems-/tree/master/0897-increasing-order-search-tree) |
 ## Divide and Conquer
 |  |
@@ -2215,6 +2217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0732-my-calendar-iii](https://github.com/saimanupadala/leetcode-problems-/tree/master/0732-my-calendar-iii) |
 | [0745-prefix-and-suffix-search](https://github.com/saimanupadala/leetcode-problems-/tree/master/0745-prefix-and-suffix-search) |
 | [0855-exam-room](https://github.com/saimanupadala/leetcode-problems-/tree/master/0855-exam-room) |
+| [0895-maximum-frequency-stack](https://github.com/saimanupadala/leetcode-problems-/tree/master/0895-maximum-frequency-stack) |
 ## Doubly-Linked List
 |  |
 | ------- |
@@ -2493,6 +2496,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0732-my-calendar-iii](https://github.com/saimanupadala/leetcode-problems-/tree/master/0732-my-calendar-iii) |
 | [0850-rectangle-area-ii](https://github.com/saimanupadala/leetcode-problems-/tree/master/0850-rectangle-area-ii) |
 | [0855-exam-room](https://github.com/saimanupadala/leetcode-problems-/tree/master/0855-exam-room) |
+| [0895-maximum-frequency-stack](https://github.com/saimanupadala/leetcode-problems-/tree/master/0895-maximum-frequency-stack) |
 ## Queue
 |  |
 | ------- |
