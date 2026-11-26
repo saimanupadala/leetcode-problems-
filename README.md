@@ -1118,6 +1118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0893-groups-of-special-equivalent-strings](https://github.com/saimanupadala/leetcode-problems-/tree/master/0893-groups-of-special-equivalent-strings) |
 | [0896-monotonic-array](https://github.com/saimanupadala/leetcode-problems-/tree/master/0896-monotonic-array) |
 | [0898-bitwise-ors-of-subarrays](https://github.com/saimanupadala/leetcode-problems-/tree/master/0898-bitwise-ors-of-subarrays) |
+| [0900-rle-iterator](https://github.com/saimanupadala/leetcode-problems-/tree/master/0900-rle-iterator) |
 ## Greedy
 |  |
 | ------- |
@@ -2218,6 +2219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0745-prefix-and-suffix-search](https://github.com/saimanupadala/leetcode-problems-/tree/master/0745-prefix-and-suffix-search) |
 | [0855-exam-room](https://github.com/saimanupadala/leetcode-problems-/tree/master/0855-exam-room) |
 | [0895-maximum-frequency-stack](https://github.com/saimanupadala/leetcode-problems-/tree/master/0895-maximum-frequency-stack) |
+| [0900-rle-iterator](https://github.com/saimanupadala/leetcode-problems-/tree/master/0900-rle-iterator) |
 ## Doubly-Linked List
 |  |
 | ------- |
@@ -2291,6 +2293,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0819-most-common-word](https://github.com/saimanupadala/leetcode-problems-/tree/master/0819-most-common-word) |
 | [0869-reordered-power-of-2](https://github.com/saimanupadala/leetcode-problems-/tree/master/0869-reordered-power-of-2) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/saimanupadala/leetcode-problems-/tree/master/0884-uncommon-words-from-two-sentences) |
+| [0900-rle-iterator](https://github.com/saimanupadala/leetcode-problems-/tree/master/0900-rle-iterator) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
@@ -2302,6 +2305,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0173-binary-search-tree-iterator](https://github.com/saimanupadala/leetcode-problems-/tree/master/0173-binary-search-tree-iterator) |
 | [0284-peeking-iterator](https://github.com/saimanupadala/leetcode-problems-/tree/master/0284-peeking-iterator) |
 | [0341-flatten-nested-list-iterator](https://github.com/saimanupadala/leetcode-problems-/tree/master/0341-flatten-nested-list-iterator) |
+| [0900-rle-iterator](https://github.com/saimanupadala/leetcode-problems-/tree/master/0900-rle-iterator) |
 ## Database
 |  |
 | ------- |
