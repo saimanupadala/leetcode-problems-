@@ -266,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0880-decoded-string-at-index](https://github.com/saimanupadala/leetcode-problems-/tree/master/0880-decoded-string-at-index) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/saimanupadala/leetcode-problems-/tree/master/0884-uncommon-words-from-two-sentences) |
 | [0890-find-and-replace-pattern](https://github.com/saimanupadala/leetcode-problems-/tree/master/0890-find-and-replace-pattern) |
+| [0893-groups-of-special-equivalent-strings](https://github.com/saimanupadala/leetcode-problems-/tree/master/0893-groups-of-special-equivalent-strings) |
 | [0899-orderly-queue](https://github.com/saimanupadala/leetcode-problems-/tree/master/0899-orderly-queue) |
 ## Dynamic Programming
 |  |
@@ -771,6 +772,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0888-fair-candy-swap](https://github.com/saimanupadala/leetcode-problems-/tree/master/0888-fair-candy-swap) |
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/saimanupadala/leetcode-problems-/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0890-find-and-replace-pattern](https://github.com/saimanupadala/leetcode-problems-/tree/master/0890-find-and-replace-pattern) |
+| [0893-groups-of-special-equivalent-strings](https://github.com/saimanupadala/leetcode-problems-/tree/master/0893-groups-of-special-equivalent-strings) |
 ## Array
 |  |
 | ------- |
@@ -1110,6 +1112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/saimanupadala/leetcode-problems-/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0890-find-and-replace-pattern](https://github.com/saimanupadala/leetcode-problems-/tree/master/0890-find-and-replace-pattern) |
 | [0892-surface-area-of-3d-shapes](https://github.com/saimanupadala/leetcode-problems-/tree/master/0892-surface-area-of-3d-shapes) |
+| [0893-groups-of-special-equivalent-strings](https://github.com/saimanupadala/leetcode-problems-/tree/master/0893-groups-of-special-equivalent-strings) |
 | [0896-monotonic-array](https://github.com/saimanupadala/leetcode-problems-/tree/master/0896-monotonic-array) |
 | [0898-bitwise-ors-of-subarrays](https://github.com/saimanupadala/leetcode-problems-/tree/master/0898-bitwise-ors-of-subarrays) |
 ## Greedy
@@ -1280,6 +1283,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0870-advantage-shuffle](https://github.com/saimanupadala/leetcode-problems-/tree/master/0870-advantage-shuffle) |
 | [0881-boats-to-save-people](https://github.com/saimanupadala/leetcode-problems-/tree/master/0881-boats-to-save-people) |
 | [0888-fair-candy-swap](https://github.com/saimanupadala/leetcode-problems-/tree/master/0888-fair-candy-swap) |
+| [0893-groups-of-special-equivalent-strings](https://github.com/saimanupadala/leetcode-problems-/tree/master/0893-groups-of-special-equivalent-strings) |
 | [0899-orderly-queue](https://github.com/saimanupadala/leetcode-problems-/tree/master/0899-orderly-queue) |
 ## Backtracking
 |  |
